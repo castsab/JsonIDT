@@ -1,0 +1,109 @@
+{
+    "1": [
+        {
+            "CODIGO": "7",
+            "CODIGO_ZONA": "1",
+            "NOMBRE": "Historia y Cultura",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
+            "DESCRIPCION": "Historia y Cultura",
+            "COD_CLASIFICACION": "3",
+            "TIENE_SUBTIPOLOGIA": "1"
+        },
+        {
+            "CODIGO": "16",
+            "CODIGO_ZONA": "1",
+            "NOMBRE": "Alojamiento",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "1"
+        },
+        {
+            "CODIGO": "41",
+            "CODIGO_ZONA": "1",
+            "NOMBRE": "PRUEBA",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
+            "DESCRIPCION": "ASDFASDFA",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "0"
+        }
+    ],
+    "2": [
+        {
+            "CODIGO": "16",
+            "CODIGO_ZONA": "2",
+            "NOMBRE": "Alojamiento",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "1"
+        }
+    ],
+    "4": [
+        {
+            "CODIGO": "1",
+            "CODIGO_ZONA": "4",
+            "NOMBRE": null,
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
+            "DESCRIPCION": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb cccfffffffffffffggggggggggggggggggggggggggggg gggggggggggggggegegeeefeffefefZ",
+            "COD_CLASIFICACION": "1",
+            "TIENE_SUBTIPOLOGIA": "1"
+        },
+        {
+            "CODIGO": "6",
+            "CODIGO_ZONA": "4",
+            "NOMBRE": "Top 10",
+            "IMAGEN": "",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "1",
+            "TIENE_SUBTIPOLOGIA": "0"
+        },
+        {
+            "CODIGO": "16",
+            "CODIGO_ZONA": "4",
+            "NOMBRE": "Alojamiento",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "1"
+        },
+        {
+            "CODIGO": "41",
+            "CODIGO_ZONA": "4",
+            "NOMBRE": "PRUEBA",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
+            "DESCRIPCION": "ASDFASDFA",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "0"
+        }
+    ],
+    "5": [
+        {
+            "CODIGO": "6",
+            "CODIGO_ZONA": "5",
+            "NOMBRE": "Top 10",
+            "IMAGEN": "",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "1",
+            "TIENE_SUBTIPOLOGIA": "0"
+        },
+        {
+            "CODIGO": "16",
+            "CODIGO_ZONA": "5",
+            "NOMBRE": "Alojamiento",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "4",
+            "TIENE_SUBTIPOLOGIA": "1"
+        },
+        {
+            "CODIGO": "25",
+            "CODIGO_ZONA": "5",
+            "NOMBRE": "Transporte",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
+            "DESCRIPCION": "",
+            "COD_CLASIFICACION": "5",
+            "TIENE_SUBTIPOLOGIA": "1"
+        }
+    ]
+}
