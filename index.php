@@ -276,7 +276,7 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
         
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = $img_prestador;
-        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/divisiondeariza/IDT_data/master/idt/imagenes/iconoTipologia1.png";
+        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/museo_01.png";
         
         $j++;
         
