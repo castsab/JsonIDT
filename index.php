@@ -284,8 +284,8 @@ while ($rw = mysqli_fetch_array($rs)) {
     //------------------------------------------------
     
     if($j != 0){
-        //$file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
-        //fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
+        $file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
+        fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
     }
     
     $i++;
