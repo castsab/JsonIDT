@@ -1,0 +1,30 @@
+{
+    "2": [
+        {
+            "CODIGO": "457",
+            "NOMBRE": "prueba",
+            "DESCRIPCION": "prueba2",
+            "DIRECCION": "prueba2",
+            "TELEFONO": "",
+            "CORREO": "prueba2@com.co",
+            "URL": "prueba2",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "prueba2",
+            "HORARIO": "prueba2",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
+        },
+        {
+            "CODIGO": "458",
+            "NOMBRE": "pruebaaaaaa",
+            "DESCRIPCION": "asdfasdfasdf",
+            "DIRECCION": "sdfsdf",
+            "TELEFONO": "",
+            "CORREO": "aaa@com.co",
+            "URL": "sdfsdf",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "2323",
+            "HORARIO": "222",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
+        }
+    ]
+}

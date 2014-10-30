@@ -1,0 +1,17 @@
+{
+    "56": [
+        {
+            "CODIGO": "443",
+            "NOMBRE": "101 PARK HOUSE",
+            "DESCRIPCION": "NA",
+            "DIRECCION": "KR 21 101 10",
+            "TELEFONO": "6000101",
+            "CORREO": "reservas@101parkhouse.com",
+            "URL": "www.101parkhouse.com",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
+        }
+    ]
+}
