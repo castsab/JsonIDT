@@ -1,10 +1,10 @@
 {
     "1": [
         {
-            "CODIGO": "5",
+            "CODIGO": "10",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "PRUEBA AHORA Y YA ",
-            "ICONO": "",
+            "NOMBRE": "PRUEBA AHORA Y YA",
+            "ICONO": null,
             "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102",
