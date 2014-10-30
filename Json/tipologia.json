@@ -1,6 +1,16 @@
 {
     "1": [
         {
+            "CODIGO": "5",
+            "COD_CLASIFICACION": "1",
+            "NOMBRE": "PRUEBA AHORA Y YA ",
+            "ICONO": "http://relaed.milaulas.com/pluginfile.php/2/course/section/1/info.png",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
+        },
+        {
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "¿Porque Bogotà?",
