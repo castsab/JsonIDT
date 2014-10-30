@@ -1,10 +1,20 @@
 {
     "1": [
         {
+            "CODIGO": "10",
+            "COD_CLASIFICACION": "1",
+            "NOMBRE": "PRUEBA AHORA Y YA",
+            "ICONO": null,
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
+        },
+        {
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "NOMBRE": "¿Porque Bogotà?",
+            "ICONO": "http://cdn.flaticon.com/png/256/2310.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#ac322e",
@@ -14,7 +24,7 @@
             "CODIGO": "2",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Primera Visita",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "ICONO": "http://cdn.flaticon.com/png/256/2310.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#ac322e",
@@ -24,7 +34,7 @@
             "CODIGO": "3",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Atracciones Gratuitas",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "ICONO": "http://cdn.flaticon.com/png/256/2310.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia3\/imgTipologia3.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#ac322e",
