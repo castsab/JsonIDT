@@ -52,11 +52,15 @@ while ($rw = mysqli_fetch_array($rs)) {
     
     while ($row = mysqli_fetch_array($rss)) {
         
-        $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia1.png");
+        $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
         $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
         
-        $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia1.png");
+        $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
         $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        
+        echo "<pre>";
+        echo "{ COLOR_FILA : '.$COLOR_FILA.' - COLOR_TRIANGULO : '.$COLOR_TRIANGULO.' }";
+        echo "</pre>";
         
         $a_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO'];
         $a_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];

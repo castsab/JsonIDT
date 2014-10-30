@@ -187,12 +187,36 @@ class Consultas extends Conexion {
      function getObtenerRgbImagen($rutaImagen)
      {
          
+        $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen);
+        $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
          
-         
-         $imagen = imagecreatefrompng($rutaImagen);
-         $rgb = imagecolorat($imagen, 119, 119);
-         
-         
+        
+        $imagen = imagecreatefrompng($rutaImagen);
+        
+        for($i=80;$i <= 180; $i++)
+        {
+            $rgb = '';
+            
+            $rgb = imagecolorat($imagen,$i,$i);
+            
+            $r = ($rgb >> 16) & 0xFF;
+            $g = ($rgb >> 8) & 0xFF;
+            $b = $rgb & 0xFF;
+            
+            $COLOR_ICONO = $this->getRgbConvertirAHexadecimal(array($r, $g, $b));
+            
+            /******************************/
+            if($COLOR_FONDO != $COLOR_ICONO)
+            {
+                $r = ($rgb >> 16) & 0xFF;
+                $g = ($rgb >> 8) & 0xFF;
+                $b = $rgb & 0xFF;
+
+                return array($r, $g, $b);
+            }
+            /******************************/
+            
+         }
          
          $r = ($rgb >> 16) & 0xFF;
          $g = ($rgb >> 8) & 0xFF;
