@@ -259,40 +259,6 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_telefono = explode(" ",$str_telefono[1]);
         $TELEFONO = $a_telefono[0];
         
-        /***********************************/
-        //Prueba
-        if($rw['CODIGO'] == 5){
-            
-            for($k=0; $k < 100; $k++)
-            {
-                echo 'count : '.$k.'<br>';
-                
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['CODIGO'] = $row['CODIGO_PRESTADOR'];
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_SUBTIPOLOGIA'] = $row['CODIGO_SUBTIPOLOGIA'];
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['NOMBRE_TIPOLOGIA'] = $row['NOMBRE_TIPOLOGIA'];
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO_PRESTADOR'];
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_ZONA'] = $row['COD_ZONA'];
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['NOMBRE'] = utf8_encode($row['NOMBRE']);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['DIRECCION'] = utf8_encode($row['DIRECCION']);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['TELEFONO'] = utf8_encode($TELEFONO);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['CORREO'] = $row['CORREO'];
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['URL'] = utf8_encode($row['URL']);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['UBICACION'] = $row['UBICACION'];
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['HORARIO'] = utf8_encode($row['HORARIO']);
-
-                //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = $img_prestador;
-                $a_prestadores_subtipologias[$rw['CODIGO']][$k]['IMAGEN'] = "https://raw.githubusercontent.com/divisiondeariza/IDT_data/master/idt/imagenes/iconoTipologia1.png"; 
-            }
-            
-            $file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
-            fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
-            die();
-        }
-        else
-        {
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_PRESTADOR'];
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_SUBTIPOLOGIA'] = $row['CODIGO_SUBTIPOLOGIA'];
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
@@ -314,10 +280,7 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         $j++;
         
-        }
-        
-        
-    }
+	}
     //------------------------------------------------
     
     if($j != 0){
