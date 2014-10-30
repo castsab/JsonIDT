@@ -11,7 +11,7 @@
             "UBICACION": "Ubicacion prestador",
             "PRECIO_PROMEDIO": "$2000 a $5000",
             "HORARIO": "12 pm a 6 pm",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
+            "IMAGEN": "http://cdn.flaticon.com/png/256/2310.png"
         },
         {
             "CODIGO": "458",
