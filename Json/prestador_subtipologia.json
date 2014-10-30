@@ -2,15 +2,15 @@
     "2": [
         {
             "CODIGO": "457",
-            "NOMBRE": "prueba",
-            "DESCRIPCION": "prueba2",
-            "DIRECCION": "prueba2",
-            "TELEFONO": "",
-            "CORREO": "prueba2@com.co",
-            "URL": "prueba2",
-            "UBICACION": null,
-            "PRECIO_PROMEDIO": "prueba2",
-            "HORARIO": "prueba2",
+            "NOMBRE": "Ejemplos prestador prueba ",
+            "DESCRIPCION": "Prestador Prueba",
+            "DIRECCION": "Dirreccionprestador",
+            "TELEFONO": "3153456782",
+            "CORREO": "Ejemplo@ejemplo.com.co",
+            "URL": "www.ejemploprestador.com",
+            "UBICACION": "Ubicacion prestador",
+            "PRECIO_PROMEDIO": "$2000 a $5000",
+            "HORARIO": "12 pm a 6 pm",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
