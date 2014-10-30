@@ -25,9 +25,9 @@ while ($rw = mysqli_fetch_array($rs)) {
 print_r($a_clasificaciones);
 echo '</pre>';*/
 
-$file = fopen("Json/clasificacion.json", "w") or die("Problemas para generar el documento (clasificacion_json)");
+/*$file = fopen("Json/clasificacion.json", "w") or die("Problemas para generar el documento (clasificacion_json)");
+fwrite($file, json_encode($a_clasificaciones,JSON_PRETTY_PRINT));*/
 
-fwrite($file, json_encode($a_clasificaciones,JSON_PRETTY_PRINT));
 //------------------------------------------
 
 //------------------------------------------
