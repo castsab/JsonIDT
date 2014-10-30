@@ -240,7 +240,7 @@ while ($rw = mysqli_fetch_array($rs)) {
 
     //------------------------------------------------
     $rss = '';
-    $a_prestadores_subtipologias = '';
+    //$a_prestadores_subtipologias = '';
     
     $rss = $bd->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO']));
     
@@ -280,12 +280,12 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         $j++;
         
-	}
+    }
     //------------------------------------------------
     
     if($j != 0){
-        $file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
-        fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
+        //$file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
+        //fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
     }
     
     $i++;
