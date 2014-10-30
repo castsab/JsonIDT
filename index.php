@@ -58,15 +58,11 @@ while ($rw = mysqli_fetch_array($rs)) {
         $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
         $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
         
-        echo "<pre>";
-        echo "{ COLOR_FILA : '.$COLOR_FILA.' - COLOR_TRIANGULO : '.$COLOR_TRIANGULO.' }";
-        echo "</pre>";
-        
         $a_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO'];
         $a_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];
         $a_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
         //$a_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
-        $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = "https://raw.githubusercontent.com/divisiondeariza/IDT_data/master/idt/imagenes/iconoTipologia1.png";
+        $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/iconoTipologia9.png";
         $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = $row['IMAGEN'];
         $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
         $a_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;
