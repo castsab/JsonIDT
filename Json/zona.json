@@ -96,7 +96,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#854b0c"
+        "backgroundColor": "#81190e"
     },
     {
         "CODIGO": "12",
@@ -105,7 +105,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#81190e"
+        "backgroundColor": "#199188"
     },
     {
         "CODIGO": "13",
@@ -114,6 +114,6 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#199188"
+        "backgroundColor": ""
     }
 ]

@@ -146,8 +146,23 @@ $rs = $bd->getZonas();
 
 $i = 0;
 
-while ($rw = mysqli_fetch_array($rs)) {
+$search_array = array("1"=>"#0b890b",
+                      "2"=>"#195c93",
+                      "3"=>"#0885c5",
+                      "4"=>"#13b5a6",
+                      "5"=>"#199188",
+                      "6"=>"#1a8f65",
+                      "7"=>"#1b8844",
+                      "8"=>"#0b890b",
+                      "9"=>"#698c0a",
+                      "10"=>"#8a620b",
+                      "11"=>"#81190e",
+                      "12"=>"#199188");
 
+while ($rw = mysqli_fetch_array($rs)) {
+    
+    $backgroundColor = '';
+    
     $a_zonas[$i]['CODIGO'] = $rw['CODIGO'];
     $a_zonas[$i]['NOMBRE'] = utf8_encode($rw['NOMBRE']);
     $a_zonas[$i]['DESCRIPCION'] = utf8_encode($rw['DESCRIPCION']);
@@ -155,6 +170,27 @@ while ($rw = mysqli_fetch_array($rs)) {
     $a_zonas[$i]['PUNTO_MINIMO'] = $rw['PUNTO_MINIMO'];
     $a_zonas[$i]['PUNTO_MAXIMO'] = $rw['PUNTO_MAXIMO'];
     $a_zonas[$i]['backgroundColor'] = $rw['backgroundColor'];
+    
+    $search_array = array("1"=>"#0b890b",
+                          "2"=>"#195c93",
+                          "3"=>"#0885c5",
+                          "4"=>"#13b5a6",
+                          "5"=>"#199188",
+                          "6"=>"#1a8f65",
+                          "7"=>"#1b8844",
+                          "8"=>"#0b890b",
+                          "9"=>"#698c0a",
+                          "10"=>"#8a620b",
+                          "11"=>"#81190e",
+                          "12"=>"#199188");
+      
+    if (array_key_exists($rw['CODIGO'], $search_array)) {
+        
+        $backgroundColor = $search_array[$rw['CODIGO']];
+        
+    }
+    
+    $a_zonas[$i]['backgroundColor'] = $backgroundColor;
     
     $i++;
 }
@@ -277,6 +313,10 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = $img_prestador;
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/museo_01.png";
+        
+        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
+        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
+        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
         
         $j++;
         
