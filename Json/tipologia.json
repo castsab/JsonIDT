@@ -281,7 +281,7 @@
         {
             "CODIGO": "43",
             "COD_CLASIFICACION": "6",
-            "NOMBRE": "Compras prueba",
+            "NOMBRE": "Compras",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
