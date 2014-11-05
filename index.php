@@ -171,19 +171,6 @@ while ($rw = mysqli_fetch_array($rs)) {
     $a_zonas[$i]['PUNTO_MAXIMO'] = $rw['PUNTO_MAXIMO'];
     $a_zonas[$i]['backgroundColor'] = $rw['backgroundColor'];
     
-    $search_array = array("1"=>"#0b890b",
-                          "2"=>"#195c93",
-                          "3"=>"#0885c5",
-                          "4"=>"#13b5a6",
-                          "5"=>"#199188",
-                          "6"=>"#1a8f65",
-                          "7"=>"#1b8844",
-                          "8"=>"#0b890b",
-                          "9"=>"#698c0a",
-                          "10"=>"#8a620b",
-                          "11"=>"#81190e",
-                          "12"=>"#199188");
-      
     if (array_key_exists($rw['CODIGO'], $search_array)) {
         
         $backgroundColor = $search_array[$rw['CODIGO']];
@@ -286,6 +273,11 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         //consulto la imagen del prestador
         $img_prestador = $bd->getImagenPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO_PRESTADOR']));
+        $IMAGEN = $bd->getFotosPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO_PRESTADOR']));    
+        
+        /*echo "<pre>"; 
+        print_r($IMAGEN);
+        echo "</pre>";*/
         
         if(!empty($img_prestador)){
             $img_prestador = utf8_encode($img_prestador);
@@ -318,14 +310,35 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
         
+        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
+        
+        
+        if(!empty($IMAGEN[0])){
+            
+            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_1'] = utf8_encode($IMAGEN[0]);
+            
+            if(!empty($IMAGEN[1]))
+            {
+                $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_2'] = utf8_encode($IMAGEN[1]);
+                
+                if(!empty($IMAGEN[2]))
+                {
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
+                }
+            }
+        }
+        
+        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_2'] = utf8_encode($IMAGEN[1]);
+        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
+        
         $j++;
         
     }
     //------------------------------------------------
     
     if($j != 0){
-        //$file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
-        //fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
+        $file = fopen("Json/prestadores/prestador_subtipologia_".$rw['CODIGO'].".json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
+        fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
     }
     
     $i++;

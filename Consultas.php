@@ -138,6 +138,33 @@ class Consultas extends Conexion {
        
         return $img_prestador;
     }
+
+    public function getFotosPrestador($param = '') {
+        
+        $cond = '';
+        $rs = '';
+        //$img_prestador = '';
+        
+        if(!empty($param['CODIGO_PRESTADOR']))
+        {
+            //$cond = 'where CODIGO_PRESTADOR= '.$param['CODIGO_PRESTADOR'].' ';
+            $sql = 'select IMAGEN As IMAGEN from imagenes
+                    where CODIGO_PRESTADOR='.$param['CODIGO_PRESTADOR'].' limit 1';
+            
+            //echo '<br>(getImagenPrestador)- sql { '.$sql.' }<br>';
+        
+            $rs = $this->ejecutar($sql);
+            
+            $IMAGEN = '';
+            
+            while ($row = mysqli_fetch_array($rs)) {
+                $IMAGEN[] = $row['IMAGEN'];
+            }
+            
+        }
+
+        return $IMAGEN;
+    }
     
     public function getPrestadorSubtipologia($param = ''){
         
@@ -162,7 +189,8 @@ class Consultas extends Conexion {
                     p.URL,
                     p.UBICACION,
                     p.PRECIO_PROMEDIO,
-                    p.HORARIO
+                    p.HORARIO,
+                    P.URL_VIDEO
                 from subtipologia s inner join prestador_subtipologia ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
                                     inner join prestador p on p.CODIGO=ps.CODIGO_PRESTADOR 
                 $cond";
