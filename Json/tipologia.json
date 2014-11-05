@@ -281,7 +281,7 @@
         {
             "CODIGO": "43",
             "COD_CLASIFICACION": "6",
-            "NOMBRE": "Compras prueba",
+            "NOMBRE": "Compras",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
@@ -289,9 +289,9 @@
             "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
-            "CODIGO": "44",
+            "CODIGO": "9",
             "COD_CLASIFICACION": "6",
-            "NOMBRE": "Gastron\u00f3mico",
+            "NOMBRE": "Gastronomico",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
@@ -299,7 +299,7 @@
             "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
-            "CODIGO": "45",
+            "CODIGO": "10",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Religioso",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
@@ -309,7 +309,7 @@
             "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
-            "CODIGO": "46",
+            "CODIGO": "11",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Lujo",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
@@ -319,7 +319,7 @@
             "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
-            "CODIGO": "47",
+            "CODIGO": "12",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Bogot\u00e1 verde",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
