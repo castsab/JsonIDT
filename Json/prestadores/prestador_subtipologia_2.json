@@ -16,7 +16,7 @@
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=TzNBj-ZX4S0",
-            "FOTO_1": "\/home\/imagenesBD\/Prestador457\/imgPrestador457-0.png"
+            "FOTO_1": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
             "CODIGO": "458",
@@ -34,7 +34,7 @@
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=TzNBj-ZX4S0",
-            "FOTO_1": "\/home\/imagenesBD\/Prestador458\/imgPrestador458-0.png"
+            "FOTO_1": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ]
 }
