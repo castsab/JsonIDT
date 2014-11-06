@@ -7,7 +7,7 @@
             "DIRECCION": "prueba2",
             "TELEFONO": "",
             "CORREO": "prueba2@com.co",
-            "URL": "prueba2",
+            "URL": "prueba2",b
             "UBICACION": null,
             "PRECIO_PROMEDIO": "prueba2",
             "HORARIO": "prueba2",
@@ -417,7 +417,7 @@
             "DIRECCION": "CL 68 17 28",
             "TELEFONO": "6061236",
             "CORREO": "angelinav68@hotmail.com",
-            "URL": "www.bogotaturismo.gov.co/en/instituto-distrital-de-turismo-idt-ing",
+            "URL": "www.bogotaturismo.gov.co",
             "UBICACION": "Candelaria",
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "Todo el dia",
