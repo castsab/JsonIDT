@@ -191,8 +191,8 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
             "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
         }
     ],
     "5": [
@@ -305,8 +305,8 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#cca102",
-            "COLOR_TRIANGULO": "#ffff64"
+            "backgroundColor": "#ac322e",
+            "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
             "CODIGO": "46",
