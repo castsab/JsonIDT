@@ -231,6 +231,12 @@ while ($rw = mysqli_fetch_array($rs)) {
     
     while ($row = mysqli_fetch_array($rss)) {
         
+        $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
+        $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
+
+        $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
+        $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        
         //$a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $rw['CODIGO'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_TIPOLOGIA'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_ZONA'] = $row['CODIGO_ZONA'];
@@ -240,6 +246,10 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_zonas_tipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
         $a_zonas_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
+        
+        $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
+        $a_zonas_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;
+        $a_zonas_tipologias[$rw['CODIGO']][$j]['COLOR_TRIANGULO'] = $COLOR_TRIANGULO;
         
         $j++;
     }

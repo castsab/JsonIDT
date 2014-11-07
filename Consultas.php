@@ -101,7 +101,8 @@ class Consultas extends Conexion {
                     t.IMAGEN As IMAGEN,
                     t.DESCRIPCION As DESCRIPCION,
                     t.COD_CLASIFICACION,
-                    t.TIENE_SUBTIPOLOGIA
+                    t.TIENE_SUBTIPOLOGIA,
+                    t.ICONO As ICONO
                 from 
                     zona_tipologia zt 
                     inner JOIN tipologia t on zt.CODIGO_TIPOLOGIA=t.CODIGO
