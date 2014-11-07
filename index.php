@@ -52,17 +52,30 @@ while ($rw = mysqli_fetch_array($rs)) {
     
     while ($row = mysqli_fetch_array($rss)) {
         
-        $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
-        $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
+        if($row['CODIGO'] == 45)
+        {
+            $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia1.png");
+            $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
         
-        $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
-        $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+            $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia1.png");
+            $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        }
+        else
+        {
+            
+            $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
+            $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
+
+            $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
+            $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        
+        }
         
         $a_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO'];
         $a_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];
         $a_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
-        //$a_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
-        $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode("https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/iconoTipologia9.png");
+        $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
+        //$a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode("https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/iconoTipologia9.png");
         $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = $row['IMAGEN'];
         $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
         $a_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;

@@ -302,11 +302,11 @@
             "CODIGO": "45",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Religioso",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
         },
         {
             "CODIGO": "46",
