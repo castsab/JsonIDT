@@ -283,10 +283,11 @@ while ($rw = mysqli_fetch_array($rs)) {
             $img_prestador = utf8_encode($img_prestador);
         }
         
+       
         $str_telefono = explode(":",$row['TELEFONO']);
         $a_telefono = explode(" ",$str_telefono[1]);
         $TELEFONO = $a_telefono[0];
-        
+       
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_PRESTADOR'];
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_SUBTIPOLOGIA'] = $row['CODIGO_SUBTIPOLOGIA'];
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
@@ -309,11 +310,22 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
-        
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
         
+        //print_r($IMAGEN);
         
-        if(!empty($IMAGEN[0])){
+        if(!empty($IMAGEN))
+        {
+            for ($i = 0; $i < sizeof($IMAGEN); $i++) {
+                $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($IMAGEN[$i]);
+            }
+        }
+        else
+        {
+            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][0] = "";
+        }
+        //die();
+        /*if(!empty($IMAGEN[0])){
             
             $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_1'] = utf8_encode($IMAGEN[0]);
             
@@ -326,7 +338,7 @@ while ($rw = mysqli_fetch_array($rs)) {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
                 }
             }
-        }
+        }*/
         
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_2'] = utf8_encode($IMAGEN[1]);
         //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
