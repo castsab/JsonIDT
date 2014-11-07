@@ -231,7 +231,7 @@ while ($rw = mysqli_fetch_array($rs)) {
     
     while ($row = mysqli_fetch_array($rss)) {
         
-        if($row['CODIGO'] == 41)
+        if($row['CODIGO_TIPOLOGIA'] == 41)
         {
             $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia1.png");
             $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);

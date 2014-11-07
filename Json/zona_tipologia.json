@@ -33,8 +33,8 @@
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
-            "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
         }
     ],
     "2": [
@@ -97,8 +97,8 @@
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
-            "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "backgroundColor": "#cca102",
+            "COLOR_TRIANGULO": "#ffff64"
         }
     ],
     "5": [
