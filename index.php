@@ -231,11 +231,24 @@ while ($rw = mysqli_fetch_array($rs)) {
     
     while ($row = mysqli_fetch_array($rss)) {
         
-        $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
-        $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
+        if($row['CODIGO'] == 41)
+        {
+            $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia1.png");
+            $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
+        
+            $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia1.png");
+            $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        }
+        else
+        {
+            
+            $rgb = $bd->getObtenerRgbImagen("imagenes/iconoTipologia9.png");
+            $COLOR_FILA = $bd->getRgbConvertirAHexadecimal($rgb);
 
-        $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
-        $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+            $rgb_fondo = $bd->getObtenerRgbImagenFondo("imagenes/iconoTipologia9.png");
+            $COLOR_TRIANGULO = $bd->getRgbConvertirAHexadecimal($rgb_fondo);
+        
+        }
         
         //$a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $rw['CODIGO'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_TIPOLOGIA'];
