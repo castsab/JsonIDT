@@ -295,25 +295,31 @@
         {
             "CODIGO": "90",
             "NOMBRE": "HOTEL LOS CAMBULOS",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "El hotel es un edificio equipado y planificado para albergar a las personas de manera temporal. Sus servicios básicos incluyen una cama, un armario y un cuarto de baño. Otras prestaciones usuales son la televisión, una pequeña heladera (refrigerador) y sillas en el cuarto, mientras que otras instalaciones pueden ser de uso común para todos los huéspedes (como una piscina, un gimnasio o un restaurante).",
             "DIRECCION": "KR 96 C 17 38",
-            "TELEFONO": "2679973",
-            "CORREO": "NA",
-            "URL": "NA",
-            "UBICACION": null,
+            "TELEFONO": "5554446",
+            "CORREO": "hotelcambulos@hotel.com",
+            "URL": "http://www.bogotamiciudad.com/Directorio",
+            "UBICACION": "Fontibón",
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
-            "HORARIO": "NA",
+            "HORARIO": "Todo el dia",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
+<<<<<<< HEAD
             "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
             "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
+=======
+            "URL_VIDEO": "http://www.bbc.com/travel/video/my-city/20130701-my-city-bogota",
+>>>>>>> c7c61bcdfdaa0ec1627e8311dfcebed7227f5f9f
             "FOTOS": [
-                ""
+                "http://static.thousandwonders.net/Bogota.640.360.jpg",
+                "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CatedralPrimadaBogota2004-7.jpg/255px-CatedralPrimadaBogota2004-7.jpg",
+                "http://cdn.citylab.com/media/img/citylab/legacy/2011/12/21/bogota.jpg"
             ]
         },
         {
