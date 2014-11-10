@@ -307,15 +307,11 @@
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
-<<<<<<< HEAD
             "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
             "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
-=======
-            "URL_VIDEO": "http://www.bbc.com/travel/video/my-city/20130701-my-city-bogota",
->>>>>>> c7c61bcdfdaa0ec1627e8311dfcebed7227f5f9f
             "FOTOS": [
                 "http://static.thousandwonders.net/Bogota.640.360.jpg",
                 "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CatedralPrimadaBogota2004-7.jpg/255px-CatedralPrimadaBogota2004-7.jpg",
