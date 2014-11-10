@@ -261,7 +261,9 @@
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
             "FOTOS": [
-                "http://static.thousandwonders.net/Bogota.640.360.jpg"
+                "http://static.thousandwonders.net/Bogota.640.360.jpg",
+                "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CatedralPrimadaBogota2004-7.jpg/255px-CatedralPrimadaBogota2004-7.jpg",
+                "http://cdn.citylab.com/media/img/citylab/legacy/2011/12/21/bogota.jpg"
             ]
         },
         {
