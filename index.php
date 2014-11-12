@@ -79,7 +79,7 @@ while ($rw = mysqli_fetch_array($rs)) {
         $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = $row['IMAGEN'];
         $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
         $a_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;
-        $a_tipologias[$rw['CODIGO']][$j]['COLOR_TRIANGULO'] = $COLOR_TRIANGULO;
+        $a_tipologias[$rw['CODIGO']][$j]['RUTA_TRIANGULO'] = utf8_encode("https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/triangulo.png");
         $j++;
     }
     //------------------------------------------------
