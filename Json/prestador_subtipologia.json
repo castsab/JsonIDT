@@ -295,14 +295,14 @@
         {
             "CODIGO": "90",
             "NOMBRE": "HOTEL LOS CAMBULOS",
-            "DESCRIPCION": "El hotel es un edificio equipado y planificado para albergar a las personas de manera temporal. Sus servicios básicos incluyen una cama, un armario y un cuarto de baño. Otras prestaciones usuales son la televisión, una pequeña heladera (refrigerador) y sillas en el cuarto, mientras que otras instalaciones pueden ser de uso común para todos los huéspedes (como una piscina, un gimnasio o un restaurante).",
+            "DESCRIPCION": "NA",
             "DIRECCION": "KR 96 C 17 38",
-            "TELEFONO": "5554446",
-            "CORREO": "hotelcambulos@hotel.com",
-            "URL": "http://www.bogotamiciudad.com/Directorio",
-            "UBICACION": "Fontibón",
+            "TELEFONO": "2679973",
+            "CORREO": "NA",
+            "URL": "NA",
+            "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
-            "HORARIO": "Todo el dia",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
@@ -313,9 +313,7 @@
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
             "FOTOS": [
-                "http://static.thousandwonders.net/Bogota.640.360.jpg",
-                "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CatedralPrimadaBogota2004-7.jpg/255px-CatedralPrimadaBogota2004-7.jpg",
-                "http://cdn.citylab.com/media/img/citylab/legacy/2011/12/21/bogota.jpg"
+                ""
             ]
         },
         {
