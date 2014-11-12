@@ -73,6 +73,16 @@
             "COLOR_TRIANGULO": "#ffd6d1"
         },
         {
+            "CODIGO": "100",
+            "COD_CLASIFICACION": "100",
+            "NOMBRE": "Compras",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
+            "IMAGEN": "\/home\/imagenesBD\/Tipologia8\/imgTipologia8.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#ac322e",
+            "COLOR_TRIANGULO": "#ffd6d1"
+        },
+        {
             "CODIGO": "9",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Gastron\u00f3mico",
