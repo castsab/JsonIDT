@@ -3,6 +3,7 @@
 include_once 'Consultas.php';
 $bd = new Consultas();
 
+$urlFolderImagenes = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes";
 //------------------------------------------
 //------------------------------------------
 //Paso 1, json menu principal
@@ -71,15 +72,20 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         }
         
+        $nombreImagenTriangulo = $bd->getCrearImagenTriangulo($row['CODIGO'],$rgb_fondo,'iconoTrianguloTipologia');
+        
         $a_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO'];
         $a_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];
         $a_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
         $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
+        
         //$a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode("https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/iconoTipologia9.png");
         $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = $row['IMAGEN'];
+        
         $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
         $a_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;
-        $a_tipologias[$rw['CODIGO']][$j]['RUTA_TRIANGULO'] = utf8_encode("https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/triangulo.png");
+        $a_tipologias[$rw['CODIGO']][$j]['RUTA_TRIANGULO'] = utf8_encode($urlFolderImagenes."/".$nombreImagenTriangulo);
+        
         $j++;
     }
     //------------------------------------------------
@@ -188,9 +194,13 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         $backgroundColor = $search_array[$rw['CODIGO']];
         
+        $rgb_fondo = $bd->convertirHexadecimalARgb($backgroundColor);
+        $nombreImagenTriangulo = $bd->getCrearImagenTriangulo($rw['CODIGO'],$rgb_fondo,'iconoTrianguloZona');
+        
     }
     
     $a_zonas[$i]['backgroundColor'] = $backgroundColor;
+    $a_zonas[$i]['RUTA_TRIANGULO'] = utf8_encode($urlFolderImagenes."/".$nombreImagenTriangulo);
     
     $i++;
 }
@@ -250,6 +260,8 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         }
         
+        $nombreImagenTriangulo = $bd->getCrearImagenTriangulo($row['CODIGO_TIPOLOGIA'],$rgb_fondo,'iconoTrianguloZonaTipologia');
+        
         //$a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $rw['CODIGO'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_TIPOLOGIA'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_ZONA'] = $row['CODIGO_ZONA'];
@@ -262,7 +274,7 @@ while ($rw = mysqli_fetch_array($rs)) {
         
         $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = $row['ICONO'];
         $a_zonas_tipologias[$rw['CODIGO']][$j]['backgroundColor'] = $COLOR_FILA;
-        $a_zonas_tipologias[$rw['CODIGO']][$j]['COLOR_TRIANGULO'] = $COLOR_TRIANGULO;
+        $a_zonas_tipologias[$rw['CODIGO']][$j]['RUTA_TRIANGULO'] = utf8_encode($urlFolderImagenes."/".$nombreImagenTriangulo);
         
         $j++;
     }
@@ -319,17 +331,19 @@ while ($rw = mysqli_fetch_array($rs)) {
             $img_prestador = utf8_encode($img_prestador);
         }
         
-       
         $str_telefono = explode(":",$row['TELEFONO']);
-        $a_telefono = explode(" ",$str_telefono[1]);
-        $TELEFONO = $a_telefono[0];
+        
+        if(!empty($str_telefono[1]))
+        {
+            $a_telefono = explode(" ",$str_telefono[1]);
+            $TELEFONO = $a_telefono[0];
+        }
+        else
+        {
+            $TELEFONO = $row['TELEFONO'];
+        }
        
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_PRESTADOR'];
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_SUBTIPOLOGIA'] = $row['CODIGO_SUBTIPOLOGIA'];
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['NOMBRE_TIPOLOGIA'] = $row['NOMBRE_TIPOLOGIA'];
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO_PRESTADOR'];
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['COD_ZONA'] = $row['COD_ZONA'];
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
         $a_prestadores_subtipologias[$rw['CODIGO']][$j]['DIRECCION'] = utf8_encode($row['DIRECCION']);
@@ -367,24 +381,6 @@ while ($rw = mysqli_fetch_array($rs)) {
         {
             $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][0] = "";
         }
-        //die();
-        /*if(!empty($IMAGEN[0])){
-            
-            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_1'] = utf8_encode($IMAGEN[0]);
-            
-            if(!empty($IMAGEN[1]))
-            {
-                $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_2'] = utf8_encode($IMAGEN[1]);
-                
-                if(!empty($IMAGEN[2]))
-                {
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
-                }
-            }
-        }*/
-        
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_2'] = utf8_encode($IMAGEN[1]);
-        //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTO_3'] = utf8_encode($IMAGEN[2]);
         
         $j++;
         

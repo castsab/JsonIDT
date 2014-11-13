@@ -10,7 +10,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_7.png"
         },
         {
             "CODIGO": "16",
@@ -22,7 +22,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "41",
@@ -34,7 +34,7 @@
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
             "backgroundColor": "#cca102",
-            "COLOR_TRIANGULO": "#ffff64"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_41.png"
         }
     ],
     "2": [
@@ -48,7 +48,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "4": [
@@ -62,7 +62,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_1.png"
         },
         {
             "CODIGO": "6",
@@ -74,7 +74,7 @@
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_6.png"
         },
         {
             "CODIGO": "16",
@@ -86,7 +86,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "41",
@@ -98,7 +98,7 @@
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia1.png",
             "backgroundColor": "#cca102",
-            "COLOR_TRIANGULO": "#ffff64"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_41.png"
         }
     ],
     "5": [
@@ -112,7 +112,7 @@
             "TIENE_SUBTIPOLOGIA": "0",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_6.png"
         },
         {
             "CODIGO": "16",
@@ -124,7 +124,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "25",
@@ -136,7 +136,7 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTipologia9.png",
             "backgroundColor": "#ac322e",
-            "COLOR_TRIANGULO": "#ffd6d1"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_25.png"
         }
     ]
 }

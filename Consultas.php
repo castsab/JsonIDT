@@ -203,7 +203,7 @@ class Consultas extends Conexion {
         
     }
     
-    function getRgbConvertirAHexadecimal($rgb) {
+    public function getRgbConvertirAHexadecimal($rgb) {
         
         $hex = "#";
         $hex .= str_pad(dechex($rgb[0]), 2, "0", STR_PAD_LEFT);
@@ -213,8 +213,7 @@ class Consultas extends Conexion {
         return $hex; 
      }
      
-     function getObtenerRgbImagen($rutaImagen)
-     {
+    public function getObtenerRgbImagen($rutaImagen){
          
         $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen);
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
@@ -254,8 +253,8 @@ class Consultas extends Conexion {
          return array($r, $g, $b);
      }
      
-     function getObtenerRgbImagenFondo($rutaImagen)
-     {
+    public function getObtenerRgbImagenFondo($rutaImagen){
+        
          $imagen = imagecreatefrompng($rutaImagen);
          $rgb = imagecolorat($imagen, 1, 1);
          
@@ -264,6 +263,43 @@ class Consultas extends Conexion {
          $b = $rgb & 0xFF;
 
          return array($r, $g, $b);
+     }
+     
+    public function getCrearImagenTriangulo($codigo,$rgb,$nombreImagen){
+         
+         $imagen  = imagecreatetruecolor(40, 55);
+         
+         $colorTriangulo = imagecolorallocate($imagen, $rgb[0], $rgb[1], $rgb[2]);
+        
+         imagefilledpolygon($imagen, array(40, 0, 40, 55, 0, 55), 3, $colorTriangulo);
+
+         imagepng($imagen, "imagenes/".$nombreImagen."_".$codigo.".png");
+         
+         imagedestroy($imagen);
+         
+         $nombreImagen = $nombreImagen."_".$codigo.".png";
+         
+         return $nombreImagen;
+         
+     }
+     
+    public function convertirHexadecimalARgb($hexadecimal) {
+        
+         $hex = str_replace("#", "", $hexadecimal);
+
+         if(strlen($hex) == 3) {
+           $r = hexdec(substr($hex,0,1).substr($hex,0,1));
+           $g = hexdec(substr($hex,1,1).substr($hex,1,1));
+           $b = hexdec(substr($hex,2,1).substr($hex,2,1));
+         } else {
+           $r = hexdec(substr($hex,0,2));
+           $g = hexdec(substr($hex,2,2));
+           $b = hexdec(substr($hex,4,2));
+         }
+         
+         $rgb = array($r, $g, $b);
+       
+         return $rgb;
      }
 
 }
