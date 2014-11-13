@@ -267,20 +267,25 @@ class Consultas extends Conexion {
      
     public function getCrearImagenTriangulo($codigo,$rgb,$nombreImagen){
          
-         $imagen  = imagecreatetruecolor(40, 55);
-         
-         $colorTriangulo = imagecolorallocate($imagen, $rgb[0], $rgb[1], $rgb[2]);
-         $negro = imagecolorallocate($imagen, 0, 0, 0);
+        $imagen  = imagecreatetruecolor(40, 55);
         
-         imagefilledpolygon($imagen, array(40, 0, 40, 55, 0, 55), 3, $colorTriangulo);
+        $rojo = imagecolorallocate($imagen, $rgb[0], $rgb[1], $rgb[2]);
+        
+        $negro = imagecolorallocate($imagen, 0, 0, 0);
 
-         imagepng($imagen, "imagenes/".$nombreImagen."_".$codigo.".png");
+        imagefilledpolygon($imagen, array(40, 0, 40, 55, 0, 55), 3, $rojo);
+
+        imagecolortransparent($imagen, $negro);
+
+        header("Content-type: image/png");
+        
+        imagepng($imagen, "imagenes/".$nombreImagen."_".$codigo.".png");
+       
+        imagedestroy($imagen);
+        
+        $nombreImagen = $nombreImagen."_".$codigo.".png";
          
-         imagedestroy($imagen);
-         
-         $nombreImagen = $nombreImagen."_".$codigo.".png";
-         
-         return $nombreImagen;
+        return $nombreImagen;
          
      }
      
