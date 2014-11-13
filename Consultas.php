@@ -270,6 +270,7 @@ class Consultas extends Conexion {
          $imagen  = imagecreatetruecolor(40, 55);
          
          $colorTriangulo = imagecolorallocate($imagen, $rgb[0], $rgb[1], $rgb[2]);
+         $negro = imagecolorallocate($imagen, 0, 0, 0);
         
          imagefilledpolygon($imagen, array(40, 0, 40, 55, 0, 55), 3, $colorTriangulo);
 
