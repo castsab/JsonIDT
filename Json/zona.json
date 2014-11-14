@@ -6,7 +6,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#0b890b",
+        "backgroundColor": "#5f87ad",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_1.png"
     },
     {
@@ -16,7 +16,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#195c93",
+        "backgroundColor": "#185c92",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_2.png"
     },
     {
@@ -26,7 +26,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#0885c5",
+        "backgroundColor": "#0885c4",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_3.png"
     },
     {
@@ -36,7 +36,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#13b5a6",
+        "backgroundColor": "#12b5a5",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_4.png"
     },
     {
@@ -56,7 +56,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#1a8f65",
+        "backgroundColor": "#1a8e64",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_6.png"
     },
     {
@@ -66,7 +66,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#1b8844",
+        "backgroundColor": "#1b8943",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_7.png"
     },
     {
@@ -96,7 +96,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#8a620b",
+        "backgroundColor": "#89620b",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_10.png"
     },
     {
@@ -106,7 +106,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#81190e",
+        "backgroundColor": "#844b0d",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_11.png"
     },
     {
@@ -116,7 +116,7 @@
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
-        "backgroundColor": "#199188",
+        "backgroundColor": "#82190f",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
     },
     {
