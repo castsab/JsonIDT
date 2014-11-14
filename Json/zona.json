@@ -118,15 +118,5 @@
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#82190f",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
-    },
-    {
-        "CODIGO": "13",
-        "NOMBRE": "PRUEBA",
-        "DESCRIPCION": "PRUEBA",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
-        "PUNTO_MINIMO": null,
-        "PUNTO_MAXIMO": null,
-        "backgroundColor": "#82190f",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
     }
 ]
