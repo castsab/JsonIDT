@@ -313,9 +313,9 @@
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "http://www.youtube.com/watch?v=HDOXkuC9Ie0",
             "FOTOS": [
-                "",
-                "",
-                ""
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
+                "http://www.tnetnoc.com/hotelphotos/501/393501/2241284-Hotel-Club-House-Bogota-Hotel-Exterior-1-DEF.jpg",
+                "http://cdn4.agoda.net/hotelimages/367/367485/367485_1212202235009773095_STD.jpg"
             ]
         },
         {
