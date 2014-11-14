@@ -113,7 +113,7 @@
         "CODIGO": "12",
         "NOMBRE": "Alrededores",
         "DESCRIPCION": "Alrededores",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_11.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#82190f",
