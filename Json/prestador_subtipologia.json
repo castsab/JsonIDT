@@ -296,14 +296,14 @@
         {
             "CODIGO": "90",
             "NOMBRE": "HOTEL LOS CAMBULOS",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "Nuestro Compromiso es llegar a ser percibidos por nuestros clientes y colegas como un hotel que satisface las expectativas del mercado, marcando un factor diferenciador en la excelencia del servicio, nuestras instalaciones, ubicacion y la calidad humana de nuestros empleados.",
             "DIRECCION": "KR 96 C 17 38",
             "TELEFONO": "2679973",
-            "CORREO": "NA",
-            "URL": "NA",
-            "UBICACION": null,
+            "CORREO": "Correobogota.com",
+            "URL": "www.bogotaturismo.gov.co.",
+            "UBICACION": "Chapinero",
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
-            "HORARIO": "NA",
+            "HORARIO": "Todo el dia",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
@@ -314,7 +314,9 @@
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
             "FOTOS": [
-                ""
+                "http://www.colombia.travel/es/images/stories/galeria/bogota/bogota01.jpg",
+                "http://www.colombia.travel/en/images/stories/turistainternacional/Adondeir/bogota/bogota.jpg",
+                "http://hotelmarbore.com.co/images/maloka.jpg"
             ]
         },
         {
