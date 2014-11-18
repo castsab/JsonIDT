@@ -418,7 +418,7 @@ fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
 
 //------------------------------------------
 //------------------------------------------
-//Paso 1, json menu principal
+//Paso 1, json de idiomas
 
 $a_idiomas = array();
 
@@ -428,7 +428,7 @@ $i = 0;
 
 while ($rw = mysqli_fetch_array($rs)) {
 
-    $a_idiomas[$i]['CODIGO'] = $rw['CODIGO'];
+    $a_idiomas[$i]['CODIGO_IDIOMA'] = $rw['CODIGO'];
     $a_idiomas[$i]['NOMBRE'] = utf8_encode($rw['NOMBRE']);
 
     $i++;
