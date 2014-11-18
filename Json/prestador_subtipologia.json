@@ -1,4 +1,5 @@
 {
+    "FECHA_CREACION": "2014-11-18",
     "2": [
         {
             "CODIGO": "457",
@@ -295,14 +296,14 @@
         {
             "CODIGO": "90",
             "NOMBRE": "HOTEL LOS CAMBULOS",
-            "DESCRIPCION": "Un hotel es un edificio planificado y acondicionado para otorgar servicio de alojamiento a las personas y que permite a los visitantes sus desplazamientos. Los hoteles proveen a los huéspedes de servicios adicionales como restaurantes, piscinas y guarderías. Algunos hoteles tienen servicios de conferencias y animan a grupos a organizar convenciones y reuniones en su establecimiento. Los hoteles están normalmente, clasificados en categorías según el grado de confort, posicionamiento, el nivel de servicios que ofrecen. En cada país pueden encontrarse las siguientes categorías",
+            "DESCRIPCION": "NA",
             "DIRECCION": "KR 96 C 17 38",
             "TELEFONO": "2679973",
-            "CORREO": "Correo@hotel.com",
-            "URL": "www.cambuloshotel.com",
-            "UBICACION": "Chapinero",
+            "CORREO": "NA",
+            "URL": "NA",
+            "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
-            "HORARIO": "Todo el dia",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
@@ -311,11 +312,9 @@
             "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
-            "URL_VIDEO": "http://www.youtube.com/watch?v=HDOXkuC9Ie0",
+            "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=QaNAcChTTzE",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png",
-                "http://www.tnetnoc.com/hotelphotos/501/393501/2241284-Hotel-Club-House-Bogota-Hotel-Exterior-1-DEF.jpg",
-                "http://cdn4.agoda.net/hotelimages/367/367485/367485_1212202235009773095_STD.jpg"
+                ""
             ]
         },
         {

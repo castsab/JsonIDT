@@ -1,5 +1,6 @@
-[
-    {
+{
+    "FECHA_CREACION": "2014-11-18",
+    "0": {
         "CODIGO": "1",
         "NOMBRE": "Candelaria",
         "DESCRIPCION": "Comprende el Centro de la ciudad",
@@ -9,7 +10,7 @@
         "backgroundColor": "#5f87ad",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_1.png"
     },
-    {
+    "1": {
         "CODIGO": "2",
         "NOMBRE": "Usaquen",
         "DESCRIPCION": "Comprende el parque de esa localidad",
@@ -19,7 +20,7 @@
         "backgroundColor": "#185c92",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_2.png"
     },
-    {
+    "2": {
         "CODIGO": "3",
         "NOMBRE": "Zona T y Parque 93",
         "DESCRIPCION": "Comprende desde Centro Andino hasta la caracas",
@@ -29,7 +30,7 @@
         "backgroundColor": "#0885c4",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_3.png"
     },
-    {
+    "3": {
         "CODIGO": "4",
         "NOMBRE": "Calle 100",
         "DESCRIPCION": "Comprende la calle 100 hasta no se",
@@ -39,7 +40,7 @@
         "backgroundColor": "#12b5a5",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_4.png"
     },
-    {
+    "4": {
         "CODIGO": "5",
         "NOMBRE": "Zona G y Calle 72",
         "DESCRIPCION": "Comprende la Calle 72 hasta no se",
@@ -49,7 +50,7 @@
         "backgroundColor": "#199188",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_5.png"
     },
-    {
+    "5": {
         "CODIGO": "6",
         "NOMBRE": "Centro Internacional",
         "DESCRIPCION": "Comprende el Hotel Tequendama",
@@ -59,7 +60,7 @@
         "backgroundColor": "#1a8e64",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_6.png"
     },
-    {
+    "6": {
         "CODIGO": "7",
         "NOMBRE": "Teusaquillo",
         "DESCRIPCION": "Comprende el Parkway",
@@ -69,7 +70,7 @@
         "backgroundColor": "#1b8943",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_7.png"
     },
-    {
+    "7": {
         "CODIGO": "8",
         "NOMBRE": "Salitre",
         "DESCRIPCION": "Comprende la Gobernaci\u00f3n de Cundinamarca hasta la Av Boyaca",
@@ -79,7 +80,7 @@
         "backgroundColor": "#0b890b",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_8.png"
     },
-    {
+    "8": {
         "CODIGO": "9",
         "NOMBRE": "Galer\u00edas-Camp\u00edn",
         "DESCRIPCION": "Comprende las zonas del estadio Nemesio Camacho",
@@ -89,7 +90,7 @@
         "backgroundColor": "#698c0a",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_9.png"
     },
-    {
+    "9": {
         "CODIGO": "10",
         "NOMBRE": "20 de Julio",
         "DESCRIPCION": "20 de Julio",
@@ -99,7 +100,7 @@
         "backgroundColor": "#89620b",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_10.png"
     },
-    {
+    "10": {
         "CODIGO": "11",
         "NOMBRE": "Aeropuerto",
         "DESCRIPCION": "Aeropuerto",
@@ -109,7 +110,7 @@
         "backgroundColor": "#844b0d",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_11.png"
     },
-    {
+    "11": {
         "CODIGO": "12",
         "NOMBRE": "Alrededores",
         "DESCRIPCION": "Alrededores",
@@ -118,5 +119,15 @@
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#82190f",
         "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
+    },
+    "12": {
+        "CODIGO": "13",
+        "NOMBRE": "No Pertenece a ZIT",
+        "DESCRIPCION": "No est\u00e1 asociada",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
+        "PUNTO_MINIMO": null,
+        "PUNTO_MAXIMO": null,
+        "backgroundColor": "",
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
     }
-]
+}

@@ -42,6 +42,8 @@ $rs = $bd->getClasificaciones();
 
 $i = 0;
 
+$a_tipologias['FECHA_CREACION'] = date('Y-m-d');
+
 while ($rw = mysqli_fetch_array($rs)) {
 
     //------------------------------------------------
@@ -116,6 +118,8 @@ $rs = $bd->getTipologias();
 
 $i = 0;
 
+$a_subtipologias['FECHA_CREACION'] = date('Y-m-d');
+
 while ($rw = mysqli_fetch_array($rs)) {
 
     //------------------------------------------------
@@ -178,6 +182,8 @@ $search_array = array("1"=>"#5f87ad",
                       "11"=>"#844b0d",
                       "12"=>"#82190f");
 
+$a_zonas['FECHA_CREACION'] = date('Y-m-d');
+
 while ($rw = mysqli_fetch_array($rs)) {
     
     $backgroundColor = '';
@@ -229,6 +235,8 @@ $a_zonas_tipologias = array();
 $rs = $bd->getZonas();
 
 $i = 0;
+
+$a_zonas_tipologias['FECHA_CREACION'] = date('Y-m-d');
 
 while ($rw = mysqli_fetch_array($rs)) {
 
@@ -306,6 +314,8 @@ $a_prestadores_subtipologias = array();
 $rs = $bd->getSubTipologias();
 
 $i = 0;
+
+$a_prestadores_subtipologias['FECHA_CREACION'] = date('Y-m-d');
 
 while ($rw = mysqli_fetch_array($rs)) {
 
