@@ -307,6 +307,13 @@ class Consultas extends Conexion {
        
          return $rgb;
      }
+     
+     public function getIdiomas() {
+
+        $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from idioma';
+        $rs = $this->ejecutar($sql);
+        return $rs;
+    }
 
 }
 

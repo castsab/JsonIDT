@@ -4,6 +4,7 @@ include_once 'Consultas.php';
 $bd = new Consultas();
 
 $urlFolderImagenes = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes";
+
 //------------------------------------------
 //------------------------------------------
 //Paso 1, json menu principal
@@ -411,6 +412,35 @@ echo '</pre>';*/
 
 $file = fopen("Json/prestador_subtipologia.json", "w") or die("Problemas para generar el documento (prestador_subtipologia_json)");
 fwrite($file, json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT));
+//------------------------------------------
+//------------------------------------------
+
+
+//------------------------------------------
+//------------------------------------------
+//Paso 1, json menu principal
+
+$a_idiomas = array();
+
+$rs = $bd->getIdiomas();
+
+$i = 0;
+
+while ($rw = mysqli_fetch_array($rs)) {
+
+    $a_idiomas[$i]['CODIGO'] = $rw['CODIGO'];
+    $a_idiomas[$i]['NOMBRE'] = utf8_encode($rw['NOMBRE']);
+
+    $i++;
+}
+
+/*echo '<pre>';
+print_r($a_clasificaciones);
+echo '</pre>';*/
+
+$file = fopen("Json/idioma.json", "w") or die("Problemas para generar el documento (idioma)");
+fwrite($file, json_encode($a_idiomas,JSON_PRETTY_PRINT));
+
 //------------------------------------------
 //------------------------------------------
 
