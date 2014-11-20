@@ -75,8 +75,7 @@ class Consultas extends Conexion {
                     DESCRIPCION As DESCRIPCION,
                     IMAGEN As IMAGEN,
                     PUNTO_MINIMO As PUNTO_MINIMO,
-                    PUNTO_MAXIMO As PUNTO_MAXIMO,
-                    backgroundColor As backgroundColor
+                    PUNTO_MAXIMO As PUNTO_MAXIMO
                 from 
                     zona
                 ORDER BY CODIGO ASC';
@@ -215,10 +214,11 @@ class Consultas extends Conexion {
      
     public function getObtenerRgbImagen($rutaImagen){
          
+        $rutaImagen = substr($rutaImagen, 1);
+        
         $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen);
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
          
-        
         $imagen = imagecreatefrompng($rutaImagen);
         
         for($i=80;$i <= 180; $i++)
@@ -255,7 +255,10 @@ class Consultas extends Conexion {
      
     public function getObtenerRgbImagenFondo($rutaImagen){
         
+         $rutaImagen = substr($rutaImagen, 1);
+         
          $imagen = imagecreatefrompng($rutaImagen);
+         
          $rgb = imagecolorat($imagen, 1, 1);
          
          $r = ($rgb >> 16) & 0xFF;
