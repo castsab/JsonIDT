@@ -56,7 +56,8 @@ class Consultas extends Conexion {
                     IMAGEN As IMAGEN,
                     DESCRIPCION As DESCRIPCION,
                     CONTENIDO As CONTENIDO,
-                    COD_TIPOLOGIA As COD_TIPOLOGIA
+                    COD_TIPOLOGIA As COD_TIPOLOGIA,
+                    CONTENIDO As CONTENIDO
                 from 
                     subtipologia
                     '.$cond.' ORDER BY CODIGO ASC';
@@ -214,11 +215,20 @@ class Consultas extends Conexion {
      
     public function getObtenerRgbImagen($rutaImagen){
          
-        $rutaImagen = substr($rutaImagen, 1);
+        if(empty($rutaImagen))
+        {
+            return true;
+        }
         
-        $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen);
+        /*******************************************/
+        $rutaImagen = substr($rutaImagen, 1);
+        /*******************************************/
+        
+        $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen,'1');
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
          
+        //echo 'rutaImagen : '.$rutaImagen.'<br>';
+        
         $imagen = imagecreatefrompng($rutaImagen);
         
         for($i=80;$i <= 180; $i++)
@@ -253,9 +263,21 @@ class Consultas extends Conexion {
          return array($r, $g, $b);
      }
      
-    public function getObtenerRgbImagenFondo($rutaImagen){
+    public function getObtenerRgbImagenFondo($rutaImagen,$val=''){
         
-         $rutaImagen = substr($rutaImagen, 1);
+         if(empty($rutaImagen))
+         {
+            return true; 
+         }   
+        
+         /*********************************/
+         if($val <> 1)
+         {
+           $rutaImagen = substr($rutaImagen, 1);  
+         }
+         /*********************************/
+         
+         //echo 'rutaImagen 2 : '.$rutaImagen.'<br>';
          
          $imagen = imagecreatefrompng($rutaImagen);
          
@@ -280,7 +302,7 @@ class Consultas extends Conexion {
 
         imagecolortransparent($imagen, $negro);
 
-        header("Content-type: image/png");
+        //header("Content-type: image/png");
         
         imagepng($imagen, "imagenes/".$nombreImagen."_".$codigo.".png");
        
