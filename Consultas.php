@@ -226,10 +226,15 @@ class Consultas extends Conexion {
         
         $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen,'1');
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
-         
+        $valorRgb = ''; 
+        $a_valorRgb = array();
+        $a_rgb = array();
+        
         //echo 'rutaImagen : '.$rutaImagen.'<br>';
         
         $imagen = imagecreatefrompng($rutaImagen);
+        
+        $j = 0;
         
         for($i=80;$i <= 180; $i++)
         {
@@ -241,26 +246,37 @@ class Consultas extends Conexion {
             $g = ($rgb >> 8) & 0xFF;
             $b = $rgb & 0xFF;
             
-            $COLOR_ICONO = $this->getRgbConvertirAHexadecimal(array($r, $g, $b));
+            //$COLOR_ICONO = $this->getRgbConvertirAHexadecimal(array($r, $g, $b));
             
             /******************************/
-            if($COLOR_FONDO != $COLOR_ICONO)
+            /*if($COLOR_FONDO != $COLOR_ICONO)
             {
                 $r = ($rgb >> 16) & 0xFF;
                 $g = ($rgb >> 8) & 0xFF;
                 $b = $rgb & 0xFF;
 
                 return array($r, $g, $b);
-            }
+            }*/
             /******************************/
+            
+            $valorRgb = ($r + $g + $b);
+            
+            $a_valorRgb[$j] = $valorRgb;
+            $a_rgb[$j]['rgb'] = array($r, $g, $b);
+            
+            $j++;
             
          }
          
-         $r = ($rgb >> 16) & 0xFF;
+         $clave = array_search(min($a_valorRgb), $a_valorRgb);
+       
+         /*$r = ($rgb >> 16) & 0xFF;
          $g = ($rgb >> 8) & 0xFF;
-         $b = $rgb & 0xFF;
+         $b = $rgb & 0xFF;*/
 
-         return array($r, $g, $b);
+         //return array($r, $g, $b);
+         
+         return $a_rgb[$clave]['rgb'];
      }
      
     public function getObtenerRgbImagenFondo($rutaImagen,$val=''){
