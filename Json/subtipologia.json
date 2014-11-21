@@ -63,7 +63,7 @@
       "DESCRIPCION": "Atracciones Gratuitas Atracciones Gratuitas Atracciones Gratuitas Atracciones GratuitasAtracciones Gratuitas",
       "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
       "COD_TIPOLOGIA": "3",
-      "TIENE_PRESTADOR": "0"
+      "TIENE_PRESTADOR": "1"
     }
   ],
   "4": [
@@ -73,7 +73,7 @@
       "NOMBRE": "Ruta1",
       "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia82\/imgSubtipologia82.png",
       "DESCRIPCION": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 R",
-      "CONTENIDO": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 ",
+      "CONTENIDO": "Ejemplo Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 ",
       "COD_TIPOLOGIA": "4",
       "TIENE_PRESTADOR": "0"
     },
