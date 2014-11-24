@@ -4,7 +4,7 @@
         {
             "CODIGO": "7",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Historia y Cultura",
+            "NOMBRE": "History and Culture",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -14,7 +14,7 @@
         {
             "CODIGO": "8",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Compras",
+            "NOMBRE": "Shopping",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/iconoTipologia8.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/imgTipologia8.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -24,7 +24,7 @@
         {
             "CODIGO": "9",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Gastron\u00f3mico",
+            "NOMBRE": "Gastronomic",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia9\/imgTipologia9.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -34,7 +34,7 @@
         {
             "CODIGO": "10",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Religioso",
+            "NOMBRE": "Religious",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia10\/iconoTipologia10.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia10\/imgTipologia10.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -44,7 +44,7 @@
         {
             "CODIGO": "11",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Lujo",
+            "NOMBRE": "Luxury",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia11\/iconoTipologia11.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia11\/imgTipologia11.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -54,7 +54,7 @@
         {
             "CODIGO": "12",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Bogot\u00e1 verde",
+            "NOMBRE": "Bogot\u00e1 Green",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia12\/iconoTipologia12.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia12\/imgTipologia12.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -64,7 +64,7 @@
         {
             "CODIGO": "13",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Diversi\u00f3n",
+            "NOMBRE": "Fun",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia13\/iconoTipologia13.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia13\/imgTipologia13.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -86,7 +86,7 @@
         {
             "CODIGO": "16",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Alojamiento",
+            "NOMBRE": "Accommodation",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -96,7 +96,7 @@
         {
             "CODIGO": "17",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Operadores Receptivos",
+            "NOMBRE": "Receptive Operators",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia17\/iconoTipologia17.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia17\/imgTipologia17.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -106,7 +106,7 @@
         {
             "CODIGO": "18",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Agencias de Viajes",
+            "NOMBRE": "Travel Agencies",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia18\/iconoTipologia18.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia18\/imgTipologia18.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -116,7 +116,7 @@
         {
             "CODIGO": "19",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Restaurantes",
+            "NOMBRE": "Restaurants",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia19\/iconoTipologia19.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia19\/imgTipologia19.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -126,7 +126,7 @@
         {
             "CODIGO": "20",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Sitios de Rumba",
+            "NOMBRE": "Sites Rumba",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/imgTipologia20.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -148,7 +148,7 @@
         {
             "CODIGO": "21",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Embajadas y Consulados",
+            "NOMBRE": "Embassies and Consulates",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia21\/iconoTipologia21.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia21\/imgTipologia21.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -158,7 +158,7 @@
         {
             "CODIGO": "22",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Servicios Financieros",
+            "NOMBRE": "Financial Services",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia22\/iconoTipologia22.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia22\/imgTipologia22.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -168,7 +168,7 @@
         {
             "CODIGO": "23",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Informaci\u00f3n Institucional",
+            "NOMBRE": "Institutional Information",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia23\/iconoTipologia23.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia23\/imgTipologia23.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -178,7 +178,7 @@
         {
             "CODIGO": "24",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Puntos de Informaci\u00f3n Tur\u00edstica",
+            "NOMBRE": "Tourist Information Points",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia24\/iconoTipologia24.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia24\/imgTipologia24.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -188,7 +188,7 @@
         {
             "CODIGO": "25",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Transporte",
+            "NOMBRE": "Transport",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/iconoTipologia25.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -198,7 +198,7 @@
         {
             "CODIGO": "26",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Tel\u00e9fonos de Emergencia",
+            "NOMBRE": "Emergency Phones",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia26\/iconoTipologia26.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia26\/imgTipologia26.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -208,7 +208,7 @@
         {
             "CODIGO": "27",
             "COD_CLASIFICACION": "5",
-            "NOMBRE": "Convertidor de Moneda",
+            "NOMBRE": "Currency Converter",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -220,7 +220,7 @@
         {
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
+            "NOMBRE": "Why Bogot\u00e1?",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -230,7 +230,7 @@
         {
             "CODIGO": "2",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "Primera Visita",
+            "NOMBRE": "First Visit",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia2\/imgTipologia2.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -240,7 +240,7 @@
         {
             "CODIGO": "3",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "Atracciones Gratuitas",
+            "NOMBRE": "Free Attractions",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia3\/imgTipologia3.png",
             "TIENE_SUBTIPOLOGIA": "0",
@@ -250,7 +250,7 @@
         {
             "CODIGO": "4",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "Ruta Tur\u00edstica",
+            "NOMBRE": "Tourist Route",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/iconoTipologia4.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/imgTipologia4.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -260,7 +260,7 @@
         {
             "CODIGO": "5",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "Agenda de Ciudad",
+            "NOMBRE": "Town Schedule",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia5\/iconoTipologia5.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia5\/imgTipologia5.png",
             "TIENE_SUBTIPOLOGIA": "1",

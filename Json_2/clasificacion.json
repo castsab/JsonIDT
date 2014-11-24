@@ -1,28 +1,28 @@
 {
     "0": {
         "CODIGO": "6",
-        "NOMBRE": "PARA HACER"
+        "NOMBRE": "To do"
     },
     "backgroundColor": "#7F3F97",
     "1": {
         "CODIGO": "2",
-        "NOMBRE": "ZONAS TUR\u00cdSTICAS"
+        "NOMBRE": "Tourist Areas"
     },
     "2": {
         "CODIGO": "3",
-        "NOMBRE": "ATRACCIONES TUR\u00cdSTICAS"
+        "NOMBRE": "Tourist Attractions"
     },
     "3": {
         "CODIGO": "4",
-        "NOMBRE": "DIRECTORIO DE PRESTADORES"
+        "NOMBRE": "Providers Directory"
     },
     "4": {
         "CODIGO": "5",
-        "NOMBRE": "SERVICIOS AL TURISTA"
+        "NOMBRE": "Services for tourists"
     },
     "5": {
         "CODIGO": "1",
-        "NOMBRE": "DESCUBRE BOGOT\u00c1"
+        "NOMBRE": "Discover Bogot\u00e1"
     },
     "6": {
         "CODIGO": "7",

@@ -5,14 +5,14 @@ include_once 'Conexion.php';
 class Consultas extends Conexion {
 
     public $_conexion = '';
-
+    
     public function __construct() {
         parent::__construct();
     }
 
     public function getClasificaciones() {
 
-        $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from clasificacion';
+        $sql = 'select CODIGO As CODIGO,UPPER(NOMBRE) As NOMBRE from clasificacion where CODIGO IN (6,2,3,4,5,1,7) ORDER BY FIELD(CODIGO,6,2,3,4,5,1,7);';
         $rs = $this->ejecutar($sql);
         return $rs;
     }
@@ -236,7 +236,7 @@ class Consultas extends Conexion {
         
         $j = 0;
         
-        for($i=80;$i <= 180; $i++)
+        for($i=60;$i <= 180; $i++)
         {
             $rgb = '';
             
@@ -349,11 +349,36 @@ class Consultas extends Conexion {
          return $rgb;
      }
      
-     public function getIdiomas() {
+    public function getIdiomas() {
 
         $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from idioma';
         $rs = $this->ejecutar($sql);
         return $rs;
+    }
+    
+    public function getTraduccionIdioma($param){
+        
+        $cond = '';
+        $rs = '';
+        $traduccion = '';
+        
+        $cond = 'where TABLA= "'.$param['TABLA'].'" And COD_TABLA='.$param['COD_TABLA'].' And COD_IDIOMA='.$param['COD_IDIOMA'].' ';
+
+        $sql = 'select NOMBRE As NOMBRE,DESCRIPCION As DESCRIPCION from traduccion '.$cond.' ';
+
+        //echo '<br>(getTraduccionIdioma)- sql { '.$sql.' }<br>';
+        //die();
+
+        $rs = $this->ejecutar($sql);
+
+        $a_datos = mysqli_fetch_array($rs); 
+        
+        //print_r($a_datos);
+        //die();
+        
+        return $a_datos;
+        
+        
     }
 
 }

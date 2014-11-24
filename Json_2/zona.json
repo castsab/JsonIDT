@@ -3,7 +3,7 @@
     "0": {
         "CODIGO": "1",
         "NOMBRE": "Candelaria",
-        "DESCRIPCION": "Comprende el Centro de la ciudad",
+        "DESCRIPCION": "Includes Downtown1",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Zona1\/imgZona1_1.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -13,7 +13,7 @@
     "1": {
         "CODIGO": "2",
         "NOMBRE": "Usaquen",
-        "DESCRIPCION": "Comprende el parque de esa localidad",
+        "DESCRIPCION": "Includes Downtown2",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Zona2\/imgZona2.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -23,7 +23,7 @@
     "2": {
         "CODIGO": "3",
         "NOMBRE": "Zona T y Parque 93",
-        "DESCRIPCION": "Comprende desde Centro Andino hasta la caracas",
+        "DESCRIPCION": "Includes Downtown3",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -33,7 +33,7 @@
     "3": {
         "CODIGO": "4",
         "NOMBRE": "Calle 100",
-        "DESCRIPCION": "Comprende la calle 100 hasta no se",
+        "DESCRIPCION": "Includes Downtown4",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -43,7 +43,7 @@
     "4": {
         "CODIGO": "5",
         "NOMBRE": "Zona G y Calle 72",
-        "DESCRIPCION": "Comprende la Calle 72 hasta no se",
+        "DESCRIPCION": "Includes Downtown5",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -53,7 +53,7 @@
     "5": {
         "CODIGO": "6",
         "NOMBRE": "Centro Internacional",
-        "DESCRIPCION": "Comprende el Hotel Tequendama",
+        "DESCRIPCION": "Includes Downtown6",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -63,7 +63,7 @@
     "6": {
         "CODIGO": "7",
         "NOMBRE": "Teusaquillo",
-        "DESCRIPCION": "Comprende el Parkway",
+        "DESCRIPCION": "Includes Downtown7",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -73,7 +73,7 @@
     "7": {
         "CODIGO": "8",
         "NOMBRE": "Salitre",
-        "DESCRIPCION": "Comprende la Gobernaci\u00f3n de Cundinamarca hasta la Av Boyaca",
+        "DESCRIPCION": "Includes Downtown8",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -83,7 +83,7 @@
     "8": {
         "CODIGO": "9",
         "NOMBRE": "Galer\u00edas-Camp\u00edn",
-        "DESCRIPCION": "Comprende las zonas del estadio Nemesio Camacho",
+        "DESCRIPCION": "Includes Downtown9",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -93,7 +93,7 @@
     "9": {
         "CODIGO": "10",
         "NOMBRE": "20 de Julio",
-        "DESCRIPCION": "20 de Julio",
+        "DESCRIPCION": "Includes Downtown10",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -103,7 +103,7 @@
     "10": {
         "CODIGO": "11",
         "NOMBRE": "Aeropuerto",
-        "DESCRIPCION": "Aeropuerto",
+        "DESCRIPCION": "Includes Downtown11",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -113,7 +113,7 @@
     "11": {
         "CODIGO": "12",
         "NOMBRE": "Alrededores",
-        "DESCRIPCION": "Alrededores",
+        "DESCRIPCION": "Includes Downtown12",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
@@ -123,7 +123,7 @@
     "12": {
         "CODIGO": "13",
         "NOMBRE": "No Pertenece a ZIT",
-        "DESCRIPCION": "No est\u00e1 asociada",
+        "DESCRIPCION": "Includes Downtown13",
         "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Zona1\/imgZona1_1.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
