@@ -1,706 +1,705 @@
 {
-  "FECHA_CREACION": "2014-11-21",
-  "1": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "1",
-      "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
-      "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "1",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "2",
-      "NOMBRE": "Prueba 3",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia2\/imgSubtipologia2.png",
-      "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "1",
-      "TIENE_PRESTADOR": "1"
-    },
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "3",
-      "NOMBRE": "prueba 4",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia18\/imgSubtipologia18.png",
-      "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "1",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "4",
-      "NOMBRE": "Prueba 2",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia4\/imgSubtipologia4.png",
-      "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "1",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "2": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "67",
-      "NOMBRE": "Primera Visita",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "2",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "3": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "68",
-      "NOMBRE": "Atracciones Gratuitas",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "Atracciones Gratuitas Atracciones Gratuitas Atracciones Gratuitas Atracciones GratuitasAtracciones Gratuitas",
-      "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
-      "COD_TIPOLOGIA": "3",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "4": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "82",
-      "NOMBRE": "Ruta1",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia82\/imgSubtipologia82.png",
-      "DESCRIPCION": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 R",
-      "CONTENIDO": "Ejemplo Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 ",
-      "COD_TIPOLOGIA": "4",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "83",
-      "NOMBRE": "Ruta2",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia83\/imgSubtipologia83.png",
-      "DESCRIPCION": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ru",
-      "CONTENIDO": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 ",
-      "COD_TIPOLOGIA": "4",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "84",
-      "NOMBRE": "Ruta 3",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia84\/imgSubtipologia84.png",
-      "DESCRIPCION": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
-      "CONTENIDO": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
-      "COD_TIPOLOGIA": "4",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "5": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "85",
-      "NOMBRE": "Cine",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia5\/Subtipologia85\/imgSubtipologia85.png",
-      "DESCRIPCION": "Cine cine cine cine",
-      "CONTENIDO": "Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine",
-      "COD_TIPOLOGIA": "5",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "6": [
-    {
-      "COD_CLASIFICACION": "1",
-      "CODIGO": "5",
-      "NOMBRE": "Top 10",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "6",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "7": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "6",
-      "NOMBRE": "Museos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/Subtipologia6\/imgSubtipologia6.png",
-      "DESCRIPCION": "Museos museos museos museos",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "7",
-      "TIENE_PRESTADOR": "1"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "7",
-      "NOMBRE": "Teatros",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/Subtipologia7\/imgSubtipologia7.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "f\r\n\r\ng\r\n\r\nh\r\n\r\ni\r\n\r\nj",
-      "COD_TIPOLOGIA": "7",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "8",
-      "NOMBRE": "Monumentos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "7",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "8": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "9",
-      "NOMBRE": "Centros Comerciales",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "10",
-      "NOMBRE": "Moda y Confecci\u00f3n",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "11",
-      "NOMBRE": "Cuero y Calzado",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "12",
-      "NOMBRE": "Artesan\u00eda",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "13",
-      "NOMBRE": "Libros y M\u00fasica",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "14",
-      "NOMBRE": "Arte",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "15",
-      "NOMBRE": "Antig\u00fcedades",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "16",
-      "NOMBRE": "Tiendas por Departamentos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "17",
-      "NOMBRE": "Esmeraldas, Orfebrer\u00eda y Joyer\u00eda",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "66",
-      "NOMBRE": "Especializadas",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "8",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "9": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "18",
-      "NOMBRE": "Plazas de Mercado",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "9",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "19",
-      "NOMBRE": "Atracciones Gastron\u00f3micas",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "9",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "10": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "20",
-      "NOMBRE": "Iglesias",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "10",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "11": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "21",
-      "NOMBRE": "Lujo",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": "t\r\n\r\ng\r\n\r\nh\r\n\r\nj\r\n\r\nk\r\n\r\nl",
-      "COD_TIPOLOGIA": "11",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "12": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "22",
-      "NOMBRE": "Humedales",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "12",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "23",
-      "NOMBRE": "Aventura",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "12",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "24",
-      "NOMBRE": "Reservas Naturales",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "12",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "13": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "25",
-      "NOMBRE": "Parques Tem\u00e1ticos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "13",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "14": [
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "26",
-      "NOMBRE": "Campos de Golf P\u00fablicos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "14",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "3",
-      "CODIGO": "27",
-      "NOMBRE": "Clubes",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "14",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "16": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "29",
-      "NOMBRE": "Hoteles",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia29\/imgSubtipologia29.png",
-      "DESCRIPCION": "Hoteles descripci\u00f3n de hoteles",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "16",
-      "TIENE_PRESTADOR": "1"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "30",
-      "NOMBRE": "Hostales",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia30\/imgSubtipologia30.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "fsefsefs\r\nsfefsefsef\r\nsefsefsefes\r\nsefsefse\r\n\r\nfsefsefsef\r\nesfsefsef\r\nsefsefsefes\r\nfsefsef\r\n\r\nsef\r\nsef\r\n\r\nprueba prueba\r\nprueba\r\nprueba aaa",
-      "COD_TIPOLOGIA": "16",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "31",
-      "NOMBRE": "Apartahoteles",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia31\/imgSubtipologia31.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "16",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "17": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "32",
-      "NOMBRE": "Operadores Receptivos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "vgsdfgsfdg fsgsdf gsd",
-      "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
-      "COD_TIPOLOGIA": "17",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "18": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "33",
-      "NOMBRE": "Agencias de Viajes",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "18",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "19": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "34",
-      "NOMBRE": "Caf\u00e9",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "35",
-      "NOMBRE": "T\u00edpica Colombiana",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "36",
-      "NOMBRE": "Carnes",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "37",
-      "NOMBRE": "De mar",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "38",
-      "NOMBRE": "Peruana",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "39",
-      "NOMBRE": "Espa\u00f1ola",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "40",
-      "NOMBRE": "Brasilera",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "41",
-      "NOMBRE": "Francesa",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "42",
-      "NOMBRE": "Mexicana",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "43",
-      "NOMBRE": "Italiana",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "44",
-      "NOMBRE": "Americana",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia19\/Subtipologia44\/imgSubtipologia44.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "45",
-      "NOMBRE": "Mediterr\u00e1nea",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "46",
-      "NOMBRE": "Internacional",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "47",
-      "NOMBRE": "R\u00e1pida",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "19",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "20": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "48",
-      "NOMBRE": "Discotecas",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/Subtipologia48\/imgSubtipologia48.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "a\r\n\r\nb\r\n\r\nc\r\n\r\nd",
-      "COD_TIPOLOGIA": "20",
-      "TIENE_PRESTADOR": "1"
-    },
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "49",
-      "NOMBRE": "Bares",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "20",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "41": [
-    {
-      "COD_CLASIFICACION": "4",
-      "CODIGO": "81",
-      "NOMBRE": "PRUEBA",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "ASDFASDFA",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "41",
-      "TIENE_PRESTADOR": "1"
-    }
-  ],
-  "21": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "50",
-      "NOMBRE": "Embajadas y Consulados",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "Descripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen",
-      "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxippp",
-      "COD_TIPOLOGIA": "21",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "22": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "51",
-      "NOMBRE": "Compra y Venta de Divisas",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "22",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "52",
-      "NOMBRE": "Cajeros Autom\u00e1ticos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "22",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "23": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "53",
-      "NOMBRE": "Informaci\u00f3n Institucional",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "23",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "24": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "54",
-      "NOMBRE": "Fijos",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "24",
-      "TIENE_PRESTADOR": "0"
-    },
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "55",
-      "NOMBRE": "Virtuales",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": null,
-      "COD_TIPOLOGIA": "24",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "25": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "56",
-      "NOMBRE": "SITP",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/Subtipologia56\/imgSubtipologia56.png",
-      "DESCRIPCION": "",
-      "CONTENIDO": "",
-      "COD_TIPOLOGIA": "25",
-      "TIENE_PRESTADOR": "1"
-    },
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "57",
-      "NOMBRE": "Taxis",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/Subtipologia57\/imgSubtipologia57.png",
-      "DESCRIPCION": "dddfdfd \r\ndf\r\nd\r\nf\r\ndf",
-      "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
-      "COD_TIPOLOGIA": "25",
-      "TIENE_PRESTADOR": "0"
-    }
-  ],
-  "26": [
-    {
-      "COD_CLASIFICACION": "5",
-      "CODIGO": "58",
-      "NOMBRE": "Tel\u00e9fonos de Emergencia",
-      "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
-      "DESCRIPCION": "",
-      "CONTENIDO": "dfsdsffds\r\nfdsfdsdfs\r\ndfsfddfs\r\n\r\nsdffds\r\nfdfds\r\n\r\ndffdfds\r\ndfsfds",
-      "COD_TIPOLOGIA": "26",
-      "TIENE_PRESTADOR": "0"
-    }
-  ]
+    "FECHA_CREACION": "2014-11-24",
+    "1": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "1",
+            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
+            "COD_TIPOLOGIA": "1",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "2",
+            "NOMBRE": "Prueba 3",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia2\/imgSubtipologia2.png",
+            "COD_TIPOLOGIA": "1",
+            "TIENE_PRESTADOR": "1"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "3",
+            "NOMBRE": "prueba 4",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia18\/imgSubtipologia18.png",
+            "COD_TIPOLOGIA": "1",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "4",
+            "NOMBRE": "Prueba 2",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/Subtipologia4\/imgSubtipologia4.png",
+            "COD_TIPOLOGIA": "1",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "2": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "67",
+            "NOMBRE": "Primera Visita",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "2",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "3": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "68",
+            "NOMBRE": "Atracciones Gratuitas",
+            "DESCRIPCION": "Atracciones Gratuitas Atracciones Gratuitas Atracciones Gratuitas Atracciones GratuitasAtracciones Gratuitas",
+            "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "3",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "4": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "82",
+            "NOMBRE": "Ruta1",
+            "DESCRIPCION": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 R",
+            "CONTENIDO": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia82\/imgSubtipologia82.png",
+            "COD_TIPOLOGIA": "4",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "83",
+            "NOMBRE": "Ruta2",
+            "DESCRIPCION": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ru",
+            "CONTENIDO": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia83\/imgSubtipologia83.png",
+            "COD_TIPOLOGIA": "4",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "84",
+            "NOMBRE": "Ruta 3",
+            "DESCRIPCION": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
+            "CONTENIDO": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia4\/Subtipologia84\/imgSubtipologia84.png",
+            "COD_TIPOLOGIA": "4",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "5": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "85",
+            "NOMBRE": "Cine",
+            "DESCRIPCION": "Cine cine cine cine",
+            "CONTENIDO": "Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia5\/Subtipologia85\/imgSubtipologia85.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "6": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "5",
+            "NOMBRE": "Top 10",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "6",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "7": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "6",
+            "NOMBRE": "Museos",
+            "DESCRIPCION": "Museos museos museos museos",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/Subtipologia6\/imgSubtipologia6.png",
+            "COD_TIPOLOGIA": "7",
+            "TIENE_PRESTADOR": "1"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "7",
+            "NOMBRE": "Teatros",
+            "DESCRIPCION": "",
+            "CONTENIDO": "f\r\n\r\ng\r\n\r\nh\r\n\r\ni\r\n\r\nj",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/Subtipologia7\/imgSubtipologia7.png",
+            "COD_TIPOLOGIA": "7",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "8",
+            "NOMBRE": "Monumentos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "7",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "8": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "9",
+            "NOMBRE": "Centros Comerciales",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "10",
+            "NOMBRE": "Moda y Confecci\u00f3n",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "11",
+            "NOMBRE": "Cuero y Calzado",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "12",
+            "NOMBRE": "Artesan\u00eda",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "13",
+            "NOMBRE": "Libros y M\u00fasica",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "14",
+            "NOMBRE": "Arte",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "15",
+            "NOMBRE": "Antig\u00fcedades",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "16",
+            "NOMBRE": "Tiendas por Departamentos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "17",
+            "NOMBRE": "Esmeraldas, Orfebrer\u00eda y Joyer\u00eda",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "66",
+            "NOMBRE": "Especializadas",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "8",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "9": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "18",
+            "NOMBRE": "Plazas de Mercado",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "9",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "19",
+            "NOMBRE": "Atracciones Gastron\u00f3micas",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "9",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "10": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "20",
+            "NOMBRE": "Iglesias",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "10",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "11": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "21",
+            "NOMBRE": "Lujo",
+            "DESCRIPCION": "",
+            "CONTENIDO": "t\r\n\r\ng\r\n\r\nh\r\n\r\nj\r\n\r\nk\r\n\r\nl",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "11",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "12": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "22",
+            "NOMBRE": "Humedales",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "12",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "23",
+            "NOMBRE": "Aventura",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "12",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "24",
+            "NOMBRE": "Reservas Naturales",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "12",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "13": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "25",
+            "NOMBRE": "Parques Tem\u00e1ticos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "13",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "14": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "26",
+            "NOMBRE": "Campos de Golf P\u00fablicos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "14",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "27",
+            "NOMBRE": "Clubes",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "14",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "16": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "29",
+            "NOMBRE": "Hoteles",
+            "DESCRIPCION": "Hoteles descripci\u00f3n de hoteles",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia29\/imgSubtipologia29.png",
+            "COD_TIPOLOGIA": "16",
+            "TIENE_PRESTADOR": "1"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "30",
+            "NOMBRE": "Hostales",
+            "DESCRIPCION": "",
+            "CONTENIDO": "fsefsefs\r\nsfefsefsef\r\nsefsefsefes\r\nsefsefse\r\n\r\nfsefsefsef\r\nesfsefsef\r\nsefsefsefes\r\nfsefsef\r\n\r\nsef\r\nsef\r\n\r\nprueba prueba\r\nprueba\r\nprueba aaa",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia30\/imgSubtipologia30.png",
+            "COD_TIPOLOGIA": "16",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "31",
+            "NOMBRE": "Apartahoteles",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/Subtipologia31\/imgSubtipologia31.png",
+            "COD_TIPOLOGIA": "16",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "17": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "32",
+            "NOMBRE": "Operadores Receptivos",
+            "DESCRIPCION": "vgsdfgsfdg fsgsdf gsd",
+            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "17",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "18": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "33",
+            "NOMBRE": "Agencias de Viajes",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "18",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "19": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "34",
+            "NOMBRE": "Caf\u00e9",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "35",
+            "NOMBRE": "T\u00edpica Colombiana",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "36",
+            "NOMBRE": "Carnes",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "37",
+            "NOMBRE": "De mar",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "38",
+            "NOMBRE": "Peruana",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "39",
+            "NOMBRE": "Espa\u00f1ola",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "40",
+            "NOMBRE": "Brasilera",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "41",
+            "NOMBRE": "Francesa",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "42",
+            "NOMBRE": "Mexicana",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "43",
+            "NOMBRE": "Italiana",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "44",
+            "NOMBRE": "Americana",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia19\/Subtipologia44\/imgSubtipologia44.png",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "45",
+            "NOMBRE": "Mediterr\u00e1nea",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "46",
+            "NOMBRE": "Internacional",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "47",
+            "NOMBRE": "R\u00e1pida",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "20": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "48",
+            "NOMBRE": "Discotecas",
+            "DESCRIPCION": "",
+            "CONTENIDO": "a\r\n\r\nb\r\n\r\nc\r\n\r\nd",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/Subtipologia48\/imgSubtipologia48.png",
+            "COD_TIPOLOGIA": "20",
+            "TIENE_PRESTADOR": "1"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "49",
+            "NOMBRE": "Bares",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "20",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "41": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "81",
+            "NOMBRE": "PRUEBA",
+            "DESCRIPCION": "ASDFASDFA",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "41",
+            "TIENE_PRESTADOR": "1"
+        }
+    ],
+    "21": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "50",
+            "NOMBRE": "Embajadas y Consulados",
+            "DESCRIPCION": "Descripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen",
+            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxippp",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "21",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "22": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "51",
+            "NOMBRE": "Compra y Venta de Divisas",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "22",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "52",
+            "NOMBRE": "Cajeros Autom\u00e1ticos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "22",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "23": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "53",
+            "NOMBRE": "Informaci\u00f3n Institucional",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "23",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "24": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "54",
+            "NOMBRE": "Fijos",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "24",
+            "TIENE_PRESTADOR": "0"
+        },
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "55",
+            "NOMBRE": "Virtuales",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "24",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "25": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "56",
+            "NOMBRE": "SITP",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/Subtipologia56\/imgSubtipologia56.png",
+            "COD_TIPOLOGIA": "25",
+            "TIENE_PRESTADOR": "1"
+        },
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "57",
+            "NOMBRE": "Taxis",
+            "DESCRIPCION": "dddfdfd \r\ndf\r\nd\r\nf\r\ndf",
+            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/Subtipologia57\/imgSubtipologia57.png",
+            "COD_TIPOLOGIA": "25",
+            "TIENE_PRESTADOR": "0"
+        }
+    ],
+    "26": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "58",
+            "NOMBRE": "Tel\u00e9fonos de Emergencia",
+            "DESCRIPCION": "",
+            "CONTENIDO": "dfsdsffds\r\nfdsfdsdfs\r\ndfsfddfs\r\n\r\nsdffds\r\nfdfds\r\n\r\ndffdfds\r\ndfsfds",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
+            "COD_TIPOLOGIA": "26",
+            "TIENE_PRESTADOR": "0"
+        }
+    ]
 }
-

@@ -1,31 +1,37 @@
-{
-    "0": {
+[
+    {
         "CODIGO": "6",
-        "NOMBRE": "To do"
+        "NOMBRE": "To do",
+        "backgroundColor": "#E2423D"
     },
-    "backgroundColor": "#7F3F97",
-    "1": {
+    {
         "CODIGO": "2",
-        "NOMBRE": "Tourist Areas"
+        "NOMBRE": "Tourist Areas",
+        "backgroundColor": "#2A6093"
     },
-    "2": {
+    {
         "CODIGO": "3",
-        "NOMBRE": "Tourist Attractions"
+        "NOMBRE": "Tourist Attractions",
+        "backgroundColor": "#668439"
     },
-    "3": {
+    {
         "CODIGO": "4",
-        "NOMBRE": "Providers Directory"
+        "NOMBRE": "Providers Directory",
+        "backgroundColor": "#E03D76"
     },
-    "4": {
+    {
         "CODIGO": "5",
-        "NOMBRE": "Services for tourists"
+        "NOMBRE": "Services for tourists",
+        "backgroundColor": "#D48528"
     },
-    "5": {
+    {
         "CODIGO": "1",
-        "NOMBRE": "Discover Bogot\u00e1"
+        "NOMBRE": "Discover Bogot\u00e1",
+        "backgroundColor": "#0086B2"
     },
-    "6": {
+    {
         "CODIGO": "7",
-        "NOMBRE": "AGENDA DE LA CIUDAD"
+        "NOMBRE": "AGENDA DE LA CIUDAD",
+        "backgroundColor": "#7F3F97"
     }
-}
+]

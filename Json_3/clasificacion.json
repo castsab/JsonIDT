@@ -1,31 +1,37 @@
-{
-    "0": {
+[
+    {
         "CODIGO": "6",
-        "NOMBRE": "PARA HACER"
+        "NOMBRE": "PARA HACER",
+        "backgroundColor": "#E2423D"
     },
-    "backgroundColor": "#7F3F97",
-    "1": {
+    {
         "CODIGO": "2",
-        "NOMBRE": "ZONAS TUR\u00cdSTICAS"
+        "NOMBRE": "ZONAS TUR\u00cdSTICAS",
+        "backgroundColor": "#2A6093"
     },
-    "2": {
+    {
         "CODIGO": "3",
-        "NOMBRE": "ATRACCIONES TUR\u00cdSTICAS"
+        "NOMBRE": "ATRACCIONES TUR\u00cdSTICAS",
+        "backgroundColor": "#668439"
     },
-    "3": {
+    {
         "CODIGO": "4",
-        "NOMBRE": "DIRECTORIO DE PRESTADORES"
+        "NOMBRE": "DIRECTORIO DE PRESTADORES",
+        "backgroundColor": "#E03D76"
     },
-    "4": {
+    {
         "CODIGO": "5",
-        "NOMBRE": "SERVICIOS AL TURISTA"
+        "NOMBRE": "SERVICIOS AL TURISTA",
+        "backgroundColor": "#D48528"
     },
-    "5": {
+    {
         "CODIGO": "1",
-        "NOMBRE": "DESCUBRE BOGOT\u00c1"
+        "NOMBRE": "DESCUBRE BOGOT\u00c1",
+        "backgroundColor": "#0086B2"
     },
-    "6": {
+    {
         "CODIGO": "7",
-        "NOMBRE": "AGENDA DE LA CIUDAD"
+        "NOMBRE": "AGENDA DE LA CIUDAD",
+        "backgroundColor": "#7F3F97"
     }
-}
+]
