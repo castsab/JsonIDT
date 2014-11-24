@@ -87,7 +87,7 @@ class Json extends Consultas {
                 $backgroundColor = $search_array[$rw['CODIGO']];
             }
             
-            $a_clasificaciones['backgroundColor'] = $backgroundColor;
+            $a_clasificaciones[$i]['backgroundColor'] = $backgroundColor;
            
             $i++;
         }
