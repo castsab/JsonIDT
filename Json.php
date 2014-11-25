@@ -16,7 +16,18 @@ class Json extends Consultas {
     public function setCrearArchivoJson($array_datos,$ruta_archivo){
         
         $file = fopen($ruta_archivo, "w") or die("Problemas para generar el archivo Json - ( ".$ruta_archivo." )");
-        fwrite($file, json_encode($array_datos,JSON_PRETTY_PRINT));
+        
+        $validar = $this->getServidor();
+        
+        if($validar == 1)
+        {
+            fwrite($file, json_encode($array_datos,JSON_PRETTY_PRINT));
+        }
+        else
+        {
+            fwrite($file, json_encode($array_datos));
+        }
+        
     }
 
     public function setJsonIdioma(){
@@ -26,7 +37,7 @@ class Json extends Consultas {
 
         $rs = $this->getIdiomas();
 
-        $i = 1;
+        $i = 0;
 
         while ($rw = mysqli_fetch_array($rs)) {
 
@@ -35,7 +46,7 @@ class Json extends Consultas {
 
             $directorio = "Json_".$rw['CODIGO'];
 
-            if($i <> 1)
+            if($i <> 0)
             {
                 $this->setCrearDirectorio($directorio);
             }
@@ -415,7 +426,7 @@ class Json extends Consultas {
 
             //------------------------------------------------
             $rss = '';
-            //$a_prestadores_subtipologias = '';
+            $a_prestadores_subtipologias = '';
 
             $rss = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO']));
 
@@ -506,7 +517,7 @@ class Json extends Consultas {
             //------------------------------------------------
 
             if($j <> 0){
-               //$this->setCrearArchivoJson($a_prestadores_subtipologias,$rutaArchivo);
+               $this->setCrearArchivoJson($a_prestadores_subtipologias,$rutaArchivo);
             }
 
             $i++;
@@ -516,7 +527,7 @@ class Json extends Consultas {
         print_r($a_prestadores_subtipologias);
         echo '</pre>';*/
         
-        $this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
+        //$this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
         
     }
     

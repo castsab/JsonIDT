@@ -6,13 +6,54 @@ class Consultas extends Conexion {
 
     public $_conexion = '';
     
+    public $_TB_CLASIFICACION = '';
+    public $_TB_TIPOLOGIA = '';
+    public $_TB_SUBTIPOLOGIA = '';
+    public $_TB_ZONA = '';
+    public $_TB_ZONA_TIPOLOGIA = '';
+    public $_TB_IMAGENES = '';
+    public $_TB_PRESTADOR_SUBTIPOLOGIA = '';
+    public $_TB_PRESTADOR = '';
+    public $_TB_IDIOMA = '';
+    public $_TB_TRADUCCION = '';
+    
     public function __construct() {
+        
+        $validar = $this->getServidor();
+        
+        if($validar == 1)
+        {
+            $this->_TB_CLASIFICACION = 'clasificacion';
+            $this->_TB_TIPOLOGIA = 'tipologia';
+            $this->_TB_SUBTIPOLOGIA = 'subtipologia';
+            $this->_TB_ZONA = 'zona';
+            $this->_TB_ZONA_TIPOLOGIA = 'zona_tipologia';
+            $this->_TB_IMAGENES = 'imagenes';
+            $this->_TB_PRESTADOR_SUBTIPOLOGIA = 'prestador_subtipologia';
+            $this->_TB_PRESTADOR = 'prestador';
+            $this->_TB_IDIOMA = 'idioma';
+            $this->_TB_TRADUCCION = 'traduccion';
+        }
+        else
+        {
+            $this->_TB_CLASIFICACION = 'CLASIFICACION';
+            $this->_TB_TIPOLOGIA = 'TIPOLOGIA';
+            $this->_TB_SUBTIPOLOGIA = 'SUBTIPOLOGIA';
+            $this->_TB_ZONA = 'ZONA';
+            $this->_TB_ZONA_TIPOLOGIA = 'ZONA_TIPOLOGIA';
+            $this->_TB_IMAGENES = 'IMAGENES';
+            $this->_TB_PRESTADOR_SUBTIPOLOGIA = 'PRESTADOR_SUBTIPOLOGIA';
+            $this->_TB_PRESTADOR = 'PRESTADOR';
+            $this->_TB_IDIOMA = 'IDIOMA';
+            $this->_TB_TRADUCCION = 'TRADUCCION';
+        }
+        
         parent::__construct();
     }
 
     public function getClasificaciones() {
 
-        $sql = 'select CODIGO As CODIGO,UPPER(NOMBRE) As NOMBRE from clasificacion where CODIGO IN (6,2,3,4,5,1,7) ORDER BY FIELD(CODIGO,6,2,3,4,5,1,7);';
+        $sql = 'select CODIGO As CODIGO,UPPER(NOMBRE) As NOMBRE from '.$this->_TB_CLASIFICACION.' where CODIGO IN (6,2,3,4,5,1,7) ORDER BY FIELD(CODIGO,6,2,3,4,5,1,7);';
         $rs = $this->ejecutar($sql);
         return $rs;
     }
@@ -34,7 +75,7 @@ class Consultas extends Conexion {
                     IMAGEN As IMAGEN,
                     TIENE_SUBTIPOLOGIA As TIENE_SUBTIPOLOGIA
                 from 
-                    tipologia
+                    '.$this->_TB_TIPOLOGIA.'
                 '.$cond.' ORDER BY COD_CLASIFICACION ASC';
         
         $rs = $this->ejecutar($sql);
@@ -59,7 +100,7 @@ class Consultas extends Conexion {
                     COD_TIPOLOGIA As COD_TIPOLOGIA,
                     CONTENIDO As CONTENIDO
                 from 
-                    subtipologia
+                    '.$this->_TB_SUBTIPOLOGIA.'
                     '.$cond.' ORDER BY CODIGO ASC';
         
         //echo '<br>(getSubTipologias) - sql { '.$sql.' }<br>';
@@ -78,7 +119,7 @@ class Consultas extends Conexion {
                     PUNTO_MINIMO As PUNTO_MINIMO,
                     PUNTO_MAXIMO As PUNTO_MAXIMO
                 from 
-                    zona
+                    '.$this->_TB_ZONA.'
                 ORDER BY CODIGO ASC';
         
         $rs = $this->ejecutar($sql);
@@ -104,8 +145,8 @@ class Consultas extends Conexion {
                     t.TIENE_SUBTIPOLOGIA,
                     t.ICONO As ICONO
                 from 
-                    zona_tipologia zt 
-                    inner JOIN tipologia t on zt.CODIGO_TIPOLOGIA=t.CODIGO
+                    $this->_TB_ZONA_TIPOLOGIA zt 
+                    inner JOIN $this->_TB_TIPOLOGIA t on zt.CODIGO_TIPOLOGIA=t.CODIGO
                     $cond ORDER BY zt.CODIGO_ZONA,t.CODIGO";
         
         //echo '<br>(getZonaTipologia) - sql { '.$sql.' }<br>';
@@ -124,7 +165,7 @@ class Consultas extends Conexion {
         if(!empty($param['CODIGO_PRESTADOR']))
         {
             //$cond = 'where CODIGO_PRESTADOR= '.$param['CODIGO_PRESTADOR'].' ';
-            $sql = 'select * from imagenes where CODIGO_PRESTADOR='.$param['CODIGO_PRESTADOR'].' limit 1';
+            $sql = 'select * from '.$this->_TB_IMAGENES.' where CODIGO_PRESTADOR='.$param['CODIGO_PRESTADOR'].' limit 1';
             
             //echo '<br>(getImagenPrestador)- sql { '.$sql.' }<br>';
         
@@ -149,7 +190,7 @@ class Consultas extends Conexion {
         if(!empty($param['CODIGO_PRESTADOR']))
         {
             //$cond = 'where CODIGO_PRESTADOR= '.$param['CODIGO_PRESTADOR'].' ';
-            $sql = 'select IMAGEN As IMAGEN from imagenes
+            $sql = 'select IMAGEN As IMAGEN from '.$this->_TB_IMAGENES.'
                     where CODIGO_PRESTADOR='.$param['CODIGO_PRESTADOR'].' limit 1';
             
             //echo '<br>(getImagenPrestador)- sql { '.$sql.' }<br>';
@@ -192,8 +233,8 @@ class Consultas extends Conexion {
                     p.PRECIO_PROMEDIO,
                     p.HORARIO,
                     P.URL_VIDEO
-                from subtipologia s inner join prestador_subtipologia ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
-                                    inner join prestador p on p.CODIGO=ps.CODIGO_PRESTADOR 
+                from $this->_TB_SUBTIPOLOGIA s inner join $this->_TB_PRESTADOR_SUBTIPOLOGIA ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
+                                    inner join $this->_TB_PRESTADOR p on p.CODIGO=ps.CODIGO_PRESTADOR 
                 $cond";
         
         //echo '<br>(getPrestadorSubtipologia)- sql { '.$sql.' }<br>';
@@ -351,7 +392,7 @@ class Consultas extends Conexion {
      
     public function getIdiomas() {
 
-        $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from idioma';
+        $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from '.$this->_TB_IDIOMA.' ';
         $rs = $this->ejecutar($sql);
         return $rs;
     }
@@ -364,7 +405,7 @@ class Consultas extends Conexion {
         
         $cond = 'where TABLA= "'.$param['TABLA'].'" And COD_TABLA='.$param['COD_TABLA'].' And COD_IDIOMA='.$param['COD_IDIOMA'].' ';
 
-        $sql = 'select NOMBRE As NOMBRE,DESCRIPCION As DESCRIPCION from traduccion '.$cond.' ';
+        $sql = 'select NOMBRE As NOMBRE,DESCRIPCION As DESCRIPCION from '.$this->_TB_TRADUCCION.' '.$cond.' ';
 
         //echo '<br>(getTraduccionIdioma)- sql { '.$sql.' }<br>';
         //die();
@@ -378,6 +419,19 @@ class Consultas extends Conexion {
         
         return $a_datos;
         
+        
+    }
+    
+    public function getServidor() {
+        
+        if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') 
+        {
+            return true;
+        } 
+        else 
+        {
+            return false;
+        }
         
     }
 
