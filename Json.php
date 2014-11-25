@@ -229,10 +229,10 @@ class Json extends Consultas {
                 $a_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
                 $a_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
 
+                /************************************/
                 $a_datos = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$row['CODIGO']));
-
                 $validar = mysqli_fetch_array($a_datos);
-
+                
                 if(empty($validar))
                 {
                     $a_subtipologias[$rw['CODIGO']][$j]['TIENE_PRESTADOR'] = '0';
@@ -241,6 +241,21 @@ class Json extends Consultas {
                 {
                     $a_subtipologias[$rw['CODIGO']][$j]['TIENE_PRESTADOR'] = '1';
                 }
+                /************************************/
+                
+                /************************************/
+                $a_datoss = $this->getRutaPrestador(array('CODIGO'=>$row['CODIGO']));
+                $validar_ruta = mysqli_fetch_array($a_datoss);
+                
+                if(empty($validar_ruta))
+                {
+                    $a_subtipologias[$rw['CODIGO']][$j]['TIENE_RUTA'] = '0';
+                }
+                else
+                {
+                    $a_subtipologias[$rw['CODIGO']][$j]['TIENE_RUTA'] = '1';
+                }
+                /************************************/
 
                 $a_subtipologias[$rw['CODIGO']][$j]['CONTENIDO'] = $row['CONTENIDO'];
 
