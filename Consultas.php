@@ -16,12 +16,14 @@ class Consultas extends Conexion {
     public $_TB_PRESTADOR = '';
     public $_TB_IDIOMA = '';
     public $_TB_TRADUCCION = '';
+    public $_TB_RUTA_PRESTADOR = '';
+    public $_validarServer = '';
     
     public function __construct() {
         
-        $validar = $this->getServidor();
+        $this->_validarServer = $this->getServidor();
         
-        if($validar == 1)
+        if($this->_validarServer == 1)
         {
             $this->_TB_CLASIFICACION = 'clasificacion';
             $this->_TB_TIPOLOGIA = 'tipologia';
@@ -33,6 +35,7 @@ class Consultas extends Conexion {
             $this->_TB_PRESTADOR = 'prestador';
             $this->_TB_IDIOMA = 'idioma';
             $this->_TB_TRADUCCION = 'traduccion';
+            $this->_TB_RUTA_PRESTADOR = 'ruta_prestador';
         }
         else
         {
@@ -46,6 +49,7 @@ class Consultas extends Conexion {
             $this->_TB_PRESTADOR = 'PRESTADOR';
             $this->_TB_IDIOMA = 'IDIOMA';
             $this->_TB_TRADUCCION = 'TRADUCCION';
+            $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
         }
         
         parent::__construct();
@@ -262,7 +266,14 @@ class Consultas extends Conexion {
         }
         
         /*******************************************/
-        $rutaImagen = substr($rutaImagen, 1);
+        if($this->_validarServer == 1)
+        {
+            $rutaImagen = substr($rutaImagen, 1);
+        }
+        else
+        {
+            $rutaImagen = $rutaImagen;
+        }
         /*******************************************/
         
         $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen,'1');
@@ -330,7 +341,14 @@ class Consultas extends Conexion {
          /*********************************/
          if($val <> 1)
          {
-           $rutaImagen = substr($rutaImagen, 1);  
+            if($this->_validarServer == 1)
+            {
+                $rutaImagen = substr($rutaImagen, 1);
+            }
+            else
+            {
+                $rutaImagen = $rutaImagen;
+            }
          }
          /*********************************/
          
@@ -393,6 +411,9 @@ class Consultas extends Conexion {
     public function getIdiomas() {
 
         $sql = 'select CODIGO As CODIGO,NOMBRE As NOMBRE from '.$this->_TB_IDIOMA.' ';
+        
+        //echo '<br>(getIdiomas)- sql { '.$sql.' }<br>';
+        
         $rs = $this->ejecutar($sql);
         return $rs;
     }
@@ -420,6 +441,23 @@ class Consultas extends Conexion {
         return $a_datos;
         
         
+    }
+    
+    public function getRutaPrestador($param){
+        
+        $cond = '';
+        $rs = '';
+        
+        $cond = 'where CODIGO_RUTA='.$param['CODIGO'].' ';
+
+        $sql = 'select p.CODIGO As CODIGO,p.NOMBRE As NOMBRE,REPLACE( REPLACE( REPLACE( AsText(p.UBICACION),"POINT(","" ),")","")," ",",") As UBICACION
+                from '.$this->_TB_RUTA_PRESTADOR.' rp inner join '.$this->_TB_PRESTADOR.' p on rp.CODIGO_PRESTADOR=p.CODIGO '.$cond.' ';
+        
+        //echo '<br>(getRutaPrestador)- sql { '.$sql.' }<br>';
+        
+        $rs = $this->ejecutar($sql);
+
+        return $rs;
     }
     
     public function getServidor() {
