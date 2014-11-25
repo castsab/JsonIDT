@@ -415,7 +415,7 @@ class Json extends Consultas {
 
             //------------------------------------------------
             $rss = '';
-            $a_prestadores_subtipologias = '';
+            //$a_prestadores_subtipologias = '';
 
             $rss = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO']));
 
@@ -506,7 +506,7 @@ class Json extends Consultas {
             //------------------------------------------------
 
             if($j <> 0){
-               $this->setCrearArchivoJson($a_prestadores_subtipologias,$rutaArchivo);
+               //$this->setCrearArchivoJson($a_prestadores_subtipologias,$rutaArchivo);
             }
 
             $i++;
@@ -516,7 +516,7 @@ class Json extends Consultas {
         print_r($a_prestadores_subtipologias);
         echo '</pre>';*/
         
-        //$this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
+        $this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
         
     }
     
