@@ -1,14 +1,14 @@
-{
-    "1": {
+[
+   {
         "CODIGO_IDIOMA": "1",
         "NOMBRE": "Espa\u00f1ol"
     },
-    "2": {
+     {
         "CODIGO_IDIOMA": "2",
         "NOMBRE": "Ingles"
     },
-    "3": {
+    {
         "CODIGO_IDIOMA": "3",
         "NOMBRE": "Alem\u00e1n"
     }
-}
+]
