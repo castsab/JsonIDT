@@ -5,7 +5,7 @@ include_once 'Consultas.php';
 class Json extends Consultas {
     
     public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
-
+   
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
         {
@@ -17,9 +17,7 @@ class Json extends Consultas {
         
         $file = fopen($ruta_archivo, "w") or die("Problemas para generar el archivo Json - ( ".$ruta_archivo." )");
         
-        $validar = $this->getServidor();
-        
-        if($validar == 1)
+        if($this->_validarServer == 1)
         {
             fwrite($file, json_encode($array_datos,JSON_PRETTY_PRINT));
         }
@@ -529,6 +527,63 @@ class Json extends Consultas {
         
         //$this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
         
+    }
+    
+    public function setJsonRutaPrestador($codigo_idioma){
+        
+        $rs = '';
+        $rw = '';
+
+        $a_ruta_prestador = array();
+        
+        $rutaArchivo = ($codigo_idioma == 1)?"Json/ruta_prestador.json":"Json_".$codigo_idioma."/ruta_prestador.json";
+        //$rutaArchivo = "Json/zona_tipologia.json";
+
+        $rs = $this->getSubTipologias();
+
+        $i = 0;
+
+        $a_ruta_prestador['FECHA_CREACION'] = date('Y-m-d');
+
+        while ($rw = mysqli_fetch_array($rs)) {
+
+            //------------------------------------------------
+            $rss = '';
+
+            $rss = $this->getRutaPrestador(array('CODIGO'=>$rw['CODIGO']));
+
+            $j = 0;
+
+            while ($row = mysqli_fetch_array($rss)) {
+
+                if($codigo_idioma <> 1){
+                    
+                    $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$row['CODIGO'],'TABLA'=>'PRESTADOR', 'COD_IDIOMA'=>$codigo_idioma));
+                    $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?$row['NOMBRE']:$a_idioma['NOMBRE'];
+                    
+                }
+                
+                $a_ruta_prestador[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO'];
+                $a_ruta_prestador[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
+                
+                //consulto la imagen del prestador
+                $img_prestador = $this->getImagenPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO']));
+               
+                $a_ruta_prestador[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
+                $a_ruta_prestador[$rw['CODIGO']][$j]['UBICACION'] = utf8_encode($row['UBICACION']);
+                
+                $j++;
+            }
+            //------------------------------------------------
+
+            $i++;
+        }
+
+        /*echo '<pre>';
+        print_r($a_ruta_prestador);
+        echo '</pre>';*/
+
+        $this->setCrearArchivoJson($a_ruta_prestador,$rutaArchivo);
     }
     
 }
