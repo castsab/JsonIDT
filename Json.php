@@ -28,10 +28,11 @@ class Json extends Consultas {
         
     }
 
-    public function setJsonIdioma(){
+    public function setJsonIdioma($codigo_idioma){
         
         $a_idiomas = array();
-        $rutaArchivo = "Json/idioma.json";
+        //$rutaArchivo = "Json/idioma.json";
+        $rutaArchivo = ($codigo_idioma == 1)?"Json/idioma.json":"Json_".$codigo_idioma."/idioma.json";
 
         $rs = $this->getIdiomas();
 
@@ -44,7 +45,7 @@ class Json extends Consultas {
 
             $directorio = "Json_".$rw['CODIGO'];
 
-            if($i <> 0)
+            if($i <> 0 && $codigo_idioma == 1)
             {
                 $this->setCrearDirectorio($directorio);
             }
@@ -599,6 +600,45 @@ class Json extends Consultas {
         echo '</pre>';*/
 
         $this->setCrearArchivoJson($a_ruta_prestador,$rutaArchivo);
+    }
+    
+    public function setJsonCarrusel($codigo_idioma) {
+     
+        $rw = '';
+        $rs = '';
+
+        $a_carrusel = array();
+        
+        $rutaArchivo = ($codigo_idioma == 1)?"Json/carrusel.json":"Json_".$codigo_idioma."/carrusel.json";
+        
+        $rs = $this->getSubTipologias(array('COD_TIPOLOGIA'=>'1'));
+
+        $j = 0;
+
+        while ($row = mysqli_fetch_array($rs)) {
+
+            if($codigo_idioma <> 1){
+
+                $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$row['CODIGO'],'TABLA'=>'SUBTIPOLOGIA', 'COD_IDIOMA'=>$codigo_idioma));
+                $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?$row['NOMBRE']:$a_idioma['NOMBRE'];
+                $row['DESCRIPCION'] = ($a_idioma['DESCRIPCION'] == '')?$row['DESCRIPCION']:$a_idioma['DESCRIPCION'];
+
+            }
+            
+            $a_carrusel[$j]['ImagenUrl'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+            $a_carrusel[$j]['Titulo'] = utf8_encode($row['NOMBRE']);
+            $a_carrusel[$j]['Texto'] = utf8_encode($row['DESCRIPCION']);
+            
+            $j++;
+        }
+        //------------------------------------------------
+
+        /*echo '<pre>';
+        print_r($a_carrusel);
+        echo '</pre>';*/
+
+        $this->setCrearArchivoJson($a_carrusel,$rutaArchivo);
+        
     }
     
 }
