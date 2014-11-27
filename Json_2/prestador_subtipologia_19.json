@@ -3,7 +3,7 @@
         {
             "CODIGO": "463",
             "NOMBRE": "Things Culinary",
-            "DESCRIPCION": "fwef wef we fwe fwef we fwef w",
+            "DESCRIPCION": "",
             "DIRECCION": "erger",
             "TELEFONO": "21 12",
             "CORREO": "aa@com.co",
@@ -20,6 +20,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador463\/imgPrestador463-0.png"
             ]

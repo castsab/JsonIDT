@@ -3,7 +3,7 @@
         {
             "CODIGO": "200",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 108 16 05",
             "TELEFONO": "6370319",
             "CORREO": "suites108@hotmail.com",
@@ -20,6 +20,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -27,7 +28,7 @@
         {
             "CODIGO": "201",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 11 00 38",
             "TELEFONO": "3520932",
             "CORREO": "contactus@destinonomada.com",
@@ -44,6 +45,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -51,7 +53,7 @@
         {
             "CODIGO": "202",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 3 12 D 93",
             "TELEFONO": "2842348",
             "CORREO": "villa.candelaria@hotmail.com - info@villacandelariahostel.com",
@@ -68,6 +70,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -75,7 +78,7 @@
         {
             "CODIGO": "203",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 15 44 44",
             "TELEFONO": "4722421",
             "CORREO": "casahotelboyacareal@hotmail.com",
@@ -92,6 +95,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -99,7 +103,7 @@
         {
             "CODIGO": "204",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 24 61 D 37",
             "TELEFONO": "2480957",
             "CORREO": "apartaestudioselcampin@gmail.com",
@@ -116,6 +120,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador204\/imgPrestador204-0.png"
             ]
@@ -123,7 +128,7 @@
         {
             "CODIGO": "205",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 5 117 07",
             "TELEFONO": "2142029",
             "CORREO": "usaquen@104artsuites.com",
@@ -140,6 +145,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -147,7 +153,7 @@
         {
             "CODIGO": "206",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 24 B 44 A 22",
             "TELEFONO": "3682218",
             "CORREO": "hotel-ejecutivo-embajada@hotmail.com",
@@ -164,6 +170,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -171,7 +178,7 @@
         {
             "CODIGO": "207",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 67 12 A 76",
             "TELEFONO": "2670138",
             "CORREO": "dianacruz104@hotmail.com",
@@ -188,6 +195,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -195,7 +203,7 @@
         {
             "CODIGO": "208",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 17 A 125 10",
             "TELEFONO": "5234443",
             "CORREO": "casabalmoral@yahoo.es",
@@ -212,6 +220,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -219,7 +228,7 @@
         {
             "CODIGO": "209",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 94 11 A 12",
             "TELEFONO": "6510000",
             "CORREO": "reservas@oxohotel.com",
@@ -236,6 +245,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -243,7 +253,7 @@
         {
             "CODIGO": "210",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 33 25 A 04",
             "TELEFONO": "2680235",
             "CORREO": "reservas.hotelemporiumbogota@gmail.com",
@@ -260,6 +270,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -267,7 +278,7 @@
         {
             "CODIGO": "211",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 10 27 51 INT 150",
             "TELEFONO": "3813700",
             "CORREO": "reservas@sht.com.co - recepcion.ast@sht.comc.o",
@@ -284,6 +295,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -291,7 +303,7 @@
         {
             "CODIGO": "212",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 2 12 B 62",
             "TELEFONO": "3425225",
             "CORREO": "info@hotelcasagaleria.com",
@@ -308,6 +320,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -315,7 +328,7 @@
         {
             "CODIGO": "213",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 12 C 2 36",
             "TELEFONO": "2837032",
             "CORREO": "reservas@hotelcasadeco.com",
@@ -332,6 +345,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -339,7 +353,7 @@
         {
             "CODIGO": "214",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "AC 26 69 B 53",
             "TELEFONO": "4851111",
             "CORREO": "reservas@marriot.com",
@@ -356,6 +370,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -363,7 +378,7 @@
         {
             "CODIGO": "215",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 109 A 17 52",
             "TELEFONO": "5200602",
             "CORREO": "administracion@suites109.com",
@@ -380,6 +395,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -387,7 +403,7 @@
         {
             "CODIGO": "216",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "AV BOYAC\u00c1 51 08",
             "TELEFONO": "4048181",
             "CORREO": "hotelnormandia15@hotmail.com",
@@ -404,6 +420,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -411,7 +428,7 @@
         {
             "CODIGO": "217",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 119 50 15",
             "TELEFONO": "7035086",
             "CORREO": "fmunera@zuetana.com",
@@ -428,6 +445,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador217\/imgPrestador217-0.png"
             ]
@@ -435,7 +453,7 @@
         {
             "CODIGO": "218",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 25 B 36 28",
             "TELEFONO": "2447143",
             "CORREO": "info@alojamientoenbogota.com",
@@ -452,6 +470,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador218\/imgPrestador218-0.png"
             ]
@@ -459,7 +478,7 @@
         {
             "CODIGO": "219",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 15 87 06",
             "TELEFONO": "2568826",
             "CORREO": "reservas@hotelbogotavirrey.com",
@@ -476,6 +495,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -483,7 +503,7 @@
         {
             "CODIGO": "220",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 24 B 44 A 59",
             "TELEFONO": "2688163",
             "CORREO": "hotellaguna24@yahoo.com",
@@ -500,6 +520,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -507,7 +528,7 @@
         {
             "CODIGO": "221",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 13 24 A 48",
             "TELEFONO": "2842100",
             "CORREO": "reservasoceania@hotelesms.com",
@@ -524,6 +545,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -531,7 +553,7 @@
         {
             "CODIGO": "222",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 15 88 10",
             "TELEFONO": "6467777",
             "CORREO": "reservas@citehotel.com",
@@ -548,6 +570,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -555,7 +578,7 @@
         {
             "CODIGO": "223",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 39 25 81",
             "TELEFONO": "3680448",
             "CORREO": "hotel.casaauramaria@live.com",
@@ -572,6 +595,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -579,7 +603,7 @@
         {
             "CODIGO": "465",
             "NOMBRE": "Free Attractions",
-            "DESCRIPCION": "adsf",
+            "DESCRIPCION": "",
             "DIRECCION": "1",
             "TELEFONO": "1",
             "CORREO": "aa@com.co",
@@ -596,6 +620,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "adsf",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador465\/audioPrestador465.mp3",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador465\/imgPrestador465-0.png"
             ]

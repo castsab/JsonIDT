@@ -3,7 +3,7 @@
         {
             "CODIGO": "413",
             "NOMBRE": "Aparthotels",
-            "DESCRIPCION": "uuuuuuuuuerererer",
+            "DESCRIPCION": "",
             "DIRECCION": "dir",
             "TELEFONO": "3242367676",
             "CORREO": "aaabbbb@com.co",
@@ -20,6 +20,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador413\/imgPrestador413-0.png"
             ]

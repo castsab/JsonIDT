@@ -3,7 +3,7 @@
         {
             "CODIGO": "1",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 66 12 06",
             "TELEFONO": "2906464",
             "CORREO": "casaarana@hotmail.com",
@@ -20,6 +20,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador1\/audioPrestador1.mp3",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador1\/imgPrestador1-0.png"
             ]
@@ -27,7 +28,7 @@
         {
             "CODIGO": "2",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 68 17 28",
             "TELEFONO": "6061236",
             "CORREO": "angelinav68@hotmail.com",
@@ -44,6 +45,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -51,7 +53,7 @@
         {
             "CODIGO": "3",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 24 68 35",
             "TELEFONO": "2502241",
             "CORREO": "NA",
@@ -68,6 +70,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -75,7 +78,7 @@
         {
             "CODIGO": "4",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 23 67 20",
             "TELEFONO": "2491610",
             "CORREO": "hotel.lagos.del.norte@gmail.com",
@@ -92,6 +95,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador4\/audioPrestador4.mp3",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador4\/imgPrestador4-0.png"
             ]
@@ -99,7 +103,7 @@
         {
             "CODIGO": "5",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 24 82 43",
             "TELEFONO": "6168160",
             "CORREO": "alpesbogota@hotmail.com - julianleus@hotmail.com",
@@ -116,6 +120,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -123,7 +128,7 @@
         {
             "CODIGO": "7",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 63 14 62",
             "TELEFONO": "2550530",
             "CORREO": "hotel_lord@yahoo.com.ar - info@hotel-lord.com",
@@ -140,6 +145,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -147,7 +153,7 @@
         {
             "CODIGO": "8",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 63 D 22 44",
             "TELEFONO": "3125956",
             "CORREO": "basicasinn@gmail.com",
@@ -164,6 +170,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -171,7 +178,7 @@
         {
             "CODIGO": "9",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 63 28 62",
             "TELEFONO": "2116901",
             "CORREO": "turisticas63@hotelbogotainn.com",
@@ -188,6 +195,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -195,7 +203,7 @@
         {
             "CODIGO": "10",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 63 C 21 46",
             "TELEFONO": "3453963",
             "CORREO": "apartamentoscedro@gmail.com",
@@ -212,6 +220,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador10\/imgPrestador10-0.png"
             ]
@@ -219,7 +228,7 @@
         {
             "CODIGO": "11",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 63 B 21 30",
             "TELEFONO": "2492160",
             "CORREO": "economicas63@gmail.com",
@@ -236,6 +245,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -243,7 +253,7 @@
         {
             "CODIGO": "13",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
             "TELEFONO": "4838338",
             "CORREO": "hotelelegantsuitenormandia@hotmail.com",
@@ -260,6 +270,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]
@@ -267,7 +278,7 @@
         {
             "CODIGO": "14",
             "NOMBRE": "TEST",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "AV BOYAC\u00c1 48 A 04\/02",
             "TELEFONO": "2958228",
             "CORREO": "hoteldelpuentebogota@hotmail.com",
@@ -284,6 +295,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 ""
             ]

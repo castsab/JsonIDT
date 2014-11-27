@@ -3,7 +3,7 @@
         {
             "CODIGO": "189",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 19 A 102 09",
             "TELEFONO": "6220678",
             "CORREO": "reservas@apartaestudioslosandes.com",
@@ -20,6 +20,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador189\/imgPrestador189-0.png"
             ]
@@ -27,7 +28,7 @@
         {
             "CODIGO": "204",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 24 61 D 37",
             "TELEFONO": "2480957",
             "CORREO": "apartaestudioselcampin@gmail.com",
@@ -44,6 +45,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador204\/imgPrestador204-0.png"
             ]
@@ -51,7 +53,7 @@
         {
             "CODIGO": "218",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 25 B 36 28",
             "TELEFONO": "2447143",
             "CORREO": "info@alojamientoenbogota.com",
@@ -68,6 +70,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador218\/imgPrestador218-0.png"
             ]
@@ -75,7 +78,7 @@
         {
             "CODIGO": "250",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "AK 60 22 99",
             "TELEFONO": "7477333",
             "CORREO": "reservas@hotelesar.com",
@@ -92,6 +95,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador250\/imgPrestador250-0.png"
             ]
@@ -99,7 +103,7 @@
         {
             "CODIGO": "316",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 15 A 122 27",
             "TELEFONO": "7569170",
             "CORREO": "admon122plaza@gmail.com",
@@ -116,6 +120,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador316\/imgPrestador316-0.png"
             ]
@@ -123,7 +128,7 @@
         {
             "CODIGO": "325",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 21 39 A 36",
             "TELEFONO": "4781092",
             "CORREO": "reservas@apartasuitesck.com",
@@ -140,6 +145,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador325\/imgPrestador325-0.png"
             ]
@@ -147,7 +153,7 @@
         {
             "CODIGO": "326",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 25 38 08",
             "TELEFONO": "7441286",
             "CORREO": "johanna.parra@behoteles.com.co",
@@ -164,6 +170,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador326\/imgPrestador326-0.png"
             ]
@@ -171,7 +178,7 @@
         {
             "CODIGO": "345",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "CL 65 5 50",
             "TELEFONO": "4660219",
             "CORREO": "reservas@hotelantique65.com",
@@ -188,6 +195,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador345\/imgPrestador345-0.png"
             ]
@@ -195,7 +203,7 @@
         {
             "CODIGO": "443",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 21 101 10",
             "TELEFONO": "6000101",
             "CORREO": "reservas@101parkhouse.com",
@@ -212,6 +220,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador443\/imgPrestador443-0.png"
             ]
@@ -219,7 +228,7 @@
         {
             "CODIGO": "453",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "NA",
+            "DESCRIPCION": "",
             "DIRECCION": "KR 48 93 64",
             "TELEFONO": "6221738",
             "CORREO": "alpesbogota@hotmail.com",
@@ -236,6 +245,7 @@
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "FOTOS": [
                 "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador453\/imgPrestador453-0.png"
             ]

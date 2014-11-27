@@ -236,7 +236,8 @@ class Consultas extends Conexion {
                     p.UBICACION,
                     p.PRECIO_PROMEDIO,
                     p.HORARIO,
-                    P.URL_VIDEO
+                    P.URL_VIDEO,
+                    p.URL_AUDIO
                 from $this->_TB_SUBTIPOLOGIA s inner join $this->_TB_PRESTADOR_SUBTIPOLOGIA ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
                                     inner join $this->_TB_PRESTADOR p on p.CODIGO=ps.CODIGO_PRESTADOR 
                 $cond";

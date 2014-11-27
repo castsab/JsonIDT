@@ -1,5 +1,5 @@
 {
-    "FECHA_CREACION": "2014-11-26",
+    "FECHA_CREACION": "2014-11-27",
     "1": [
         {
             "CODIGO": "3",
@@ -60,18 +60,6 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
-        },
-        {
-            "CODIGO": "41",
-            "CODIGO_ZONA": "1",
-            "NOMBRE": "PRUEBA",
-            "DESCRIPCION": "ASDFASDFA",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia41\/iconoTipologia41.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
-            "COD_CLASIFICACION": "4",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#0b0100",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_41.png"
         }
     ],
     "2": [
@@ -136,18 +124,6 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#69008c",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_20.png"
-        },
-        {
-            "CODIGO": "41",
-            "CODIGO_ZONA": "4",
-            "NOMBRE": "PRUEBA",
-            "DESCRIPCION": "ASDFASDFA",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia41\/iconoTipologia41.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
-            "COD_CLASIFICACION": "4",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#0b0100",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_41.png"
         }
     ],
     "5": [
