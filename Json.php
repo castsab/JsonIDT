@@ -419,7 +419,7 @@ class Json extends Consultas {
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_ZONA'] = $row['CODIGO_ZONA'];
                     //$a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_TIPOLOGIA'] = utf8_encode($row['CODIGO_TIPOLOGIA']);
 
-                    $a_zonas_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
+                    $a_zonas_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
 
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->_dominioServer."".$row['ICONO']);

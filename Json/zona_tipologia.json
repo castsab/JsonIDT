@@ -28,7 +28,7 @@
         {
             "CODIGO": "9",
             "CODIGO_ZONA": "1",
-            "NOMBRE": null,
+            "NOMBRE": "Gastron\u00f3mico",
             "DESCRIPCION": "",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia9\/imgTipologia9.png",
@@ -92,7 +92,7 @@
         {
             "CODIGO": "1",
             "CODIGO_ZONA": "4",
-            "NOMBRE": null,
+            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
             "DESCRIPCION": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb cccfffffffffffffggggggggggggggggggggggggggggg gggggggggggggggegegeeefeffefefZ",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
