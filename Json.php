@@ -4,7 +4,7 @@ include_once 'Consultas.php';
 
 class Json extends Consultas {
     
-    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
+    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/estable-28-11-2014";
    
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
@@ -536,7 +536,6 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_AUDIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_audio.png";
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
