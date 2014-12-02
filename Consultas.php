@@ -451,8 +451,21 @@ class Consultas extends Conexion {
         
         $cond = 'where CODIGO_RUTA='.$param['CODIGO'].' ';
 
-        $sql = 'select p.CODIGO As CODIGO,p.NOMBRE As NOMBRE,REPLACE( REPLACE( REPLACE( AsText(p.UBICACION),"POINT(","" ),")","")," ",",") As UBICACION
-                from '.$this->_TB_RUTA_PRESTADOR.' rp inner join '.$this->_TB_PRESTADOR.' p on rp.CODIGO_PRESTADOR=p.CODIGO '.$cond.' ';
+        $sql = 'select 
+                    p.CODIGO As CODIGO,
+                    p.NOMBRE As NOMBRE,
+                    REPLACE( REPLACE( REPLACE( AsText(p.UBICACION),"POINT(","" ),")","")," ",",") As UBICACION,
+                    p.DESCRIPCION,
+                    p.DIRECCION,
+                    p.TELEFONO,
+                    p.CORREO,
+                    p.URL,
+                    p.PRECIO_PROMEDIO,
+                    p.HORARIO,
+                    P.URL_VIDEO,
+                    p.URL_AUDIO
+                from 
+                    '.$this->_TB_RUTA_PRESTADOR.' rp inner join '.$this->_TB_PRESTADOR.' p on rp.CODIGO_PRESTADOR=p.CODIGO '.$cond.' ';
         
         //echo '<br>(getRutaPrestador)- sql { '.$sql.' }<br>';
         
@@ -471,6 +484,30 @@ class Consultas extends Conexion {
         {
             return false;
         }
+        
+    }
+    
+    public function getInformacionPrestador($param = ''){
+        
+        $cond = '';
+        
+        if(!empty($param['CODIGO_PRESTADOR']))
+        {
+            $cond = 'where p.CODIGO= '.$param['CODIGO_PRESTADOR'].' ';
+        }
+        
+        $sql = "select
+                   
+                from $this->_TB_PRESTADOR p 
+                $cond";
+        
+        echo '<br>(getInformacionPrestador)- sql { '.$sql.' }<br>';
+        
+        $rs = $this->ejecutar($sql);
+        
+        $a_datos = mysqli_fetch_array($rs); 
+        
+        return $a_datos;
         
     }
 

@@ -4,7 +4,7 @@ include_once 'Consultas.php';
 
 class Json extends Consultas {
     
-    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
+    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/estable-28-11-2014";
    
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
@@ -419,7 +419,7 @@ class Json extends Consultas {
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_ZONA'] = $row['CODIGO_ZONA'];
                     //$a_zonas_tipologias[$rw['CODIGO']][$j]['CODIGO_TIPOLOGIA'] = utf8_encode($row['CODIGO_TIPOLOGIA']);
 
-                    $a_zonas_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
+                    $a_zonas_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
 
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->_dominioServer."".$row['ICONO']);
@@ -536,7 +536,6 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_AUDIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_audio.png";
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
@@ -613,14 +612,58 @@ class Json extends Consultas {
                 if(!empty($row['NOMBRE']))
                 {
                     
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO'];
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
+                    //consulto las fotos del prestador
+                    $IMAGEN = $this->getFotosPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO']));  
+                    
+                    $str_telefono = explode(":",$row['TELEFONO']);
 
+                    if(!empty($str_telefono[1]))
+                    {
+                        $a_telefono = explode(" ",$str_telefono[1]);
+                        $TELEFONO = $a_telefono[0];
+                    }
+                    else
+                    {
+                        $TELEFONO = $row['TELEFONO'];
+                    }
+                    
                     //consulto la imagen del prestador
                     $img_prestador = $this->getImagenPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO']));
-
+                    
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO'];
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
                     $a_ruta_prestador[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
                     $a_ruta_prestador[$rw['CODIGO']][$j]['UBICACION'] = utf8_encode($row['UBICACION']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['DIRECCION'] = utf8_encode($row['DIRECCION']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['TELEFONO'] = utf8_encode($TELEFONO);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['CORREO'] = $row['CORREO'];
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['URL'] = utf8_encode($row['URL']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
+
+                    //iconos
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_MAIL'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_mail.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
+                    
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    
+                    if(!empty($IMAGEN))
+                    {
+                        for ($i = 0; $i < sizeof($IMAGEN); $i++) {
+                            $a_ruta_prestador[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->_dominioServer."".$IMAGEN[$i]);
+                        }
+                    }
+                    else
+                    {
+                        $a_ruta_prestador[$rw['CODIGO']][$j]['FOTOS'][0] = "";
+                    }
                 
                 }
                 
