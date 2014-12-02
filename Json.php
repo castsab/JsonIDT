@@ -4,7 +4,7 @@ include_once 'Consultas.php';
 
 class Json extends Consultas {
     
-    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/estable-28-11-2014";
+    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
    
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
@@ -720,6 +720,43 @@ class Json extends Consultas {
         echo '</pre>';*/
 
         $this->setCrearArchivoJson($a_carrusel,$rutaArchivo);
+        
+    }
+    
+    public function setTelefonoEmergencia($codigo_idioma) {
+        
+        $rw = '';
+        $rs = '';
+
+        $a_telefono_emergencia = array();
+        
+        $rutaArchivo = ($codigo_idioma == 1)?"Json/telefono_emergencia.json":"Json_".$codigo_idioma."/telefono_emergencia.json";
+        
+        $rs = $this->getSubTipologias(array('COD_TIPOLOGIA'=>'26'));
+        
+        $row = mysqli_fetch_array($rs);
+        
+        $cadenasalida = preg_replace("/\r\n+|\r+|\n+|\t+/i", "|", trim($row['CONTENIDO'])); 
+        
+        $a_contenido = explode("||",$cadenasalida);
+        
+        //print_r($a_contenido);
+            
+        for($i=0; $i < count($a_contenido); $i++)
+        {   
+            $str_tel = explode(":",$a_contenido[$i]);
+            
+            $a_telefono_emergencia[$i]['NOMBRE_TELEFONO'] = utf8_encode($str_tel[0]);
+            $a_telefono_emergencia[$i]['NUMERO_TELEFONO'] = utf8_encode($str_tel[1]);
+        }
+            
+        //------------------------------------------------
+
+        /*echo '<pre>';
+        print_r($a_telefono_emergencia);
+        echo '</pre>';*/
+
+        $this->setCrearArchivoJson($a_telefono_emergencia,$rutaArchivo);
         
     }
     

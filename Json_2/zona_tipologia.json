@@ -6,60 +6,60 @@
             "CODIGO_ZONA": "1",
             "NOMBRE": "Free Attractions",
             "DESCRIPCION": "Free Attractions Free Attractions Free Attractions",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia3\/imgTipologia3.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia3\/imgTipologia3.png",
             "COD_CLASIFICACION": "1",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#84a22a",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_3.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_3.png"
         },
         {
             "CODIGO": "7",
             "CODIGO_ZONA": "1",
             "NOMBRE": "History and Culture",
             "DESCRIPCION": "History and Culture History and CultureHistory and Culture",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
             "COD_CLASIFICACION": "3",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#d98c00",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_7.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_7.png"
         },
         {
             "CODIGO": "9",
             "CODIGO_ZONA": "1",
             "NOMBRE": "Gastronomic",
             "DESCRIPCION": "lkjlk jlkjlj ljl jlkj l",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia9\/imgTipologia9.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia9\/imgTipologia9.png",
             "COD_CLASIFICACION": "3",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#ac322e",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_9.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_9.png"
         },
         {
             "CODIGO": "11",
             "CODIGO_ZONA": "1",
             "NOMBRE": "Luxury",
             "DESCRIPCION": "kljlkjk l jlkj lkj lkj l",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia11\/iconoTipologia11.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia11\/imgTipologia11.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia11\/iconoTipologia11.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia11\/imgTipologia11.png",
             "COD_CLASIFICACION": "3",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#00902f",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_11.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_11.png"
         },
         {
             "CODIGO": "16",
             "CODIGO_ZONA": "1",
             "NOMBRE": "Accommodation",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "2": [
@@ -68,12 +68,12 @@
             "CODIGO_ZONA": "2",
             "NOMBRE": "Accommodation",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "4": [
@@ -82,48 +82,48 @@
             "CODIGO_ZONA": "4",
             "NOMBRE": "Why Bogot\u00e1?",
             "DESCRIPCION": "bbbb cccc ddd eeee fff gg ggg hh",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "COD_CLASIFICACION": "1",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#00661a",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_1.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_1.png"
         },
         {
             "CODIGO": "6",
             "CODIGO_ZONA": "4",
             "NOMBRE": "Top 10",
             "DESCRIPCION": "Top 10",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia6\/imgTipologia6.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia6\/imgTipologia6.png",
             "COD_CLASIFICACION": "1",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#47c0ed",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_6.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_6.png"
         },
         {
             "CODIGO": "16",
             "CODIGO_ZONA": "4",
             "NOMBRE": "Accommodation",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "20",
             "CODIGO_ZONA": "4",
             "NOMBRE": "Sites Rumba",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia20\/imgTipologia20.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia20\/imgTipologia20.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#69008c",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_20.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_20.png"
         }
     ],
     "5": [
@@ -132,48 +132,48 @@
             "CODIGO_ZONA": "5",
             "NOMBRE": "First Visit",
             "DESCRIPCION": "first first",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia2\/imgTipologia2.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia2\/imgTipologia2.png",
             "COD_CLASIFICACION": "1",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#ee7914",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_2.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_2.png"
         },
         {
             "CODIGO": "6",
             "CODIGO_ZONA": "5",
             "NOMBRE": "Top 10",
             "DESCRIPCION": "Top 10",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia6\/imgTipologia6.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia6\/imgTipologia6.png",
             "COD_CLASIFICACION": "1",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#47c0ed",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_6.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_6.png"
         },
         {
             "CODIGO": "16",
             "CODIGO_ZONA": "5",
             "NOMBRE": "Accommodation",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "25",
             "CODIGO_ZONA": "5",
             "NOMBRE": "Transport",
             "DESCRIPCION": "",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia25\/iconoTipologia25.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/iconoTipologia25.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
             "COD_CLASIFICACION": "5",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-28-11-2014\/imagenes\/iconoTrianguloZonaTipologia_25.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_25.png"
         }
     ]
 }
