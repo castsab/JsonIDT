@@ -1,10 +1,10 @@
 {
-    "FECHA_CREACION": "2014-12-03",
+    "FECHA_CREACION": "2014-12-04",
     "3": [
         {
             "CODIGO": "7",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Historia y Cultura",
+            "NOMBRE": "Historia y Cultura cambio",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -14,7 +14,7 @@
         {
             "CODIGO": "8",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Compras",
+            "NOMBRE": "Compras cambio",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/iconoTipologia8.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/imgTipologia8.png",
             "TIENE_SUBTIPOLOGIA": "1",
