@@ -4,7 +4,7 @@
         {
             "CODIGO": "7",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Historia y Cultura cambio 2",
+            "NOMBRE": "Historia y Cultura cambio 3",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -14,7 +14,7 @@
         {
             "CODIGO": "8",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Compras cambio 2",
+            "NOMBRE": "Compras cambio 3",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/iconoTipologia8.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Tipologia8\/imgTipologia8.png",
             "TIENE_SUBTIPOLOGIA": "1",
