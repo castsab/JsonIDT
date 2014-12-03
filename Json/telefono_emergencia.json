@@ -1,14 +1,17 @@
 [
     {
         "NOMBRE_TELEFONO": "Acueducto",
-        "NUMERO_TELEFONO": " 115"
+        "NUMERO_TELEFONO": " 115",
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
     },
     {
         "NOMBRE_TELEFONO": "Ambulancia",
-        "NUMERO_TELEFONO": " 125"
+        "NUMERO_TELEFONO": " 125",
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
     },
     {
         "NOMBRE_TELEFONO": "Antisecuestro",
-        "NUMERO_TELEFONO": " 165-32822200"
+        "NUMERO_TELEFONO": " 165-32822200",
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
     }
 ]

@@ -748,6 +748,7 @@ class Json extends Consultas {
             
             $a_telefono_emergencia[$i]['NOMBRE_TELEFONO'] = utf8_encode($str_tel[0]);
             $a_telefono_emergencia[$i]['NUMERO_TELEFONO'] = utf8_encode($str_tel[1]);
+            $a_telefono_emergencia[$i]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
         }
             
         //------------------------------------------------
