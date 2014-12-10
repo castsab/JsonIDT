@@ -16,5 +16,11 @@
         "NOMBRE_TELEFONO": "Antisecuestro",
         "NUMERO_TELEFONO": " 165-32822200",
         "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
+    },
+    {
+        "ID": 3,
+        "NOMBRE_TELEFONO": "Antirobo",
+        "NUMERO_TELEFONO": " 165-3333333",
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
     }
 ]
