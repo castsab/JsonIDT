@@ -762,6 +762,147 @@ class Json extends Consultas {
         
     }
     
+    public function setJsonPrestadorBuscador($codigo_idioma,$consultar){
+        
+        $rs = '';
+        $rw = '';
+
+        $a_prestadores_subtipologias = array();
+        
+        $rs = $this->getSubTipologias();
+
+        $i = 0;
+
+        $a_prestadores_subtipologias['FECHA_CREACION'] = date('Y-m-d');
+
+        while ($rw = mysqli_fetch_array($rs)) {
+
+            //------------------------------------------------
+            $rss = '';
+            //$a_prestadores_subtipologias = '';
+
+            $rss = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO'],'CONSULTAR'=>$consultar));
+
+            $j = 0;
+
+            while ($row = mysqli_fetch_array($rss)) {
+
+                //$rutaArchivo = "Json/prestador_subtipologia_".$rw['CODIGO'].".json";
+                
+                $rutaArchivo = ($codigo_idioma == 1)?"Json/prestador_subtipologia_buscador.json":"Json_".$codigo_idioma."/prestador_subtipologia_buscador.json";
+                
+                
+                if($codigo_idioma <> 1){
+                    
+                    $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$rw['CODIGO'],'TABLA'=>'SUBTIPOLOGIA', 'COD_IDIOMA'=>$codigo_idioma));
+                    $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
+                    $row['DESCRIPCION'] = ($a_idioma['DESCRIPCION'] == '')?'':$a_idioma['DESCRIPCION'];
+
+                }
+                
+                if(!empty($row['NOMBRE']))
+                {
+                    
+                    //consulto la imagen del prestador
+                    $img_prestador = $this->getImagenPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO_PRESTADOR']));
+                    $IMAGEN = $this->getFotosPrestador(array('CODIGO_PRESTADOR'=>$row['CODIGO_PRESTADOR']));    
+
+                    /*echo "<pre>"; 
+                    print_r($IMAGEN);
+                    echo "</pre>";*/
+
+                    if(!empty($img_prestador)){
+                        $img_prestador = utf8_encode($img_prestador);
+                    }
+
+                    $str_telefono = explode(":",$row['TELEFONO']);
+
+                    if(!empty($str_telefono[1]))
+                    {
+                        $a_telefono = explode(" ",$str_telefono[1]);
+                        $TELEFONO = $a_telefono[0];
+                    }
+                    else
+                    {
+                        $TELEFONO = $row['TELEFONO'];
+                    }
+
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['CODIGO'] = $row['CODIGO_PRESTADOR'];
+
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
+
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['DIRECCION'] = utf8_encode($row['DIRECCION']);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['TELEFONO'] = utf8_encode($TELEFONO);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['CORREO'] = $row['CORREO'];
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL'] = utf8_encode($row['URL']);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['UBICACION'] = $row['UBICACION'];
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
+
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
+                    //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/museo_01.png";
+
+                    //iconos
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_MAIL'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_mail.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
+                    
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+
+                    //print_r($IMAGEN);
+
+                    if(!empty($IMAGEN))
+                    {
+                        for ($i = 0; $i < sizeof($IMAGEN); $i++) {
+                            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->_dominioServer."".$IMAGEN[$i]);
+                        }
+                    }
+                    else
+                    {
+                        $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][0] = "";
+                    }
+                    
+                }
+
+                $j++;
+
+            }
+            //------------------------------------------------
+
+            /*if($j <> 0){
+               $this->setCrearArchivoJson($a_prestadores_subtipologias,$rutaArchivo);
+            }*/
+
+            $i++;
+        }
+
+        echo '<pre>';
+        print_r($a_prestadores_subtipologias);
+        echo '</pre>';
+        
+        //$this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
+        
+        $json = '';
+        
+        if($this->_validarServer == 1)
+        {
+            $json = json_encode($a_prestadores_subtipologias,JSON_PRETTY_PRINT);
+        }
+        else
+        {
+            $json = json_encode($a_prestadores_subtipologias);
+        } 
+        
+        return $json;
+        
+    }
+    
 }
 
 ?>

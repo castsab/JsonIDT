@@ -216,9 +216,13 @@ class Consultas extends Conexion {
         
         $cond = '';
         
-        if(!empty($param['CODIGO_SUBTIPOLOGIA']))
+        if(!empty($param['CODIGO_SUBTIPOLOGIA']) && $param['CONSULTAR'] == '')
         {
             $cond = 'where s.CODIGO= '.$param['CODIGO_SUBTIPOLOGIA'].' ';
+        }
+        else
+        {
+            $cond = 'where p.NOMBRE LIKE "%'.$param['CONSULTAR'].'%" ';
         }
         
         $sql = "select
