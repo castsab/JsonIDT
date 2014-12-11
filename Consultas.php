@@ -57,7 +57,7 @@ class Consultas extends Conexion {
 
     public function getClasificaciones() {
 
-        $sql = 'select CODIGO As CODIGO,UPPER(NOMBRE) As NOMBRE from '.$this->_TB_CLASIFICACION.' where CODIGO IN (6,2,3,4,5,1,7) ORDER BY FIELD(CODIGO,6,2,3,4,5,1,7);';
+        $sql = 'select CODIGO As CODIGO,UPPER(NOMBRE) As NOMBRE from '.$this->_TB_CLASIFICACION.' where CODIGO IN (1,2,3,4,5,7) ORDER BY FIELD(CODIGO,1,2,3,4,5,7);';
         $rs = $this->ejecutar($sql);
         return $rs;
     }

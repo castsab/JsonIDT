@@ -2,7 +2,7 @@
     "81": [
         {
             "CODIGO": "1",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOSPEDAJE CASA ARANA",
             "DESCRIPCION": "",
             "DIRECCION": "KR 66 12 06",
             "TELEFONO": "2906464",
@@ -27,7 +27,7 @@
         },
         {
             "CODIGO": "2",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOTEL CANDILEJAS",
             "DESCRIPCION": "",
             "DIRECCION": "CL 68 17 28",
             "TELEFONO": "6061236",
@@ -52,7 +52,7 @@
         },
         {
             "CODIGO": "3",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOTEL BOYAC\u00c1 LA 24",
             "DESCRIPCION": "",
             "DIRECCION": "KR 24 68 35",
             "TELEFONO": "2502241",
@@ -77,7 +77,7 @@
         },
         {
             "CODIGO": "4",
-            "NOMBRE": "TEST",
+            "NOMBRE": "APARTAHOTEL LAGOS DEL NORTE",
             "DESCRIPCION": "",
             "DIRECCION": "KR 23 67 20",
             "TELEFONO": "2491610",
@@ -102,7 +102,7 @@
         },
         {
             "CODIGO": "5",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOSTAL MONSERRAT",
             "DESCRIPCION": "",
             "DIRECCION": "KR 24 82 43",
             "TELEFONO": "6168160",
@@ -127,7 +127,7 @@
         },
         {
             "CODIGO": "7",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOTEL LORD",
             "DESCRIPCION": "",
             "DIRECCION": "CL 63 14 62",
             "TELEFONO": "2550530",
@@ -152,7 +152,7 @@
         },
         {
             "CODIGO": "8",
-            "NOMBRE": "TEST",
+            "NOMBRE": "SUITE B\u00c1SICAS INN - SUITES EJECUTIVAS ECON\u00d3MICAS",
             "DESCRIPCION": "",
             "DIRECCION": "CL 63 D 22 44",
             "TELEFONO": "3125956",
@@ -177,7 +177,7 @@
         },
         {
             "CODIGO": "9",
-            "NOMBRE": "TEST",
+            "NOMBRE": "SUITTES INN TUR\u00cdSTICAS CALLE 63",
             "DESCRIPCION": "",
             "DIRECCION": "CL 63 28 62",
             "TELEFONO": "2116901",
@@ -202,7 +202,7 @@
         },
         {
             "CODIGO": "10",
-            "NOMBRE": "TEST",
+            "NOMBRE": "APARTAMENTOS CEDROS 63 INN  - APARTAMENTO LOS CEDROS",
             "DESCRIPCION": "",
             "DIRECCION": "CL 63 C 21 46",
             "TELEFONO": "3453963",
@@ -227,7 +227,7 @@
         },
         {
             "CODIGO": "11",
-            "NOMBRE": "TEST",
+            "NOMBRE": "SUITES INN ECON\u00d3MICAS CALLE 63",
             "DESCRIPCION": "",
             "DIRECCION": "CL 63 B 21 30",
             "TELEFONO": "2492160",
@@ -252,7 +252,7 @@
         },
         {
             "CODIGO": "13",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOTEL ELEGANT SUIT NORMANDIA",
             "DESCRIPCION": "",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
             "TELEFONO": "4838338",
@@ -277,7 +277,7 @@
         },
         {
             "CODIGO": "14",
-            "NOMBRE": "TEST",
+            "NOMBRE": "HOTEL DEL PUENTE BOGOT\u00c1",
             "DESCRIPCION": "",
             "DIRECCION": "AV BOYAC\u00c1 48 A 04\/02",
             "TELEFONO": "2958228",

@@ -1,5 +1,5 @@
 {
-    "FECHA_CREACION": "2014-12-09",
+    "FECHA_CREACION": "2014-12-11",
     "1": [
         {
             "COD_CLASIFICACION": "1",
@@ -173,8 +173,8 @@
             "COD_CLASIFICACION": "3",
             "CODIGO": "9",
             "NOMBRE": "Centros Comerciales",
-            "DESCRIPCION": "Un centro comercial (también conocido como mall o shopping) es una construcción que consta de uno o varios edificios, por lo general de gran tamaño, que albergan locales y oficinas comerciales aglutinados en un espacio determinado concentrando mayor cantidad de clientes potenciales dentro del recinto. Un centro comercial está pensado como un espacio público con distintas tiendas; además, incluye lugares de ocio, esparcimiento y diversión, como cines o ferias de comidas dentro del recinto. Aunque esté en manos privadas, por lo general los locales comerciales se alquilan y se venden de forma independiente, por lo que existen varios dueños de dichos locales, que deben pagar servicios de mantenimiento al constructor o a la entidad administradora del centro comercial.",
-            "CONTENIDO": "Un centro comercial (también conocido como mall o shopping) es una construcción que consta de uno o varios edificios, por lo general de gran tamaño, que albergan locales y oficinas comerciales aglutinados en un espacio determinado concentrando mayor cantidad de clientes potenciales dentro del recinto. Un centro comercial está pensado como un espacio público con distintas tiendas; además, incluye lugares de ocio, esparcimiento y diversión, como cines o ferias de comidas dentro del recinto. Aunque esté en manos privadas, por lo general los locales comerciales se alquilan y se venden de forma independiente, por lo que existen varios dueños de dichos locales, que deben pagar servicios de mantenimiento al constructor o a la entidad administradora del centro comercial.",
+            "DESCRIPCION": "",
+            "CONTENIDO": null,
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "COD_TIPOLOGIA": "8",
             "TIENE_PRESTADOR": "0",
@@ -760,7 +760,7 @@
             "CODIGO": "58",
             "NOMBRE": "Tel\u00e9fonos de Emergencia",
             "DESCRIPCION": "",
-            "CONTENIDO": "Acueducto: 115\r\n\r\nAmbulancia: 125\r\n\r\nAntisecuestro: 165-32822200\r\n\r\nAntiRobo: 165-1234567",
+            "CONTENIDO": "Acueducto: 115\r\n\r\nAmbulancia: 125\r\n\r\nAntisecuestro: 165-32822200",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master",
             "COD_TIPOLOGIA": "26",
             "TIENE_PRESTADOR": "0",

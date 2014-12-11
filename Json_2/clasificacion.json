@@ -1,8 +1,8 @@
 [
     {
-        "CODIGO": "6",
-        "NOMBRE": "To do",
-        "backgroundColor": "#E2423D"
+        "CODIGO": "1",
+        "NOMBRE": "Discover Bogot\u00e1",
+        "backgroundColor": "#0086B2"
     },
     {
         "CODIGO": "2",
@@ -23,10 +23,5 @@
         "CODIGO": "5",
         "NOMBRE": "Services for tourists",
         "backgroundColor": "#D48528"
-    },
-    {
-        "CODIGO": "1",
-        "NOMBRE": "Discover Bogot\u00e1",
-        "backgroundColor": "#0086B2"
     }
 ]

@@ -241,7 +241,7 @@ class Json extends Consultas {
                     $a_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
 
                     /************************************/
-                    $a_datos = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$row['CODIGO']));
+                    $a_datos = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$row['CODIGO'],'CONSULTAR'=>''));
                     $validar = mysqli_fetch_array($a_datos);
 
                     if(empty($validar))
@@ -466,7 +466,7 @@ class Json extends Consultas {
             $rss = '';
             $a_prestadores_subtipologias = '';
 
-            $rss = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO']));
+            $rss = $this->getPrestadorSubtipologia(array('CODIGO_SUBTIPOLOGIA'=>$rw['CODIGO'],'CONSULTAR'=>''));
 
             $j = 0;
 
@@ -480,7 +480,7 @@ class Json extends Consultas {
                 if($codigo_idioma <> 1){
                     
                     $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$rw['CODIGO'],'TABLA'=>'SUBTIPOLOGIA', 'COD_IDIOMA'=>$codigo_idioma));
-                    $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
+                    //$row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
                     $row['DESCRIPCION'] = ($a_idioma['DESCRIPCION'] == '')?'':$a_idioma['DESCRIPCION'];
 
                 }
@@ -605,7 +605,7 @@ class Json extends Consultas {
                 if($codigo_idioma <> 1){
                     
                     $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$row['CODIGO'],'TABLA'=>'PRESTADOR', 'COD_IDIOMA'=>$codigo_idioma));
-                    $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
+                    //$row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
                     
                 }
                 
@@ -795,7 +795,7 @@ class Json extends Consultas {
                 if($codigo_idioma <> 1){
                     
                     $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$rw['CODIGO'],'TABLA'=>'SUBTIPOLOGIA', 'COD_IDIOMA'=>$codigo_idioma));
-                    $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
+                    //$row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
                     $row['DESCRIPCION'] = ($a_idioma['DESCRIPCION'] == '')?'':$a_idioma['DESCRIPCION'];
 
                 }
@@ -882,9 +882,9 @@ class Json extends Consultas {
             $i++;
         }
 
-        echo '<pre>';
+        /*echo '<pre>';
         print_r($a_prestadores_subtipologias);
-        echo '</pre>';
+        echo '</pre>';*/
         
         //$this->setCrearArchivoJson($a_prestadores_subtipologias,"Json/prestador_subtipologia.json");
         

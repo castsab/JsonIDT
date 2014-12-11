@@ -1,1 +1,29 @@
-""
+{
+    "19": [
+        {
+            "CODIGO": "463",
+            "NOMBRE": "abcde",
+            "DESCRIPCION": "",
+            "DIRECCION": "erger",
+            "TELEFONO": "21 12",
+            "CORREO": "aa@com.co",
+            "URL": "sdfsdf",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "1",
+            "HORARIO": "11",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador463\/imgPrestador463-0.png",
+            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
+            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
+            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
+            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
+            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
+            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
+            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
+            "URL_VIDEO": "",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
+            "FOTOS": [
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador463\/imgPrestador463-0.png"
+            ]
+        }
+    ]
+}

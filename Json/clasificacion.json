@@ -1,8 +1,8 @@
 [
     {
-        "CODIGO": "6",
-        "NOMBRE": "PARA HACER",
-        "backgroundColor": "#E2423D"
+        "CODIGO": "1",
+        "NOMBRE": "DESCUBRE BOGOT\u00c1",
+        "backgroundColor": "#0086B2"
     },
     {
         "CODIGO": "2",
@@ -23,11 +23,6 @@
         "CODIGO": "5",
         "NOMBRE": "SERVICIOS AL TURISTA",
         "backgroundColor": "#D48528"
-    },
-    {
-        "CODIGO": "1",
-        "NOMBRE": "DESCUBRE BOGOT\u00c1",
-        "backgroundColor": "#0086B2"
     },
     {
         "CODIGO": "7",
