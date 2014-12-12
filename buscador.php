@@ -7,7 +7,7 @@ $C_Json = new Json();
 
 $rs = $C_Json->getIdiomas();
 
-//$consultar = 'CASA';
+//$consultar = 'c';
 $codigo_idioma = '1';
 
 $consultar = $_POST['CONSULTAR'];
