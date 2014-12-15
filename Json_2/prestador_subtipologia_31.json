@@ -11,7 +11,7 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "3242345",
             "HORARIO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador413\/imgPrestador413-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-15-12-2014\/home\/imagenesBD\/Prestador413\/imgPrestador413-0.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,7 +22,7 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/home\/imagenesBD\/Prestador413\/imgPrestador413-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/estable-15-12-2014\/home\/imagenesBD\/Prestador413\/imgPrestador413-0.png"
             ]
         }
     ]

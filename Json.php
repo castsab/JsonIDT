@@ -4,7 +4,7 @@ include_once 'Consultas.php';
 
 class Json extends Consultas {
     
-    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
+    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/estable-15-12-2014";
    
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
