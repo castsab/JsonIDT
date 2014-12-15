@@ -538,7 +538,17 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    
+                    if(empty($row['URL_AUDIO']))
+                    {
+                        $row['URL_AUDIO'] = "";
+                    }
+                    else
+                    {
+                        $row['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    }
+                    
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = $row['URL_AUDIO'];
 
                     //print_r($IMAGEN);
 
@@ -853,7 +863,17 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    
+                    if(empty($row['URL_AUDIO']))
+                    {
+                        $row['URL_AUDIO'] = "";
+                    }
+                    else
+                    {
+                        $row['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    }
+                    
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = $row['URL_AUDIO'];
 
                     //print_r($IMAGEN);
 
