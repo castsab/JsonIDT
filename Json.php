@@ -5,6 +5,7 @@ include_once 'Consultas.php';
 class Json extends Consultas {
     
     public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
+    public $_dominioImagenesServer = "http://pruebacidt.bogota.gov.co/imgAudioIDT";
    
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
@@ -166,7 +167,9 @@ class Json extends Consultas {
                     $a_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
 
                     $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->_dominioServer."".$row['ICONO']);
-                    $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+                    
+                    $row['IMAGEN'] = str_replace("/home/imagenesBD", "", trim($row['IMAGEN']));
+                    $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioImagenesServer."".$row['IMAGEN']);
 
                     $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
 
