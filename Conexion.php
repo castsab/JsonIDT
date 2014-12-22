@@ -11,6 +11,15 @@ class Conexion {
     static $_instance;
 
     public function __construct() {
+        
+        $this->_validarServer = $this->getServidor();
+        
+        if($this->_validarServer != 1)
+        {
+            $this->usuario = 'consultoridt';
+            $this->password = 'pr3pr0ducc10nc0nsult0r1dt';
+        }
+        
         $this->conectar();
     }
 
@@ -22,6 +31,19 @@ class Conexion {
     public function ejecutar($sql) {
         $this->stmt = mysqli_query($this->link,$sql);
         return $this->stmt;
+    }
+    
+    public function getServidor() {
+        
+        if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') 
+        {
+            return true;
+        } 
+        else 
+        {
+            return false;
+        }
+        
     }
 
 }
