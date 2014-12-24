@@ -18,6 +18,7 @@ class Consultas extends Conexion {
     public $_TB_TRADUCCION = '';
     public $_TB_RUTA_PRESTADOR = '';
     public $_validarServer = '';
+    public $_dominioServer = '';
     
     public function __construct() {
         
@@ -36,6 +37,7 @@ class Consultas extends Conexion {
             $this->_TB_IDIOMA = 'idioma';
             $this->_TB_TRADUCCION = 'traduccion';
             $this->_TB_RUTA_PRESTADOR = 'ruta_prestador';
+            $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
         }
         else
         {
@@ -50,6 +52,7 @@ class Consultas extends Conexion {
             $this->_TB_IDIOMA = 'IDIOMA';
             $this->_TB_TRADUCCION = 'TRADUCCION';
             $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
+            $this->_dominioServer = "http://pruebacidt.bogota.gov.co";
         }
         
         parent::__construct();
@@ -240,7 +243,7 @@ class Consultas extends Conexion {
                     p.UBICACION,
                     p.PRECIO_PROMEDIO,
                     p.HORARIO,
-                    P.URL_VIDEO,
+                    p.URL_VIDEO,
                     p.URL_AUDIO
                 from $this->_TB_SUBTIPOLOGIA s inner join $this->_TB_PRESTADOR_SUBTIPOLOGIA ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
                                     inner join $this->_TB_PRESTADOR p on p.CODIGO=ps.CODIGO_PRESTADOR 

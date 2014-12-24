@@ -4,13 +4,10 @@ include_once 'Consultas.php';
 
 class Json extends Consultas {
     
-    public $_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
-    //public $_dominioImagenesServer = "http://pruebacidt.bogota.gov.co/imgAudioIDT";
-   
     public function setCrearDirectorio($directorio){
         if (!file_exists($directorio)) 
         {
-           mkdir($directorio, 0700);
+           mkdir($directorio, 0755);
         }
     }
     
@@ -166,10 +163,9 @@ class Json extends Consultas {
 
                     $a_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
 
-                    $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->_dominioServer."".$row['ICONO']);
+                    $a_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->setUrlImagen($row['ICONO']));
                     
-                    //$row['IMAGEN'] = str_replace("/home/imagenesBD", "", trim($row['IMAGEN']));
-                    $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+                    $a_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($row['IMAGEN']));
 
                     $a_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
 
@@ -240,7 +236,8 @@ class Json extends Consultas {
                     $a_subtipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
                     $a_subtipologias[$rw['CODIGO']][$j]['CONTENIDO'] = utf8_encode($row['CONTENIDO']);
 
-                    $a_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+                    $a_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($row['IMAGEN']));
+                    
                     $a_subtipologias[$rw['CODIGO']][$j]['COD_TIPOLOGIA'] = $row['COD_TIPOLOGIA'];
 
                     /************************************/
@@ -341,7 +338,7 @@ class Json extends Consultas {
                 $a_zonas[$i]['NOMBRE'] = utf8_encode($rw['NOMBRE']);
                 $a_zonas[$i]['DESCRIPCION'] = utf8_encode($rw['DESCRIPCION']);
 
-                $a_zonas[$i]['IMAGEN'] = utf8_encode($this->_dominioServer."".$rw['IMAGEN']);
+                $a_zonas[$i]['IMAGEN'] = utf8_encode($this->setUrlImagen($rw['IMAGEN']));
 
                 $a_zonas[$i]['PUNTO_MINIMO'] = $rw['PUNTO_MINIMO'];
                 $a_zonas[$i]['PUNTO_MAXIMO'] = $rw['PUNTO_MAXIMO'];
@@ -425,8 +422,10 @@ class Json extends Consultas {
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['NOMBRE'] = utf8_encode($row['NOMBRE']);
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
 
-                    $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->_dominioServer."".$row['ICONO']);
-                    $a_zonas_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+                    $a_zonas_tipologias[$rw['CODIGO']][$j]['ICONO'] = utf8_encode($this->setUrlImagen($row['ICONO']));
+                    
+                    $a_zonas_tipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($row['IMAGEN']));
+                    
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['COD_CLASIFICACION'] = $row['COD_CLASIFICACION'];
                     $a_zonas_tipologias[$rw['CODIGO']][$j]['TIENE_SUBTIPOLOGIA'] = $row['TIENE_SUBTIPOLOGIA'];
 
@@ -528,17 +527,16 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
 
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
-                    //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/museo_01.png";
-
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($img_prestador));
+                    
                     //iconos
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_MAIL'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_mail.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = $this->_dominioServer."/imagenes/ico_dir.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = $this->_dominioServer."/imagenes/ico_tel.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = $this->_dominioServer."/imagenes/ico_hor.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_MAIL'] = $this->_dominioServer."/imagenes/imagenes/ico_mail.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = $this->_dominioServer."/imagenes/ico_precio.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = $this->_dominioServer."/imagenes/ico_trans.png";
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = $this->_dominioServer."/imagenes/ico_web.png";
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
                     
@@ -548,7 +546,7 @@ class Json extends Consultas {
                     }
                     else
                     {
-                        $row['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                        $row['URL_AUDIO'] = utf8_encode($this->setUrlImagen($row['URL_AUDIO']));
                     }
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = $row['URL_AUDIO'];
@@ -558,7 +556,7 @@ class Json extends Consultas {
                     if(!empty($IMAGEN))
                     {
                         for ($i = 0; $i < sizeof($IMAGEN); $i++) {
-                            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->_dominioServer."".$IMAGEN[$i]);
+                            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->setUrlImagen($IMAGEN[$i]));
                         }
                     }
                     else
@@ -645,7 +643,9 @@ class Json extends Consultas {
                     
                     $a_ruta_prestador[$rw['CODIGO']][$j]['CODIGO_PRESTADOR'] = $row['CODIGO'];
                     $a_ruta_prestador[$rw['CODIGO']][$j]['NOMBRE'] = $row['NOMBRE'];
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
+                    
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($img_prestador));
+                    
                     $a_ruta_prestador[$rw['CODIGO']][$j]['UBICACION'] = utf8_encode($row['UBICACION']);
                     $a_ruta_prestador[$rw['CODIGO']][$j]['DESCRIPCION'] = utf8_encode($row['DESCRIPCION']);
                     $a_ruta_prestador[$rw['CODIGO']][$j]['DIRECCION'] = utf8_encode($row['DIRECCION']);
@@ -656,21 +656,21 @@ class Json extends Consultas {
                     $a_ruta_prestador[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
 
                     //iconos
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_dir.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_HORARIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_hor.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_MAIL'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_mail.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_PRECIO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_precio.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TRANS'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_trans.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_WEB'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_web.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = $this->_dominioServer."/imagenes/ico_dir.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = $this->_dominioServer."/imagenes/ico_tel.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_HORARIO'] = $this->_dominioServer."/imagenes/ico_hor.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_MAIL'] = $this->_dominioServer."/imagenes/ico_mail.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_PRECIO'] = $this->_dominioServer."/imagenes/ico_precio.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TRANS'] = $this->_dominioServer."/imagenes/ico_trans.png";
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_WEB'] = $this->_dominioServer."/imagenes/ico_web.png";
                     
                     $a_ruta_prestador[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                    $a_ruta_prestador[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->setUrlImagen($row['URL_AUDIO']));
                     
                     if(!empty($IMAGEN))
                     {
                         for ($i = 0; $i < sizeof($IMAGEN); $i++) {
-                            $a_ruta_prestador[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->_dominioServer."".$IMAGEN[$i]);
+                            $a_ruta_prestador[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->setUrlImagen($IMAGEN[$i]));
                         }
                     }
                     else
@@ -719,7 +719,7 @@ class Json extends Consultas {
             
             if(!empty($row['NOMBRE']))
             {
-                $a_carrusel[$j]['ImagenUrl'] = utf8_encode($this->_dominioServer."".$row['IMAGEN']);
+                $a_carrusel[$j]['ImagenUrl'] = utf8_encode($this->setUrlImagen($row['IMAGEN']));
                 $a_carrusel[$j]['Titulo'] = utf8_encode($row['NOMBRE']);
                 $a_carrusel[$j]['Texto'] = utf8_encode($row['DESCRIPCION']);
             }
@@ -762,7 +762,7 @@ class Json extends Consultas {
             $a_telefono_emergencia[$i]['ID'] = $i;
             $a_telefono_emergencia[$i]['NOMBRE_TELEFONO'] = utf8_encode($str_tel[0]);
             $a_telefono_emergencia[$i]['NUMERO_TELEFONO'] = utf8_encode($str_tel[1]);
-            $a_telefono_emergencia[$i]['ICONO_TELEFONO'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/ico_tel.png";
+            $a_telefono_emergencia[$i]['ICONO_TELEFONO'] = $this->_dominioServer."/imagenes/ico_tel.png";
         }
             
         //------------------------------------------------
@@ -853,7 +853,7 @@ class Json extends Consultas {
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
 
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->_dominioServer."".$img_prestador);
+                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($img_prestador));
                     //$a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = "https://raw.githubusercontent.com/castsab/JsonIDT/master/imagenes/museo_01.png";
 
                     //iconos
@@ -873,7 +873,7 @@ class Json extends Consultas {
                     }
                     else
                     {
-                        $row['URL_AUDIO'] = utf8_encode($this->_dominioServer."".$row['URL_AUDIO']);
+                        $row['URL_AUDIO'] = utf8_encode($this->setUrlImagen($row['URL_AUDIO']));
                     }
                     
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_AUDIO'] = $row['URL_AUDIO'];
@@ -883,7 +883,7 @@ class Json extends Consultas {
                     if(!empty($IMAGEN))
                     {
                         for ($i = 0; $i < sizeof($IMAGEN); $i++) {
-                            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->_dominioServer."".$IMAGEN[$i]);
+                            $a_prestadores_subtipologias[$rw['CODIGO']][$j]['FOTOS'][$i] = utf8_encode($this->setUrlImagen($IMAGEN[$i]));
                         }
                     }
                     else
@@ -924,6 +924,39 @@ class Json extends Consultas {
         
         return $json;
         
+    }
+    
+    public function setUrlImagen($rutaImagen){
+        
+        $delimitador = '';
+        $urlImagen = '';
+        
+        if($this->_validarServer == 1)
+        {
+            $delimitador = 'imagenesBD';
+        }
+        else
+        {
+            $delimitador = 'imgAudioIDT';
+        }
+        
+        if(!empty($rutaImagen))
+        {
+            
+            $a_str = explode('imagenesBD',$rutaImagen);
+
+            if(empty($a_str[1]))
+            {
+                $a_str[1] = '';
+            }
+
+            $urlImagen = $this->_dominioServer.'/'.$delimitador.''.$a_str[1];
+            
+            //echo '<br> urlImagen : '.$urlImagen;
+        
+        }
+        
+        return $urlImagen;
     }
     
 }

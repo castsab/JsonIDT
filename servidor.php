@@ -6,6 +6,10 @@
  * and open the template in the editor.
  */
 
+$a_str = explode('imagenesBD','/home/imagenesBD/Tipologia1/Subtipologia1/imgSubtipologia1.png');
+
+print_r($a_str);
+
 if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') 
 {
     echo '<h1>Este es un servidor que esta usando Windows!</h1>';
