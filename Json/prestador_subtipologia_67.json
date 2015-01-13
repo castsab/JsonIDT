@@ -48,7 +48,8 @@
             "URL_VIDEO": "https://www.youtube.com/watch?v=Es7NrhGi4HQ",
             "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador459\/audioPrestador459.mp3",
             "FOTOS": [
-                "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bogot%C3%A1.JPG/800px-Bogot%C3%A1.JPG,http://www.lafm.com.co/sites/default/files/imagenes/bogota220313_1363971229.jpg"
+                "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bogot%C3%A1.JPG/800px-Bogot%C3%A1.JPG",
+                "http://www.lafm.com.co/sites/default/files/imagenes/bogota220313_1363971229.jpg"
             ]
         }
     ]
