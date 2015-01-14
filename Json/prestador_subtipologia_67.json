@@ -1,5 +1,6 @@
+
 {
-    
+    "FECHA_CREACION": "2015-01-14",
     "67": [
         {
             "CODIGO": "459",
@@ -28,7 +29,7 @@
         },
          {
             "CODIGO": "457",
-            "NOMBRE": "prueba1051",
+            "NOMBRE": "prueba14",
             "DESCRIPCION": "01132015",
             "DIRECCION": "Direcc",
             "TELEFONO": "1234567890",
