@@ -10,23 +10,23 @@
         "backgroundColor": "#2A6093"
     },
     {
-        "CODIGO": "3",
-        "NOMBRE": "ATRACCIONES TUR\u00cdSTICAS",
-        "backgroundColor": "#668439"
-    },
+		"CODIGO": "3",
+		"NOMBRE": "QUE HACER?",
+		"backgroundColor": "#668439"
+	},
     {
         "CODIGO": "4",
         "NOMBRE": "DIRECTORIO DE PRESTADORES",
         "backgroundColor": "#E03D76"
     },
-    {
-        "CODIGO": "5",
-        "NOMBRE": "SERVICIOS AL TURISTA",
-        "backgroundColor": "#D48528"
-    },
-    {
-        "CODIGO": "7",
-        "NOMBRE": "AGENDA DE LA CIUDAD",
-        "backgroundColor": "#7F3F97"
-    }
+   {
+		"CODIGO": "5",
+		"NOMBRE": "INFORMACION A LA MANO",
+		"backgroundColor": "#D48528"
+	},
+     {
+		"CODIGO": "7",
+		"NOMBRE": "PLANEA TU VISITA",
+		"backgroundColor": "#E03D76"
+	},
 ]
