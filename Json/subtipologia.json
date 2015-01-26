@@ -200,7 +200,7 @@
     "6": [
         {
             "COD_CLASIFICACION": "1",
-            "CODIGO": "5",
+            "CODIGO": "19",
             "NOMBRE": "Top 10",
             "DESCRIPCION": "",
             "CONTENIDO": "",
@@ -213,7 +213,7 @@
     "7": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "6",
+            "CODIGO": "19",
             "NOMBRE": "Museos",
             "DESCRIPCION": "Museos museos museos museos",
             "CONTENIDO": "",
@@ -224,7 +224,7 @@
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "7",
+            "CODIGO": "21",
             "NOMBRE": "Teatros",
             "DESCRIPCION": "",
             "CONTENIDO": "f\r\n\r\ng\r\n\r\nh\r\n\r\ni\r\n\r\nj",
