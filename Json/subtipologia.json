@@ -705,7 +705,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "20",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         }
     ],
