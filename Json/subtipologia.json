@@ -362,8 +362,8 @@
             "COD_CLASIFICACION": "3",
             "CODIGO": "18",
             "NOMBRE": "Plazas de Mercado",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
+            "DESCRIPCION": "Todavía queda el sinsabor del paro agrario y el estruendoso lamento de los campesinos que, agobiados por la bala, el hambre y el atropello, decidieron rebelarse. Y con toda la razón.Aún ronda esa cruda frase del subcampeón del Tour de Francia, Nairo Quintana –extrabajador de la tierra–, quien le dijo al presidente Santos: “Es muy triste sacar un bulto de papa a una plaza y ponerse uno a llorar de tristeza porque ni siquiera se saca lo de los transportes”. Vea aquí la galería de fotos.",
+            "CONTENIDO": "Todavía queda el sinsabor del paro agrario y el estruendoso lamento de los campesinos que, agobiados por la bala, el hambre y el atropello, decidieron rebelarse. Y con toda la razón.Aún ronda esa cruda frase del subcampeón del Tour de Francia, Nairo Quintana –extrabajador de la tierra–, quien le dijo al presidente Santos: “Es muy triste sacar un bulto de papa a una plaza y ponerse uno a llorar de tristeza porque ni siquiera se saca lo de los transportes”. Vea aquí la galería de fotos.",
             "IMAGEN": "",
             "COD_TIPOLOGIA": "9",
             "TIENE_PRESTADOR": "0",
@@ -371,7 +371,7 @@
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "19",
+            "CODIGO": "48",
             "NOMBRE": "Atracciones Gastron\u00f3micas",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -384,20 +384,20 @@
     "10": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "20",
+            "CODIGO": "2",
             "NOMBRE": "Iglesias",
             "DESCRIPCION": "",
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "10",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         }
     ],
     "11": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "21",
+            "CODIGO": "31",
             "NOMBRE": "Lujo",
             "DESCRIPCION": "",
             "CONTENIDO": "t\r\n\r\ng\r\n\r\nh\r\n\r\nj\r\n\r\nk\r\n\r\nl",
@@ -493,18 +493,18 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "30",
+            "CODIGO": "68",
             "NOMBRE": "Hostales",
             "DESCRIPCION": "",
             "CONTENIDO": "fsefsefs\r\nsfefsefsef\r\nsefsefsefes\r\nsefsefse\r\n\r\nfsefsefsef\r\nesfsefsef\r\nsefsefsefes\r\nfsefsef\r\n\r\nsef\r\nsef\r\n\r\nprueba prueba\r\nprueba\r\nprueba aaa",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/Subtipologia30\/imgSubtipologia30.png",
             "COD_TIPOLOGIA": "16",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "31",
+            "CODIGO": "81",
             "NOMBRE": "Apartahoteles",
             "DESCRIPCION": "",
             "CONTENIDO": "",
@@ -543,7 +543,7 @@
     "19": [
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "34",
+            "CODIGO": "48",
             "NOMBRE": "Caf\u00e9",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -554,7 +554,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "35",
+            "CODIGO": "48",
             "NOMBRE": "T\u00edpica Colombiana",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -565,7 +565,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "36",
+            "CODIGO": "48",
             "NOMBRE": "Carnes",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -576,7 +576,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "37",
+            "CODIGO": "48",
             "NOMBRE": "De mar",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -587,7 +587,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "38",
+            "CODIGO": "48",
             "NOMBRE": "Peruana",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -598,7 +598,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "39",
+            "CODIGO": "48",
             "NOMBRE": "Espa\u00f1ola",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -609,7 +609,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "40",
+            "CODIGO": "48",
             "NOMBRE": "Brasilera",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -620,7 +620,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "41",
+            "CODIGO": "48",
             "NOMBRE": "Francesa",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -631,7 +631,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "42",
+            "CODIGO": "48",
             "NOMBRE": "Mexicana",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -642,7 +642,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "43",
+            "CODIGO": "48",
             "NOMBRE": "Italiana",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -653,7 +653,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "44",
+            "CODIGO": "48",
             "NOMBRE": "Americana",
             "DESCRIPCION": "",
             "CONTENIDO": "",
@@ -664,7 +664,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "45",
+            "CODIGO": "48",
             "NOMBRE": "Mediterr\u00e1nea",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -675,7 +675,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "46",
+            "CODIGO": "48",
             "NOMBRE": "Internacional",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -686,7 +686,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "47",
+            "CODIGO": "48",
             "NOMBRE": "R\u00e1pida",
             "DESCRIPCION": "",
             "CONTENIDO": null,
@@ -710,7 +710,7 @@
         },
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "49",
+            "CODIGO": "67",
             "NOMBRE": "Bares",
             "DESCRIPCION": "",
             "CONTENIDO": null,
