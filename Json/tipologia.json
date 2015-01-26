@@ -31,18 +31,9 @@
 	"backgroundColor": "#ee7914",
 	"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_58.png"
 	},
+        
         {
             "CODIGO": "4",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Ruta Tur\u00edstica",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/iconoTipologia4.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/imgTipologia4.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#b200b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
-        },
-        {
-            "CODIGO": "6",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Top 10",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
@@ -54,7 +45,7 @@
     ],
     "3": [
         {
-            "CODIGO": "7",
+            "CODIGO": "1",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Historia y Cultura",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
@@ -62,6 +53,35 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#d98c00",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_7.png"
+        },
+        {
+		"CODIGO": "1",
+		"COD_CLASIFICACION": "3",
+		"NOMBRE": "Agenda de hoy",
+		"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia5\/iconoTipologia5.png",
+		"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia5\/imgTipologia5.png",
+		"TIENE_SUBTIPOLOGIA": "1",
+		"backgroundColor": "#ff2626",
+		"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_5.png"
+	}, {
+		"CODIGO": "3",
+		"COD_CLASIFICACION": "3",
+		"NOMBRE": "Lugares gratuitos",
+		"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia70\/iconoTipologia70.png",
+		"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia70\/imgTipologia70.png",
+		"TIENE_SUBTIPOLOGIA": "0",
+		"backgroundColor": "#84a22a",
+		"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_70.png"
+	},
+        {
+            "CODIGO": "4",
+            "COD_CLASIFICACION": "1",
+            "NOMBRE": "Ruta Tur\u00edstica",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/iconoTipologia4.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/imgTipologia4.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#b200b2",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
         },
         {
             "CODIGO": "8",
@@ -106,7 +126,7 @@
         {
             "CODIGO": "12",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "Bogot\u00e1 verde",
+            "NOMBRE": "Naturaleza",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia12\/iconoTipologia12.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia12\/imgTipologia12.png",
             "TIENE_SUBTIPOLOGIA": "1",
