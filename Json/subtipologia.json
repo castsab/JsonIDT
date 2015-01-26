@@ -1,50 +1,47 @@
 {
-    "FECHA_CREACION": "2014-12-24",
+   
     "1": [
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "1",
-            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-            "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
-            "COD_TIPOLOGIA": "1",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "2",
-            "NOMBRE": "Prueba 3",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-            "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia2\/imgSubtipologia2.png",
-            "COD_TIPOLOGIA": "1",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "3",
-            "NOMBRE": "prueba 4",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-            "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia18\/imgSubtipologia18.png",
-            "COD_TIPOLOGIA": "1",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "4",
-            "NOMBRE": "Prueba 2",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-            "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia4\/imgSubtipologia4.png",
-            "COD_TIPOLOGIA": "1",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        }
+       {
+			"COD_CLASIFICACION": "1",
+			"CODIGO": "1",
+			"NOMBRE": "Bogot\u00e1 ciudad verde",
+			"DESCRIPCION": "La revista Lonely Planet de Argentina en su art\u00edculo titulado \"10 Viajes F\u00e1ciles\" destaca a la capital colombiana como un ejemplo a seguir en cuestiones de ecolog\u00eda y medio ambiente.",
+			"CONTENIDO": null,
+			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
+			"COD_TIPOLOGIA": "1",
+			"TIENE_PRESTADOR": "0",
+			"TIENE_RUTA": "0"
+		}, {
+			"COD_CLASIFICACION": "1",
+			"CODIGO": "157",
+			"NOMBRE": "Metr\u00f3poli de la cultura y los negocios",
+			"DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital.",
+			"CONTENIDO": null,
+			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia157\/imgSubtipologia157.png",
+			"COD_TIPOLOGIA": "1",
+			"TIENE_PRESTADOR": "0",
+			"TIENE_RUTA": "0"
+		}, {
+			"COD_CLASIFICACION": "1",
+			"CODIGO": "158",
+			"NOMBRE": "El epicentro cultural colombiano",
+			"DESCRIPCION": "Esta es una ciudad de museos, puedes encontrar exposiciones permanentes de arte de todas las \u00e9pocas, tambi\u00e9n de objetos hist\u00f3ricos, museos religiosos, de ciencias naturales, tecnolog\u00eda y hasta espacios interactivos.",
+			"CONTENIDO": null,
+			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia158\/imgSubtipologia158.png",
+			"COD_TIPOLOGIA": "1",
+			"TIENE_PRESTADOR": "0",
+			"TIENE_RUTA": "0"
+		}, {
+			"COD_CLASIFICACION": "1",
+			"CODIGO": "159",
+			"NOMBRE": "Imposible aburrirse",
+			"DESCRIPCION": "Bogot\u00e1 es una ciudad para todos, hay actividades y planes para cada gusto. Cuenta con zonas de vida nocturna de diferentes estilos y ambientes: discotecas, bares, pubs, f\u00e1bricas artesanales de cerveza y clubes donde la diversi\u00f3n y el baile son el factor primordial",
+			"CONTENIDO": null,
+			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia159\/imgSubtipologia159.png",
+			"COD_TIPOLOGIA": "1",
+			"TIENE_PRESTADOR": "1",
+			"TIENE_RUTA": "0"
+		}
     ],
     "2": [
         {
