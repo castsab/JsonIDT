@@ -2,16 +2,16 @@
     "2": [
         {
             "CODIGO": "457",
-            "NOMBRE": "prueba",
-            "DESCRIPCION": "prueba2",
-            "DIRECCION": "prueba2",
-            "TELEFONO": "2277777",
-            "CORREO": "prueba2@com.co",
-            "URL": "prueba2",
-            "UBICACION": null,
-            "PRECIO_PROMEDIO": "prueba2",
-            "HORARIO": "prueba2",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador457\/imgPrestador457-0.png",
+            "NOMBRE": "La Catedral Primada de Colombia",
+            "DESCRIPCION": "La Catedral Primada de Colombia es una de las tantas iglesias católicas que hay en Bogotá. Este histórico edificio posee un estilo neoclásico, está situado en la Plaza de Bolívar y fue declarada Monumento Nacional.",
+            "DIRECCION": "Cra 7 # 10 - 80",
+            "TELEFONO": "341 8838",
+            "CORREO": "info@catedraldebogota.org",
+            "URL": "http://catedraldebogota.org/contactanos",
+            "UBICACION": "-74.074998,4.597781",
+            "PRECIO_PROMEDIO": "N/A",
+            "HORARIO": "N/A",
+            "IMAGEN": "http://www.todoviajes.com/images//galeria/bogota/bogota-1.jpg",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,21 +22,21 @@
             "URL_VIDEO": "https:\/\/www.youtube.com\/watch?v=XQNzv_T_14t",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador457\/imgPrestador457-0.png"
+                "http://www.todoviajes.com/images//galeria/bogota/bogota-1.jpg"
             ]
         },
         {
             "CODIGO": "458",
-            "NOMBRE": "pruebaaaaaa",
-            "DESCRIPCION": "asdfasdfasdf",
-            "DIRECCION": "sdfsdf",
-            "TELEFONO": "2323",
-            "CORREO": "aaa@com.co",
-            "URL": "sdfsdf",
+            "NOMBRE": "Museo del Oro",
+            "DESCRIPCION": "El Museo del Oro de Bogotá es propiedad del Banco de la República de Colombia y posee una colección de más de 30 mil obras de oro y cobre. La pieza más emblemática y famosa es la Balsa Muisca, fabricada entre los años 600 y 1600 d.C.",
+            "DIRECCION": "Carrera 6 N° 16-58, Parque de Santander.",
+            "TELEFONO": "343 0999",
+            "CORREO": "Museodeloro@museo.com.co",
+            "URL": "www.banrep.gov.co/museo ",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "2323",
-            "HORARIO": "222",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador458\/imgPrestador458-0.png",
+            "PRECIO_PROMEDIO": "$ 7000",
+            "HORARIO": "De 11 am a 5 pm",
+            "IMAGEN": "http://www.todoviajes.com/images//galeria/bogota/bogota-3.jpg",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -44,10 +44,10 @@
             "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
             "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
             "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
-            "URL_VIDEO": "",
+            "URL_VIDEO": "https://www.youtube.com/watch?v=X4aZDhAA2WM",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador458\/imgPrestador458-0.png"
+                "http://www.todoviajes.com/images//galeria/bogota/bogota-3.jpg"
             ]
         }
     ]
