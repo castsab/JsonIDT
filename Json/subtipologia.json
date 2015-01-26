@@ -6,7 +6,7 @@
 			"CODIGO": "1",
 			"NOMBRE": "Bogot\u00e1 ciudad verde",
 			"DESCRIPCION": "La revista Lonely Planet de Argentina en su art\u00edculo titulado \"10 Viajes F\u00e1ciles\" destaca a la capital colombiana como un ejemplo a seguir en cuestiones de ecolog\u00eda y medio ambiente.",
-			"CONTENIDO": null,
+			"CONTENIDO": "El altiplano es una región predominantemente agrícola y de clima frío. En la Sabana de Bogotá hay haciendas rodeadas de cultivos de flores que ofrecen excelente alojamiento. El departamento de Boyacá, a su vez, cuenta con sobrecogedores paisajes cuya contemplación es un verdadero deleite.",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
 			"COD_TIPOLOGIA": "1",
 			"TIENE_PRESTADOR": "0",
@@ -16,7 +16,7 @@
 			"CODIGO": "157",
 			"NOMBRE": "Metr\u00f3poli de la cultura y los negocios",
 			"DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital.",
-			"CONTENIDO": null,
+			"CONTENIDO": "Bogotá es la capital de Colombia, está ubicada en el centro del país sobre una extensa planicie en la Cordillera de los Andes a 2.600 metros sobre el nivel del mar, tiene una población cercana a los ocho millones de habitantes provenientes de todos los rincones del mundo. Es una ciudad tan diversa como el país entero, es el centro cultural más importante de Colombia y un lugar con centenares de sitios por conocer y actividades por realizar.",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia157\/imgSubtipologia157.png",
 			"COD_TIPOLOGIA": "1",
 			"TIENE_PRESTADOR": "0",
@@ -26,7 +26,7 @@
 			"CODIGO": "158",
 			"NOMBRE": "El epicentro cultural colombiano",
 			"DESCRIPCION": "Esta es una ciudad de museos, puedes encontrar exposiciones permanentes de arte de todas las \u00e9pocas, tambi\u00e9n de objetos hist\u00f3ricos, museos religiosos, de ciencias naturales, tecnolog\u00eda y hasta espacios interactivos.",
-			"CONTENIDO": null,
+			"CONTENIDO": "A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley le confiere a los Departamentos.8 Está constituida por 20 localidades y es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia1\/Subtipologia158\/imgSubtipologia158.png",
 			"COD_TIPOLOGIA": "1",
 			"TIENE_PRESTADOR": "0",
@@ -76,12 +76,12 @@
 			"TIENE_RUTA": "0"
 		}, {
 			"COD_CLASIFICACION": "1",
-			"CODIGO": "98",
+			"CODIGO": "56",
 			"NOMBRE": "\u00bfTe quedas 1 d\u00eda?",
 			"DESCRIPCION": "Mauris quis luctus tortor. Donec condimentum pretium risus, consequat tristique tortor auctor quis. Pellentesque in aliquet odio. Nunc leo arcu, facilisis sed sodales vel, luctus in nisi. Aenean at arcu sollicitudin est aliquam elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Ut mauris nibh, convallis id sapien ut, mattis tempor nisi. Quisque euismod, sem id accumsan elementum, risus quam tincidunt felis, vel",
 			"CONTENIDO": "Nulla facilisi. Proin ornare risus ut arcu tristique cursus. Pellentesque ullamcorper metus ipsum, eget congue nisi imperdiet in. Vivamus id euismod purus. Vivamus nec nulla ac dui scelerisque elementum non sed dolor. Suspendisse convallis feugiat lectus nec tempus. Etiam a aliquet tortor, vitae volutpat lectus. Nullam consectetur nibh condimentum leo luctus, non dictum purus elementum. Sed sagittis purus eget tellus porttitor convallis. Fusce feugiat purus eu lacus euismod, sit amet lobortis erat elementum. Cras enim neque, placerat et ante eu, tempor finibus leo. Pellentesque sem magna, tristique ut luctus nec, rhoncus sed lacus. Phasellus et accumsan lacus. Aenean lobortis lectus a diam bibendum, nec sollicitudin risus dictum. Quisque tristique enim in blandit porta. Donec metus metus, scelerisque eget sem vel, venenatis finibus neque.",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia51\/Subtipologia98\/imgSubtipologia98.png",
-			"COD_TIPOLOGIA": "51",
+			"COD_TIPOLOGIA": "56",
 			"TIENE_PRESTADOR": "1",
 			"TIENE_RUTA": "0"
 		}, {
