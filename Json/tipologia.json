@@ -12,25 +12,25 @@
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_1.png"
         },
         {
-            "CODIGO": "2",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "¿Es tu Primera Visita?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/imgTipologia2.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#ee7914",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_2.png"
+        "CODIGO": "2",
+        "COD_CLASIFICACION": "1",
+	"NOMBRE": "\u00bfEs tu primera Visita?",
+	"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia51\/iconoTipologia51.png",
+	"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia51\/imgTipologia51.png",
+	"TIENE_SUBTIPOLOGIA": "1",
+	"backgroundColor": "#008c23",
+	"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_51.png"
         },
        {
-			"CODIGO": "3",
-			"COD_CLASIFICACION": "1",
-			"NOMBRE": "Imperdibles",
-			"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
-			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
-			"TIENE_SUBTIPOLOGIA": "0",
-			"backgroundColor": "#ee7914",
-			"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_58.png"
-		},
+	"CODIGO": "3",
+	"COD_CLASIFICACION": "1",
+	"NOMBRE": "Imperdibles",
+	"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
+	"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
+	"TIENE_SUBTIPOLOGIA": "0",
+	"backgroundColor": "#ee7914",
+	"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_58.png"
+	},
         {
             "CODIGO": "4",
             "COD_CLASIFICACION": "1",
