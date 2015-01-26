@@ -2,16 +2,16 @@
     "31": [
         {
             "CODIGO": "413",
-            "NOMBRE": "prueba prestador22",
-            "DESCRIPCION": "uuuuuuuuuerererer",
-            "DIRECCION": "dir",
-            "TELEFONO": "3242367676",
-            "CORREO": "aaabbbb@com.co",
-            "URL": "eswerrrrrrerererere",
+            "NOMBRE": "Joyería Lievano",
+            "DESCRIPCION": "Joyas exclusivas, no producidas en serie, hechas a mano, elaborados por artesanos joyeros, con piedras preciosas certificadas y de diseño contemporáneo.",
+            "DIRECCION": "Cra 11 # 82-01 local 157",
+            "TELEFONO": "616 8608",
+            "CORREO": "info@joyerialievano.com",
+            "URL": "http://www.joyerialievano.com/",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "3242345",
-            "HORARIO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador413\/imgPrestador413-0.png",
+            "PRECIO_PROMEDIO": "N/A",
+            "HORARIO": "N/A",
+            "IMAGEN": "http://circulocolombianodejoyerias.org/images/joyerialievanoadentro.jpg",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,7 +22,9 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador413\/imgPrestador413-0.png"
+                "http://circulocolombianodejoyerias.org/images/joyerialievanoadentro.jpg",
+                "http://www.radarpolitico.com.mx/wp-content/uploads/2012/02/JOYERIAS-PUERTO-PARAISO-LOS-CABOS.jpg",
+                "http://www.circulocolombianodejoyerias.org/images/Logo-Lievano.jpg"
             ]
         }
     ]
