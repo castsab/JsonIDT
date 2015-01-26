@@ -45,8 +45,8 @@
     ],
     "3": [
         {
-            "CODIGO": "1",
-            "COD_CLASIFICACION": "2",
+            "CODIGO": "7",
+            "COD_CLASIFICACION": "7",
             "NOMBRE": "Historia y Cultura",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/imgTipologia7.png",
