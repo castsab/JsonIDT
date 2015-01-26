@@ -119,15 +119,5 @@
 		"PUNTO_MAXIMO": null,
 		"backgroundColor": "#82190f",
 		"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloZona_12.png"
-	},
-	"12": {
-		"CODIGO": "13",
-		"NOMBRE": "No Pertenece a ZIT",
-		"DESCRIPCION": "No est\u00e1 asociada",
-		"IMAGEN": "",
-		"PUNTO_MINIMO": null,
-		"PUNTO_MAXIMO": null,
-		"backgroundColor": "",
-		"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloZona_12.png"
 	}
 }
