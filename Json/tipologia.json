@@ -1,10 +1,10 @@
 {
-    "FECHA_CREACION": "2014-12-24",
+
     "1": [
         {
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
+            "NOMBRE": "¿Por que Bogotá?",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
@@ -14,23 +14,23 @@
         {
             "CODIGO": "2",
             "COD_CLASIFICACION": "1",
-            "NOMBRE": "Primera Visita",
+            "NOMBRE": "¿Es tu Primera Visita?",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/imgTipologia2.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#ee7914",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_2.png"
         },
-        {
-            "CODIGO": "3",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Atracciones Gratuitas",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia3\/imgTipologia3.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#84a22a",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_3.png"
-        },
+       {
+			"CODIGO": "3",
+			"COD_CLASIFICACION": "1",
+			"NOMBRE": "Imperdibles",
+			"ICONO": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
+			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
+			"TIENE_SUBTIPOLOGIA": "0",
+			"backgroundColor": "#ee7914",
+			"RUTA_TRIANGULO": "http:\/\/pruebacidt.bogota.gov.co\/imagenes\/iconoTrianguloTipologia_58.png"
+		},
         {
             "CODIGO": "4",
             "COD_CLASIFICACION": "1",
@@ -40,16 +40,6 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#b200b2",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
-        },
-        {
-            "CODIGO": "5",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Agenda de Ciudad",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia5\/iconoTipologia5.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia5\/imgTipologia5.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#ff2626",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_5.png"
         },
         {
             "CODIGO": "6",
