@@ -538,7 +538,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -549,7 +549,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -560,7 +560,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -571,7 +571,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -582,7 +582,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -593,7 +593,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -604,7 +604,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -615,7 +615,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -626,7 +626,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -637,7 +637,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -648,7 +648,7 @@
             "CONTENIDO": "",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia19\/Subtipologia44\/imgSubtipologia44.png",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -659,7 +659,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -670,7 +670,7 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -681,14 +681,14 @@
             "CONTENIDO": null,
             "IMAGEN": "",
             "COD_TIPOLOGIA": "19",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         }
     ],
     "20": [
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "48",
+            "CODIGO": "67",
             "NOMBRE": "Discotecas",
             "DESCRIPCION": "",
             "CONTENIDO": "a\r\n\r\nb\r\n\r\nc\r\n\r\nd",
