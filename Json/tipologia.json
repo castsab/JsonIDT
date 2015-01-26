@@ -281,8 +281,8 @@
             "CODIGO": "27",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Convertidor de Moneda",
-            "ICONO": "",
-            "IMAGEN": "",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia22\/iconoTipologia22.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia22\/imgTipologia22.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_27.png"
