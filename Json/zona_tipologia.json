@@ -1,5 +1,5 @@
 {
-    "FECHA_CREACION": "2014-12-24",
+
     "1": [
         {
             "CODIGO": "3",
@@ -26,7 +26,7 @@
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_7.png"
         },
         {
-            "CODIGO": "9",
+            "CODIGO": "19",
             "CODIGO_ZONA": "1",
             "NOMBRE": "Gastron\u00f3mico",
             "DESCRIPCION": "",
@@ -60,23 +60,11 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#0086b2",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
-        },
-        {
-            "CODIGO": "41",
-            "CODIGO_ZONA": "1",
-            "NOMBRE": "PRUEBA",
-            "DESCRIPCION": "ASDFASDFA",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia41\/iconoTipologia41.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia41\/imgTipologia41.png",
-            "COD_CLASIFICACION": "4",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#0b0100",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_41.png"
         }
     ],
     "2": [
         {
-            "CODIGO": "16",
+            "CODIGO": "29",
             "CODIGO_ZONA": "2",
             "NOMBRE": "Alojamiento",
             "DESCRIPCION": "",
