@@ -38,7 +38,7 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "$ 7000",
             "HORARIO": "De 11 am a 5 pm",
-            "IMAGEN": "http://www.todoviajes.com/images//galeria/bogota/bogota-3.jpg",
+            "IMAGEN": "http://touristing.files.wordpress.com/2009/09/dscn3656.jpg",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -49,7 +49,7 @@
             "URL_VIDEO": "https://www.youtube.com/watch?v=X4aZDhAA2WM",
             "URL_AUDIO": "",
             "FOTOS": [
-                "http://www.todoviajes.com/images//galeria/bogota/bogota-3.jpg"
+                "http://touristing.files.wordpress.com/2009/09/dscn3656.jpg"
             ]
         },
         {
