@@ -1,32 +1,23 @@
 [
-    {
-        "CODIGO": "1",
-        "NOMBRE": "DESCUBRE BOGOT\u00c1",
-        "backgroundColor": "#0086B2"
-    },
-    {
-        "CODIGO": "2",
-        "NOMBRE": "ZONAS TUR\u00cdSTICAS",
-        "backgroundColor": "#2A6093"
-    },
-    {
+   {
+		"CODIGO": "1",
+		"NOMBRE": "DESCUBRE BOGOT\u00c1",
+		"backgroundColor": "#0086B2"
+	}, {
+		"CODIGO": "2",
+		"NOMBRE": "ZONAS TUR\u00cdSTICAS",
+		"backgroundColor": "#2A6093"
+	}, {
 		"CODIGO": "3",
 		"NOMBRE": "QUE HACER?",
 		"backgroundColor": "#668439"
-	},
-    {
-        "CODIGO": "4",
-        "NOMBRE": "DIRECTORIO DE PRESTADORES",
-        "backgroundColor": "#E03D76"
-    },
-   {
-		"CODIGO": "5",
-		"NOMBRE": "INFORMACIÓN A LA MANO",
-		"backgroundColor": "#D48528"
-	},
-     {
-		"CODIGO": "7",
+	}, {
+		"CODIGO": "4",
 		"NOMBRE": "PLANEA TU VISITA",
 		"backgroundColor": "#E03D76"
+	}, {
+		"CODIGO": "5",
+		"NOMBRE": "INFORMACION A LA MANO",
+		"backgroundColor": "#D48528"
 	}
 ]
