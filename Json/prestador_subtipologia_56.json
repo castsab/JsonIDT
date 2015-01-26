@@ -36,7 +36,7 @@
             "UBICACION":null,
             "PRECIO_PROMEDIO":"",
             "HORARIO":"",
-            "IMAGEN":"http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Prestador471\/imgPrestador471-0.png",
+            "IMAGEN":"http://media-cdn.tripadvisor.com/media/photo-s/02/77/71/3c/museo-de-los-ninos-children.jpg",
             "ICONO_DIRECCION":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_tel.png",
             "ICONO_HORARIO":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_hor.png",
@@ -44,10 +44,10 @@
             "ICONO_PRECIO":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_precio.png",
             "ICONO_TRANS":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_trans.png",
             "ICONO_WEB":"http:\/\/pruebacidt.bogota.gov.co\/imagenes\/ico_web.png",
-            "URL_VIDEO":"http:\/\/",
+            "URL_VIDEO":"https://www.youtube.com/watch?v=YaIiLkUXSY0",
             "URL_AUDIO":"",
             "FOTOS":[
-            "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Prestador471\/imgPrestador471-0.png"
+           "http://media-cdn.tripadvisor.com/media/photo-s/02/77/71/3c/museo-de-los-ninos-children.jpg"
 ]
 
         }
