@@ -81,17 +81,17 @@
 			"DESCRIPCION": "Mauris quis luctus tortor. Donec condimentum pretium risus, consequat tristique tortor auctor quis. Pellentesque in aliquet odio. Nunc leo arcu, facilisis sed sodales vel, luctus in nisi. Aenean at arcu sollicitudin est aliquam elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Ut mauris nibh, convallis id sapien ut, mattis tempor nisi. Quisque euismod, sem id accumsan elementum, risus quam tincidunt felis, vel",
 			"CONTENIDO": "Nulla facilisi. Proin ornare risus ut arcu tristique cursus. Pellentesque ullamcorper metus ipsum, eget congue nisi imperdiet in. Vivamus id euismod purus. Vivamus nec nulla ac dui scelerisque elementum non sed dolor. Suspendisse convallis feugiat lectus nec tempus. Etiam a aliquet tortor, vitae volutpat lectus. Nullam consectetur nibh condimentum leo luctus, non dictum purus elementum. Sed sagittis purus eget tellus porttitor convallis. Fusce feugiat purus eu lacus euismod, sit amet lobortis erat elementum. Cras enim neque, placerat et ante eu, tempor finibus leo. Pellentesque sem magna, tristique ut luctus nec, rhoncus sed lacus. Phasellus et accumsan lacus. Aenean lobortis lectus a diam bibendum, nec sollicitudin risus dictum. Quisque tristique enim in blandit porta. Donec metus metus, scelerisque eget sem vel, venenatis finibus neque.",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia51\/Subtipologia98\/imgSubtipologia98.png",
-			"COD_TIPOLOGIA": "56",
+			"COD_TIPOLOGIA": "54",
 			"TIENE_PRESTADOR": "1",
 			"TIENE_RUTA": "0"
 		}, {
 			"COD_CLASIFICACION": "1",
-			"CODIGO": "99",
+			"CODIGO": "56",
 			"NOMBRE": "\u00bfTe quedas 2 d\u00edas?",
 			"DESCRIPCION": "Curabitur velit dui, pulvinar hendrerit nisi sed, auctor accumsan massa. Ut scelerisque sem justo, et hendrerit odio imperdiet sed. Quisque hendrerit a libero ac lacinia. Praesent interdum maximus metus ac consectetur. Nullam metus justo, tristique id dui vel, consectetur faucibus enim. Ut vestibulum arcu non vestibulum consequat. In ut ex at metus efficitur congue nec ut metus.",
 			"CONTENIDO": "Sed sollicitudin consectetur odio, at fringilla nisi malesuada in. Sed ultricies malesuada dolor id vulputate. Integer non nibh et dolor convallis aliquam. Etiam augue justo, dignissim vel eros eget, pulvinar egestas sapien. Maecenas feugiat suscipit massa at faucibus. Vestibulum vehicula ex fermentum, fringilla libero eu, lacinia ex. Maecenas sem ante, porta sit amet ipsum ut, semper sodales dolor. In sed facilisis erat. Morbi sed placerat lorem, eget ullamcorper neque. Quisque nec dui metus.",
 			"IMAGEN": "http:\/\/pruebacidt.bogota.gov.co\/imgAudioIDT\/Tipologia51\/Subtipologia99\/imgSubtipologia99.png",
-			"COD_TIPOLOGIA": "51",
+			"COD_TIPOLOGIA": "53",
 			"TIENE_PRESTADOR": "1",
 			"TIENE_RUTA": "0"
 		},  {
