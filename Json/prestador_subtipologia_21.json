@@ -22,9 +22,8 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
             "FOTOS": [
-                "http://www.metrocuadrado.com/decoracion/sites/metrocuadrado.com/files/imagecache/DimensionesImagenes/DSCN5408.JPG.crop_display.jpg",
-                "http://2.bp.blogspot.com/-OPzPOJTDMIM/UJ_JvFOLbcI/AAAAAAAACUo/8I87pNTHgKw/s1600/Teatro-Colon-Bogota-Colombia-3.jpg"
-            ]
+                "http://www.metrocuadrado.com/decoracion/sites/metrocuadrado.com/files/imagecache/DimensionesImagenes/DSCN5408.JPG.crop_display.jpg"
+                ]
         },
         {
             "CODIGO": "123",
@@ -48,9 +47,8 @@
             "URL_VIDEO": "https://www.youtube.com/watch?v=wdINTSIwCHM",
             "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
             "FOTOS": [
-                "http://static.wixstatic.com/media/39b9cd_724fa1b82b8e4e10bca7bd5270981790.jpg_srz_980_314_85_22_0.50_1.20_0.00_jpg_srz",
-               
-            ]
+                "http://static.wixstatic.com/media/39b9cd_724fa1b82b8e4e10bca7bd5270981790.jpg_srz_980_314_85_22_0.50_1.20_0.00_jpg_srz"
+                ]
         }
     ]
 }
