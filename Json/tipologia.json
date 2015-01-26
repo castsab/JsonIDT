@@ -33,7 +33,7 @@
 	},
         
         {
-            "CODIGO": "4",
+            "CODIGO": "6",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Top 10",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
@@ -46,7 +46,7 @@
     "3": [
         {
             "CODIGO": "1",
-            "COD_CLASIFICACION": "3",
+            "COD_CLASIFICACION": "2",
             "NOMBRE": "Historia y Cultura",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/imgTipologia7.png",
