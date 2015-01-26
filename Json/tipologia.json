@@ -186,7 +186,7 @@
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_18.png"
         },
         {
-            "CODIGO": "19",
+            "CODIGO": "48",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Restaurantes",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia19\/iconoTipologia19.png",
@@ -196,7 +196,7 @@
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_19.png"
         },
         {
-            "CODIGO": "20",
+            "CODIGO": "67",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Sitios de Rumba",
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
@@ -204,16 +204,6 @@
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#69008c",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_20.png"
-        },
-        {
-            "CODIGO": "41",
-            "COD_CLASIFICACION": "4",
-            "NOMBRE": "PRUEBA",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia41\/iconoTipologia41.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia41\/imgTipologia41.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#0b0100",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_41.png"
         }
     ],
     "5": [
