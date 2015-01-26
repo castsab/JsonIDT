@@ -1,17 +1,17 @@
 {
     "21": [
         {
-            "CODIGO": "463",
-            "NOMBRE": "abcde",
-            "DESCRIPCION": "Otro A partir de la instalación de la Casa Arana la caza y esclavitud de indígenas alcanza su máxima expresión de crueldad. Entre1903 y 1934 fueron cazados y exterminados más de 40.000 indígenas, a quienes previamente se esclavizó para convertirlos en siringueiros (recolectores de caucho), por cuyo trabajo recibían a cambio un hacha, un pantalón o la muerte. Entre otras modalidades de tortura practicaban el tiro al blanco con los indígenas, los bañaban con kerosene y les prendían fuego para animar reuniones con los brincos y gritos de los indígenas incinerados. A los posibles rebeldes los mantenían encadenados y a los que se negaban a trabajar los amarraban a un cepo hasta que morían de hambre.",
-            "DIRECCION": "erger",
-            "TELEFONO": "21 12",
-            "CORREO": "aa@com.co",
-            "URL": "sdfsdf",
+            "CODIGO": "423",
+            "NOMBRE": "Teatro Colón",
+            "DESCRIPCION": "El Teatro Colón, pieza de gran riqueza e importancia histórica y patrimonial para Colombia, fue inaugurado el 12 de octubre de 1892. El arquitecto italiano Pietro Cantini fue el encargado de visualizar y planear la materialización de este escenario neoclásico. El Teatro Colón es declarado Monumento Nacional y se consolida como un bien de interés cultural.",
+            "DIRECCION": "Calle 10 # 5-32 Bogotá, Colombia",
+            "TELEFONO": "3816380",
+            "CORREO": "info@teatrocolon.gov.co",
+            "URL": "http://teatrocolon.gov.co/el-teatro/el-teatro-de-los-colombianos/",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "1",
-            "HORARIO": "11",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/imgPrestador463-0.png",
+            "PRECIO_PROMEDIO": "Según Función",
+            "HORARIO": "Según Función",
+            "IMAGEN": "http://www.metrocuadrado.com/decoracion/sites/metrocuadrado.com/files/imagecache/DimensionesImagenes/DSCN5408.JPG.crop_display.jpg",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,7 +22,34 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/imgPrestador463-0.png"
+                "http://www.metrocuadrado.com/decoracion/sites/metrocuadrado.com/files/imagecache/DimensionesImagenes/DSCN5408.JPG.crop_display.jpg",
+                "http://2.bp.blogspot.com/-OPzPOJTDMIM/UJ_JvFOLbcI/AAAAAAAACUo/8I87pNTHgKw/s1600/Teatro-Colon-Bogota-Colombia-3.jpg"
+            ]
+        },
+        {
+            "CODIGO": "123",
+            "NOMBRE": "Teatro Astor Plaza ",
+            "DESCRIPCION": "El 11 de noviembre del 2004, El Astor Plaza Sala de Eventos abrió sus puertas al público como una nueva alternativa para Bogotá en cuanto a exposición de eventos de carácter cultural y de entretenimiento en general. El famoso cantante italiano Nicola Di Bari fue el encargado de abrir el telón que desde la fecha mencionada no se ha cerrado y el escenario ha servido para recibir innumerables exponentes del arte en las tablas.",
+            "DIRECCION": "Calle 67 # 11 - 58",
+            "TELEFONO": "2127827",
+            "CORREO": "info@astorplaza.com",
+            "URL": "http://www.astorplaza.com",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "Según Función",
+            "HORARIO": "Según Función",
+            "IMAGEN": "http://static.wixstatic.com/media/39b9cd_724fa1b82b8e4e10bca7bd5270981790.jpg_srz_980_314_85_22_0.50_1.20_0.00_jpg_srz",
+            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
+            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
+            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
+            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/imagenes\/ico_mail.png",
+            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
+            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
+            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
+            "URL_VIDEO": "https://www.youtube.com/watch?v=wdINTSIwCHM",
+            "URL_AUDIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador463\/audioPrestador463.mp3",
+            "FOTOS": [
+                "http://static.wixstatic.com/media/39b9cd_724fa1b82b8e4e10bca7bd5270981790.jpg_srz_980_314_85_22_0.50_1.20_0.00_jpg_srz",
+               
             ]
         }
     ]
