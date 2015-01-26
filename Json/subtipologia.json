@@ -230,18 +230,7 @@
             "CONTENIDO": "f\r\n\r\ng\r\n\r\nh\r\n\r\ni\r\n\r\nj",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/Subtipologia7\/imgSubtipologia7.png",
             "COD_TIPOLOGIA": "7",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "8",
-            "NOMBRE": "Monumentos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "7",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         }
     ],
