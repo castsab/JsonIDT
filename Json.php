@@ -184,8 +184,9 @@ class Json extends Consultas {
 
         /*echo '<pre>';
         print_r($a_tipologias);
-        echo '</pre>';*/
-
+        echo '</pre>';
+        die();*/
+        
         $this->setCrearArchivoJson($a_tipologias,$rutaArchivo);
         
     }
@@ -943,7 +944,7 @@ class Json extends Consultas {
         if(!empty($rutaImagen))
         {
             
-            $a_str = explode('imagenesBD',$rutaImagen);
+            $a_str = explode($delimitador,$rutaImagen);
 
             if(empty($a_str[1]))
             {
@@ -957,6 +958,45 @@ class Json extends Consultas {
         }
         
         return $urlImagen;
+    }
+    
+    public function setJsonEtiqueta($codigo_idioma){
+        
+        $rw = '';
+        $rs = '';
+
+        $a_etiqueta = array();
+        
+        $rutaArchivo = ($codigo_idioma == 1)?"Json/etiqueta.json":"Json_".$codigo_idioma."/etiqueta.json";
+        
+        $rs = $this->getEtiqueta();
+
+        $j = 0;
+        
+        $a_etiqueta['FECHA_CREACION'] = date('Y-m-d');
+        
+        while ($row = mysqli_fetch_array($rs)) {
+
+            if($codigo_idioma <> 1){
+
+                $a_idioma = $this->getTraduccionIdioma(array('COD_TABLA'=>$row['CODIGO'],'TABLA'=>'ETIQUETA', 'COD_IDIOMA'=>$codigo_idioma));
+                $row['NOMBRE'] = ($a_idioma['NOMBRE'] == '')?'':$a_idioma['NOMBRE'];
+            }
+            
+            if(!empty($row['NOMBRE']))
+            {
+                $a_etiqueta[$row['CODIGO']]['NOMBRE'] = utf8_encode($row['NOMBRE']);
+            }
+            
+            $j++;
+        }
+        //------------------------------------------------
+
+        /*echo '<pre>';
+        print_r($a_etiqueta);
+        echo '</pre>';*/
+
+        $this->setCrearArchivoJson($a_etiqueta,$rutaArchivo);
     }
     
 }

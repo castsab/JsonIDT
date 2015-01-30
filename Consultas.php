@@ -19,13 +19,14 @@ class Consultas extends Conexion {
     public $_TB_RUTA_PRESTADOR = '';
     public $_validarServer = '';
     public $_dominioServer = '';
+    public $_TB_ETIQUETA = '';
     
     public function __construct() {
         
         $this->_validarServer = $this->getServidor();
         
-        if($this->_validarServer == 1)
-        {
+        if($this->_validarServer == 1){
+            
             $this->_TB_CLASIFICACION = 'clasificacion';
             $this->_TB_TIPOLOGIA = 'tipologia';
             $this->_TB_SUBTIPOLOGIA = 'subtipologia';
@@ -38,9 +39,10 @@ class Consultas extends Conexion {
             $this->_TB_TRADUCCION = 'traduccion';
             $this->_TB_RUTA_PRESTADOR = 'ruta_prestador';
             $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
-        }
-        else
-        {
+            $this->_TB_ETIQUETA = 'etiqueta';
+            
+        }else{
+            
             $this->_TB_CLASIFICACION = 'CLASIFICACION';
             $this->_TB_TIPOLOGIA = 'TIPOLOGIA';
             $this->_TB_SUBTIPOLOGIA = 'SUBTIPOLOGIA';
@@ -53,6 +55,7 @@ class Consultas extends Conexion {
             $this->_TB_TRADUCCION = 'TRADUCCION';
             $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
             $this->_dominioServer = "http://pruebacidt.bogota.gov.co";
+            $this->_TB_ETIQUETA = 'ETIQUETA';
         }
         
         parent::__construct();
@@ -515,6 +518,28 @@ class Consultas extends Conexion {
         $a_datos = mysqli_fetch_array($rs); 
         
         return $a_datos;
+        
+    }
+    
+    public function getEtiqueta(){
+        
+        //$cond = '';
+        
+        $sql = "select
+                    CODIGO As CODIGO,
+                    NOMBRE As NOMBRE
+                from 
+                    $this->_TB_ETIQUETA
+                where 
+                    TABLA='APP_MOVIL' ";
+        
+        //echo '<br>(getEtiqueta)- sql { '.$sql.' }<br>';
+        
+        $rs = $this->ejecutar($sql);
+        
+        //$a_datos = mysqli_fetch_array($rs); 
+        
+        return $rs;
         
     }
 
