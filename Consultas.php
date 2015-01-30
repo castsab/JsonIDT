@@ -107,8 +107,7 @@ class Consultas extends Conexion {
                     IMAGEN As IMAGEN,
                     DESCRIPCION As DESCRIPCION,
                     CONTENIDO As CONTENIDO,
-                    COD_TIPOLOGIA As COD_TIPOLOGIA,
-                    CONTENIDO As CONTENIDO
+                    COD_TIPOLOGIA As COD_TIPOLOGIA
                 from 
                     '.$this->_TB_SUBTIPOLOGIA.'
                     '.$cond.' ORDER BY CODIGO ASC';
