@@ -221,13 +221,13 @@ class Consultas extends Conexion {
         
         $cond = '';
         
-        if(!empty($param['CODIGO_SUBTIPOLOGIA']) && $param['CONSULTAR'] == '')
+        if(!empty($param['CODIGO_SUBTIPOLOGIA']))
         {
             $cond = 'where s.CODIGO= '.$param['CODIGO_SUBTIPOLOGIA'].' ';
         }
         else
         {
-            $cond = 'where p.NOMBRE LIKE "%'.$param['CONSULTAR'].'%" ';
+            return false;
         }
         
         $sql = "select
@@ -248,10 +248,48 @@ class Consultas extends Conexion {
                     p.URL_VIDEO,
                     p.URL_AUDIO
                 from $this->_TB_SUBTIPOLOGIA s inner join $this->_TB_PRESTADOR_SUBTIPOLOGIA ps on s.CODIGO=ps.CODIGO_SUBTIPOLOGIA
-                                    inner join $this->_TB_PRESTADOR p on p.CODIGO=ps.CODIGO_PRESTADOR 
+                                               inner join $this->_TB_PRESTADOR p on p.CODIGO=ps.CODIGO_PRESTADOR 
                 $cond";
         
         //echo '<br>(getPrestadorSubtipologia)- sql { '.$sql.' }<br>';
+        //die();
+        
+        $rs = $this->ejecutar($sql);
+        return $rs;
+        
+    }
+    
+    public function getPrestadorSubtipologiaBuscador($param = ''){
+        
+        $cond = '';
+        
+        if(!empty($param['CONSULTAR']))
+        {
+            $cond = 'where p.NOMBRE LIKE "%'.$param['CONSULTAR'].'%" ';
+        }
+        else
+        {
+            return false;
+        }
+        
+        $sql = "select
+                    p.CODIGO As CODIGO_PRESTADOR,
+                    p.COD_ZONA,
+                    p.NOMBRE,
+                    p.DESCRIPCION,
+                    p.DIRECCION,
+                    p.TELEFONO,
+                    p.CORREO,
+                    p.URL,
+                    p.UBICACION,
+                    p.PRECIO_PROMEDIO,
+                    p.HORARIO,
+                    p.URL_VIDEO,
+                    p.URL_AUDIO
+                from $this->_TB_PRESTADOR p $cond";
+        
+        //echo '<br>(getPrestadorSubtipologia)- sql { '.$sql.' }<br>';
+        //die();
         
         $rs = $this->ejecutar($sql);
         return $rs;

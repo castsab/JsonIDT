@@ -10,8 +10,8 @@ $rs = $C_Json->getIdiomas();
 //$consultar = 'CASA';
 $codigo_idioma = '1';
 
-$consultar = $_POST['CONSULTAR'];
-//$codigo_idioma = $_POST['IDIOMA'];
+//$consultar = $_POST['CONSULTAR'];
+$consultar = 'hotel';
 
 //------------------------------------------
 //------------------------------------------
