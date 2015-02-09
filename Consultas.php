@@ -37,13 +37,13 @@ class Consultas extends Conexion {
         $this->_TB_TRADUCCION = 'TRADUCCION';
         $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
         $this->_TB_ETIQUETA = 'ETIQUETA';
-        $this->_delimitador = 'imgAudioIDT';
-        $this->_codigoTelefono = 81;
+        $this->_delimitador = 'imagenesBD';
+        $this->_codigoTelefono = 26;
         
         $this->_validarServer = $this->getServidor();
         
         if($this->_validarServer == 1){
-            $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/idt-test";
+            $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
         }else{
             $this->_dominioServer = "http://pruebacidt.bogota.gov.co";
         }
