@@ -1,25 +1,25 @@
 {
-    "FECHA_CREACION": "2015-01-30",
+    "FECHA_CREACION": "2015-02-09",
     "29": {
-        "NOMBRE": "El campo no puede estar vacio o debe ser de minimo tres caracteres."
+        "NOMBRE": "El campo no puede estar vac\u00edo o debe ser de m\u00ednimo tres caracteres."
     },
     "30": {
-        "NOMBRE": "El Buscador no esta disponible sin conexion a internet."
+        "NOMBRE": "El Buscador no est\u00e1 disponible sin conexi\u00f3n a internet."
     },
     "31": {
-        "NOMBRE": "El conversor de monedas no esta disponible sin conexion"
+        "NOMBRE": "El conversor de monedas no est\u00e1 disponible sin conexi\u00f3n"
     },
     "32": {
-        "NOMBRE": "El idioma ha sido cambiado, los cambios se veran en cuanto reinicie la aplicacion"
+        "NOMBRE": "El idioma ha sido cambiado, los cambios se ver\u00e1n en cuanto reinicie la aplicaci\u00f3n"
     },
     "33": {
-        "NOMBRE": "No se han encontrado los servicios de Google Play. Porfavor Instale los servicios de Google Play desde la tienda de Google Play."
+        "NOMBRE": "No se han encontrado los servicios de Google Play. Por favor Instale los servicios de Google Play desde la tienda de Google Play."
     },
     "34": {
-        "NOMBRE": "Los servicios de Google Play no estan actualizados. Por favor Actualize los servicios de Google Play."
+        "NOMBRE": "Los servicios de Google Play no est\u00e1n actualizados. Por favor actualize los servicios de Google Play."
     },
     "35": {
-        "NOMBRE": "Los servicios de Google Play estan deshabilitados. Por favor habilite los servicios de Google Play."
+        "NOMBRE": "Los servicios de Google Play est\u00e1n deshabilitados. Por favor habilite los servicios de Google Play."
     },
     "36": {
         "NOMBRE": "Los servicios de Google Play no puede ser confirmados. Por favor reinstale los servicios de Google Play."
@@ -31,12 +31,12 @@
         "NOMBRE": "Lo sentimos, No hemos podido localizar su ubicaci\u00f3n con el GPS."
     },
     "39": {
-        "NOMBRE": "Necesita tener acceso a Internet. "
+        "NOMBRE": "Necesita tener acceso a Internet."
     },
     "40": {
         "NOMBRE": "Necesita activar su servicio de ubicaci\u00f3n para usar esta caracter\u00edstica."
     },
     "41": {
-        "NOMBRE": "Esta funci\u00f3n no se encuentra disponible sin conexion."
+        "NOMBRE": "Esta funci\u00f3n no se encuentra disponible sin conexi\u00f3n."
     }
 }

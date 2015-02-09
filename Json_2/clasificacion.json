@@ -11,17 +11,17 @@
     },
     {
         "CODIGO": "3",
-        "NOMBRE": "Tourist Attractions",
+        "NOMBRE": "What to do?",
         "backgroundColor": "#668439"
     },
     {
         "CODIGO": "4",
-        "NOMBRE": "Providers Directory",
+        "NOMBRE": "Plan your visit",
         "backgroundColor": "#E03D76"
     },
     {
         "CODIGO": "5",
-        "NOMBRE": "Services for tourists",
+        "NOMBRE": "Info at hand",
         "backgroundColor": "#D48528"
     }
 ]

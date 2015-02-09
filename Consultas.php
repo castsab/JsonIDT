@@ -23,39 +23,25 @@ class Consultas extends Conexion {
     
     public function __construct() {
         
+        $this->_TB_CLASIFICACION = 'CLASIFICACION';
+        $this->_TB_TIPOLOGIA = 'TIPOLOGIA';
+        $this->_TB_SUBTIPOLOGIA = 'SUBTIPOLOGIA';
+        $this->_TB_ZONA = 'ZONA';
+        $this->_TB_ZONA_TIPOLOGIA = 'ZONA_TIPOLOGIA';
+        $this->_TB_IMAGENES = 'IMAGENES';
+        $this->_TB_PRESTADOR_SUBTIPOLOGIA = 'PRESTADOR_SUBTIPOLOGIA';
+        $this->_TB_PRESTADOR = 'PRESTADOR';
+        $this->_TB_IDIOMA = 'IDIOMA';
+        $this->_TB_TRADUCCION = 'TRADUCCION';
+        $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
+        $this->_TB_ETIQUETA = 'ETIQUETA';
+        
         $this->_validarServer = $this->getServidor();
         
         if($this->_validarServer == 1){
-            
-            $this->_TB_CLASIFICACION = 'clasificacion';
-            $this->_TB_TIPOLOGIA = 'tipologia';
-            $this->_TB_SUBTIPOLOGIA = 'subtipologia';
-            $this->_TB_ZONA = 'zona';
-            $this->_TB_ZONA_TIPOLOGIA = 'zona_tipologia';
-            $this->_TB_IMAGENES = 'imagenes';
-            $this->_TB_PRESTADOR_SUBTIPOLOGIA = 'prestador_subtipologia';
-            $this->_TB_PRESTADOR = 'prestador';
-            $this->_TB_IDIOMA = 'idioma';
-            $this->_TB_TRADUCCION = 'traduccion';
-            $this->_TB_RUTA_PRESTADOR = 'ruta_prestador';
             $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
-            $this->_TB_ETIQUETA = 'etiqueta';
-            
         }else{
-            
-            $this->_TB_CLASIFICACION = 'CLASIFICACION';
-            $this->_TB_TIPOLOGIA = 'TIPOLOGIA';
-            $this->_TB_SUBTIPOLOGIA = 'SUBTIPOLOGIA';
-            $this->_TB_ZONA = 'ZONA';
-            $this->_TB_ZONA_TIPOLOGIA = 'ZONA_TIPOLOGIA';
-            $this->_TB_IMAGENES = 'IMAGENES';
-            $this->_TB_PRESTADOR_SUBTIPOLOGIA = 'PRESTADOR_SUBTIPOLOGIA';
-            $this->_TB_PRESTADOR = 'PRESTADOR';
-            $this->_TB_IDIOMA = 'IDIOMA';
-            $this->_TB_TRADUCCION = 'TRADUCCION';
-            $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
             $this->_dominioServer = "http://pruebacidt.bogota.gov.co";
-            $this->_TB_ETIQUETA = 'ETIQUETA';
         }
         
         parent::__construct();
@@ -308,29 +294,15 @@ class Consultas extends Conexion {
      
     public function getObtenerRgbImagen($rutaImagen){
          
-        if(empty($rutaImagen))
-        {
+        if(empty($rutaImagen)){
             return true;
         }
-        
-        /*******************************************/
-        if($this->_validarServer == 1)
-        {
-            $rutaImagen = substr($rutaImagen, 1);
-        }
-        else
-        {
-            $rutaImagen = $rutaImagen;
-        }
-        /*******************************************/
         
         $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen,'1');
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
         $valorRgb = ''; 
         $a_valorRgb = array();
         $a_rgb = array();
-        
-        //echo 'rutaImagen : '.$rutaImagen.'<br>';
         
         $imagen = imagecreatefrompng($rutaImagen);
         
@@ -346,19 +318,6 @@ class Consultas extends Conexion {
             $g = ($rgb >> 8) & 0xFF;
             $b = $rgb & 0xFF;
             
-            //$COLOR_ICONO = $this->getRgbConvertirAHexadecimal(array($r, $g, $b));
-            
-            /******************************/
-            /*if($COLOR_FONDO != $COLOR_ICONO)
-            {
-                $r = ($rgb >> 16) & 0xFF;
-                $g = ($rgb >> 8) & 0xFF;
-                $b = $rgb & 0xFF;
-
-                return array($r, $g, $b);
-            }*/
-            /******************************/
-            
             $valorRgb = ($r + $g + $b);
             
             $a_valorRgb[$j] = $valorRgb;
@@ -370,12 +329,6 @@ class Consultas extends Conexion {
          
          $clave = array_search(min($a_valorRgb), $a_valorRgb);
        
-         /*$r = ($rgb >> 16) & 0xFF;
-         $g = ($rgb >> 8) & 0xFF;
-         $b = $rgb & 0xFF;*/
-
-         //return array($r, $g, $b);
-         
          return $a_rgb[$clave]['rgb'];
      }
      
@@ -386,22 +339,6 @@ class Consultas extends Conexion {
             return true; 
          }   
         
-         /*********************************/
-         if($val <> 1)
-         {
-            if($this->_validarServer == 1)
-            {
-                $rutaImagen = substr($rutaImagen, 1);
-            }
-            else
-            {
-                $rutaImagen = $rutaImagen;
-            }
-         }
-         /*********************************/
-         
-         //echo 'rutaImagen 2 : '.$rutaImagen.'<br>';
-         
          $imagen = imagecreatefrompng($rutaImagen);
          
          $rgb = imagecolorat($imagen, 1, 1);

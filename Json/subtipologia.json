@@ -1,121 +1,47 @@
 {
-    "FECHA_CREACION": "2015-01-30",
+    "FECHA_CREACION": "2015-02-09",
     "1": [
         {
             "COD_CLASIFICACION": "1",
             "CODIGO": "1",
-            "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "NOMBRE": "Bogot\u00e1 ciudad verde",
+            "DESCRIPCION": "La revista Lonely Planet de Argentina en su art\u00edculo titulado \"10 Viajes F\u00e1ciles\" destaca a la capital colombiana como un ejemplo a seguir en cuestiones de ecolog\u00eda y medio ambiente.",
             "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/Subtipologia1\/imgSubtipologia1.png",
             "COD_TIPOLOGIA": "1",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "1",
-            "CODIGO": "2",
-            "NOMBRE": "Prueba 3",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CODIGO": "157",
+            "NOMBRE": "Metr\u00f3poli de la cultura y los negocios",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital.",
             "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia2\/imgSubtipologia2.png",
-            "COD_TIPOLOGIA": "1",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "3",
-            "NOMBRE": "prueba 4",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
-            "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia18\/imgSubtipologia18.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/Subtipologia157\/imgSubtipologia157.png",
             "COD_TIPOLOGIA": "1",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "1",
-            "CODIGO": "4",
-            "NOMBRE": "Prueba 2",
-            "DESCRIPCION": "Bogot\u00e1 es una ciudad de transformaci\u00f3n, la renovaci\u00f3n urbana es visible en todos los sectores: el sistema de transporte masivo Transmilenio cambi\u00f3 la cara de las principales v\u00edas de la capital, nuevos",
+            "CODIGO": "158",
+            "NOMBRE": "El epicentro cultural colombiano",
+            "DESCRIPCION": "Esta es una ciudad de museos, puedes encontrar exposiciones permanentes de arte de todas las \u00e9pocas, tambi\u00e9n de objetos hist\u00f3ricos, museos religiosos, de ciencias naturales, tecnolog\u00eda y hasta espacios interactivos.",
             "CONTENIDO": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/Subtipologia4\/imgSubtipologia4.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/Subtipologia158\/imgSubtipologia158.png",
             "COD_TIPOLOGIA": "1",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
-        }
-    ],
-    "2": [
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "67",
-            "NOMBRE": "Primera Visita",
-            "DESCRIPCION": "",
-            "CONTENIDO": "",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "2",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "3": [
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "68",
-            "NOMBRE": "Atracciones Gratuitas",
-            "DESCRIPCION": "Atracciones Gratuitas Atracciones Gratuitas Atracciones Gratuitas Atracciones GratuitasAtracciones Gratuitas",
-            "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "3",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "4": [
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "82",
-            "NOMBRE": "Ruta1",
-            "DESCRIPCION": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 R",
-            "CONTENIDO": "Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1 Ruta1Ruta1 Ruta1 Ruta1 Ruta1 ",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/Subtipologia82\/imgSubtipologia82.png",
-            "COD_TIPOLOGIA": "4",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "1"
         },
         {
             "COD_CLASIFICACION": "1",
-            "CODIGO": "83",
-            "NOMBRE": "Ruta2",
-            "DESCRIPCION": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ru",
-            "CONTENIDO": "Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 Ruta2 ",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/Subtipologia83\/imgSubtipologia83.png",
-            "COD_TIPOLOGIA": "4",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "1"
-        },
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "84",
-            "NOMBRE": "Ruta 3",
-            "DESCRIPCION": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
-            "CONTENIDO": "Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 Ruta 3 ",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/Subtipologia84\/imgSubtipologia84.png",
-            "COD_TIPOLOGIA": "4",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "1"
-        }
-    ],
-    "5": [
-        {
-            "COD_CLASIFICACION": "1",
-            "CODIGO": "85",
-            "NOMBRE": "Cine",
-            "DESCRIPCION": "Cine cine cine cine",
-            "CONTENIDO": "Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine Cine cine cine cine",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia5\/Subtipologia85\/imgSubtipologia85.png",
-            "COD_TIPOLOGIA": "5",
+            "CODIGO": "159",
+            "NOMBRE": "Imposible aburrirse",
+            "DESCRIPCION": "Bogot\u00e1 es una ciudad para todos, hay actividades y planes para cada gusto. Cuenta con zonas de vida nocturna de diferentes estilos y ambientes: discotecas, bares, pubs, f\u00e1bricas artesanales de cerveza y clubes donde la diversi\u00f3n y el baile son el factor primordial",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/Subtipologia159\/imgSubtipologia159.png",
+            "COD_TIPOLOGIA": "1",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
@@ -125,279 +51,531 @@
             "COD_CLASIFICACION": "1",
             "CODIGO": "5",
             "NOMBRE": "Top 10",
-            "DESCRIPCION": "",
+            "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in. ",
             "CONTENIDO": "",
             "IMAGEN": "",
             "COD_TIPOLOGIA": "6",
-            "TIENE_PRESTADOR": "1",
+            "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "7": [
+    "51": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "95",
+            "NOMBRE": "\u00bfC\u00f3mo puedes llegar?",
+            "DESCRIPCION": "Duis tristique sollicitudin ipsum ac convallis. Praesent lobortis velit sed pellentesque porttitor. Nunc eget interdum justo. Duis dignissim urna tortor, a molestie ex porta sit amet. Mauris tempus gravida ex id ullamcorper. Aliquam ante eros, tempor id felis ac, posuere ultricies felis. Vivamus rhoncus venenatis dapibus. Duis efficitur, enim eget dictum laoreet, purus tellus blandit nisl, non viverra ligula ante ut dolor. Nulla dignissim leo sit amet enim pulvinar, et efficitur velit tristique.",
+            "CONTENIDO": "Pellentesque feugiat eros at rutrum rhoncus. Morbi eget ante imperdiet, convallis ante id, fringilla nulla. Nunc tincidunt elit et lectus pulvinar, sed imperdiet risus malesuada. Maecenas non ex pulvinar, posuere diam et, viverra sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque consequat augue libero, non ultrices urna aliquet sed. Nullam eros mi, fringilla auctor risus nec, tempor pharetra urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempor venenatis est, at tempus orci tempor at. Suspendisse venenatis mauris vitae urna pharetra tincidunt. Fusce eleifend ligula egestas massa condimentum viverra. Aenean lobortis ornare lorem vel fermentum. Quisque ornare commodo augue, in pulvinar ante blandit nec.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia95\/imgSubtipologia95.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "96",
+            "NOMBRE": "\u00bfCu\u00e1ndo ir?",
+            "DESCRIPCION": "Cras eu erat eu nibh molestie commodo. Duis eget maximus dui, ac sodales elit. Donec neque ligula, viverra volutpat est eget, semper ultrices urna. Pellentesque dolor enim, consectetur ut augue in, sagittis egestas arcu. Nulla facilisi. Praesent lacinia ornare ultricies. Vivamus cursus sem nec dolor imperdiet fermentum. Praesent interdum ultrices est, at consequat sapien semper in.",
+            "CONTENIDO": "Etiam at fringilla est. Donec scelerisque lorem purus. Aliquam vitae scelerisque dolor. Maecenas egestas nunc porttitor tellus mattis, et consectetur felis consequat. Ut tincidunt lectus lorem, in auctor arcu molestie a. Curabitur sed nulla eu justo sodales tempus eget ut quam. Suspendisse quis euismod orci. Donec at nisl ut quam ultrices porta quis eu nisl. Cras molestie nisi eget odio finibus hendrerit. Donec ultrices metus ut tortor consequat lacinia. Pellentesque eu dolor tempor, consectetur lacus sit amet, porttitor leo. Phasellus vel tortor luctus, fermentum leo non, dapibus justo.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia96\/imgSubtipologia96.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "97",
+            "NOMBRE": "\u00bfQu\u00e9 moneda puedes usar?",
+            "DESCRIPCION": "Nunc ornare dolor nec justo fermentum, ac fringilla urna scelerisque. Aliquam accumsan lacus urna, sed gravida arcu sagittis vitae. Ut purus nunc, pellentesque ac placerat id, dapibus quis justo. Ut tellus nunc, porttitor sit amet pharetra nec, gravida vel leo. Praesent id mattis ipsum. In sit amet feugiat est. Ut molestie massa purus, at porttitor lacus ullamcorper in. Integer eu magna ut sapien semper varius ac vitae enim.\r\n\r\n",
+            "CONTENIDO": "Morbi egestas viverra nisi. Proin vel neque egestas, rutrum ligula non, vehicula elit. Etiam sit amet mauris maximus, volutpat massa suscipit, porta lorem. Nam sit amet lectus ac turpis molestie vehicula vestibulum at orci. Phasellus consectetur auctor ante ac eleifend. Quisque a iaculis velit, vestibulum tempor diam. Vestibulum ut dolor quis urna ullamcorper facilisis. Donec ac libero auctor, viverra dui vitae, fringilla sem. Vivamus ut diam ut neque luctus hendrerit. Vivamus quis condimentum justo.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia97\/imgSubtipologia97.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "98",
+            "NOMBRE": "\u00bfTe quedas 1 d\u00eda?",
+            "DESCRIPCION": "Mauris quis luctus tortor. Donec condimentum pretium risus, consequat tristique tortor auctor quis. Pellentesque in aliquet odio. Nunc leo arcu, facilisis sed sodales vel, luctus in nisi. Aenean at arcu sollicitudin est aliquam elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Ut mauris nibh, convallis id sapien ut, mattis tempor nisi. Quisque euismod, sem id accumsan elementum, risus quam tincidunt felis, vel",
+            "CONTENIDO": "Nulla facilisi. Proin ornare risus ut arcu tristique cursus. Pellentesque ullamcorper metus ipsum, eget congue nisi imperdiet in. Vivamus id euismod purus. Vivamus nec nulla ac dui scelerisque elementum non sed dolor. Suspendisse convallis feugiat lectus nec tempus. Etiam a aliquet tortor, vitae volutpat lectus. Nullam consectetur nibh condimentum leo luctus, non dictum purus elementum. Sed sagittis purus eget tellus porttitor convallis. Fusce feugiat purus eu lacus euismod, sit amet lobortis erat elementum. Cras enim neque, placerat et ante eu, tempor finibus leo. Pellentesque sem magna, tristique ut luctus nec, rhoncus sed lacus. Phasellus et accumsan lacus. Aenean lobortis lectus a diam bibendum, nec sollicitudin risus dictum. Quisque tristique enim in blandit porta. Donec metus metus, scelerisque eget sem vel, venenatis finibus neque.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia98\/imgSubtipologia98.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "99",
+            "NOMBRE": "\u00bfTe quedas 2 d\u00edas?",
+            "DESCRIPCION": "Curabitur velit dui, pulvinar hendrerit nisi sed, auctor accumsan massa. Ut scelerisque sem justo, et hendrerit odio imperdiet sed. Quisque hendrerit a libero ac lacinia. Praesent interdum maximus metus ac consectetur. Nullam metus justo, tristique id dui vel, consectetur faucibus enim. Ut vestibulum arcu non vestibulum consequat. In ut ex at metus efficitur congue nec ut metus.",
+            "CONTENIDO": "Sed sollicitudin consectetur odio, at fringilla nisi malesuada in. Sed ultricies malesuada dolor id vulputate. Integer non nibh et dolor convallis aliquam. Etiam augue justo, dignissim vel eros eget, pulvinar egestas sapien. Maecenas feugiat suscipit massa at faucibus. Vestibulum vehicula ex fermentum, fringilla libero eu, lacinia ex. Maecenas sem ante, porta sit amet ipsum ut, semper sodales dolor. In sed facilisis erat. Morbi sed placerat lorem, eget ullamcorper neque. Quisque nec dui metus.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia99\/imgSubtipologia99.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "100",
+            "NOMBRE": "\u00bfTe quedas 3 dias?",
+            "DESCRIPCION": "Nunc at neque vel nisl iaculis vulputate. Nam finibus leo et gravida euismod. Nulla elementum ex ac felis feugiat, et dictum elit aliquet. Nulla cursus, purus sit amet faucibus sollicitudin, turpis diam ultrices urna, sed iaculis quam urna at urna. Nunc ut scelerisque nisi, eu mattis leo. Mauris scelerisque nunc in urna malesuada volutpat. Aenean lorem arcu, aliquam nec tellus a, hendrerit pellentesque sem. Sed pharetra vehicula volutpat. Nunc laoreet urna sapien. Aliquam vel odio porta, posuere",
+            "CONTENIDO": "Curabitur eros felis, semper ut leo nec, maximus mattis risus. Quisque quis iaculis tellus, nec blandit nibh. Maecenas convallis nibh nibh, in egestas mi varius in. Fusce eget tempor mauris, eu consectetur ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus dictum dolor nisi, et pharetra mauris mollis a. Aenean vehicula viverra semper. Phasellus et placerat mi, ac iaculis lacus. Pellentesque finibus consectetur efficitur. Sed dictum lorem eget consequat placerat. Duis ultrices est eget eros congue gravida. Suspendisse at purus accumsan, pharetra sapien efficitur, sollicitudin ante. Proin fermentum ante ac urna dictum, quis blandit enim mattis. Maecenas eget pretium massa. Nulla maximus est eget enim maximus vehicula vel eu nisi.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia100\/imgSubtipologia100.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "101",
+            "NOMBRE": "\u00bfC\u00f3mo es el clima?",
+            "DESCRIPCION": "Quisque nec mi eu orci pulvinar elementum. Cras varius, dolor a mollis gravida, diam sapien consequat sem, sed ultrices ex ipsum et libero. Proin et ex eget ante ullamcorper condimentum. Proin commodo tellus enim, non efficitur nisl venenatis ut. Praesent ultricies dignissim est. Sed in velit vel diam convallis tempor. Nulla vehicula consequat metus quis congue. Donec ornare lacus ut augue feugiat iaculis.",
+            "CONTENIDO": "Curabitur malesuada tellus sit amet mi laoreet, vitae dignissim lectus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus tortor ante, dictum at dolor iaculis, elementum sagittis justo. Aliquam erat volutpat. Duis non nisi non nunc faucibus fringilla. Phasellus a nunc a diam tempor bibendum. Sed posuere odio eu pellentesque pharetra. Donec consectetur interdum lorem id fringilla. Mauris hendrerit sagittis sagittis.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia101\/imgSubtipologia101.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "102",
+            "NOMBRE": "\u00bfEsta a nivel del mar?",
+            "DESCRIPCION": "Donec condimentum turpis ac nibh cursus mollis. Duis nisi sapien, eleifend auctor varius eu, luctus sed justo. Quisque et tempus metus. Mauris turpis lorem, suscipit sit amet magna quis, mattis sodales felis. Phasellus blandit elementum diam quis tristique. Quisque tincidunt, enim eu pulvinar lobortis, diam massa sagittis elit, quis mattis metus sem sed erat. Integer ullamcorper enim ac volutpat accumsan. Pellentesque mattis fringilla laoreet. Mauris at mauris vitae orci rutrum lobortis. Donec s",
+            "CONTENIDO": "Donec dapibus urna quis tortor posuere ultrices. Aenean nulla lectus, vulputate venenatis justo eu, cursus semper nulla. In euismod sapien in tellus venenatis venenatis. Donec ultrices venenatis lobortis. Suspendisse vitae semper leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mollis eget turpis et accumsan. Pellentesque volutpat ac metus sed rutrum. Mauris sed efficitur nibh. Nullam non massa quis nunc dapibus pellentesque sit amet id risus. Sed convallis nisl a enim euismod aliquam. Praesent imperdiet risus eu urna varius feugiat.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia102\/imgSubtipologia102.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "103",
+            "NOMBRE": "\u00bfCu\u00e1les son sus costumbres?",
+            "DESCRIPCION": "Phasellus lobortis diam eros, quis aliquam ex laoreet efficitur. Praesent accumsan metus vitae augue malesuada luctus. Nulla condimentum erat lectus, ut volutpat est ornare et. Nunc ut massa at ante malesuada eleifend nec et massa. Sed malesuada justo ex, ut facilisis massa mollis at. Donec velit urna, ornare in elit eu, auctor suscipit est. Vivamus aliquam tortor vitae leo hendrerit, eu pretium tellus suscipit. Curabitur sodales lorem sapien, ut porta mauris eleifend ut. Nulla non gravida quam,",
+            "CONTENIDO": "Nam ut turpis id augue euismod sodales at nec quam. Etiam arcu odio, pretium sed mi ut, pretium placerat nibh. Donec sollicitudin gravida turpis sed posuere. Aenean a sapien aliquet, rhoncus nibh ac, scelerisque lorem. Nullam vestibulum vestibulum ipsum, id faucibus justo porta sed. Curabitur ac urna massa. Suspendisse rutrum, felis sit amet tempus congue, velit erat convallis erat, et mollis magna purus in dui. Curabitur elit tortor, pretium id lacinia in, rutrum sit amet purus. Curabitur eget enim risus. Mauris non lectus purus. Suspendisse non massa at neque bibendum aliquet in ut dui. Aenean quis consequat magna, sed fermentum libero. In hac habitasse platea dictumst. Nunc placerat risus nunc, a rutrum leo facilisis at. Praesent aliquam congue odio, non pretium lacus sagittis vitae.\r\n\r\n",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia103\/imgSubtipologia103.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "104",
+            "NOMBRE": "\u00bfCu\u00e1l es su historia?",
+            "DESCRIPCION": "Nulla nec dictum nunc. Curabitur blandit hendrerit suscipit. Ut feugiat consectetur nisl eget posuere. Nam lobortis mi at lacus tempor, eu aliquam mauris aliquam. Vivamus non eros ac enim laoreet pulvinar. Duis mollis bibendum accumsan. Etiam vel eros ut mauris blandit dapibus in at velit. Nam a urna erat. Praesent eget elit id velit lacinia pharetra. Integer dignissim eros massa, sit amet dictum arcu efficitur eu. Quisque efficitur nec justo ut rhoncus.",
+            "CONTENIDO": "Aliquam massa libero, fringilla sed arcu et, aliquet sollicitudin metus. Nulla cursus convallis consequat. Ut quis elit ac ante fringilla sagittis. Fusce porttitor tempor varius. Nullam egestas sit amet mi et vehicula. Donec vel mauris nisi. Etiam condimentum porttitor velit, vel vehicula arcu mattis vitae. Pellentesque tempus urna ligula, eget mattis elit condimentum sed. Proin gravida, leo vitae cursus aliquet, tortor justo dapibus erat, ut euismod orci magna sed mauris. Mauris risus risus, condimentum et tincidunt sit amet, bibendum at lectus. Integer quam nulla, vehicula nec ligula quis, rhoncus tempor arcu.",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/Subtipologia104\/imgSubtipologia104.png",
+            "COD_TIPOLOGIA": "51",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "58": [
+        {
+            "COD_CLASIFICACION": "1",
+            "CODIGO": "160",
+            "NOMBRE": "Imperdibles",
+            "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
+            "CONTENIDO": "Proin nisi quam, bibendum vel euismod ac, sollicitudin vel elit. Phasellus eu ipsum ac mauris ullamcorper iaculis. Sed luctus egestas auctor. Curabitur viverra ultricies nisl, a varius leo maximus sed. Integer faucibus neque lectus, eu molestie augue gravida eu. Nulla nec nunc nec leo imperdiet cursus nec a diam. Aenean turpis enim, mattis vitae leo quis, tristique interdum elit. Nunc scelerisque sed enim ac sodales. Cras placerat, ex porttitor efficitur facilisis, elit dui ultrices justo, vestibulum cursus augue turpis in lorem. Sed at eros ut sapien hendrerit ullamcorper.",
+            "IMAGEN": "",
+            "COD_TIPOLOGIA": "58",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "4": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "169",
+            "NOMBRE": "Ruta 1",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia4\/Subtipologia169\/imgSubtipologia169.png",
+            "COD_TIPOLOGIA": "4",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "1"
+        }
+    ],
+    "5": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "105",
+            "NOMBRE": "Cine",
+            "DESCRIPCION": "Eventos cine",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia105\/imgSubtipologia105.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "106",
+            "NOMBRE": "Conferencia",
+            "DESCRIPCION": "Eventos relacionados con conferencias en Bogot\u00e1",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia106\/imgSubtipologia106.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "107",
+            "NOMBRE": "Deporte",
+            "DESCRIPCION": "Eventos relacionados con Deporte en Bogot\u00e1",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia107\/imgSubtipologia107.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "108",
+            "NOMBRE": "Ecol\u00f3gico",
+            "DESCRIPCION": "Eventos relacionados con temas ecol\u00f3gicos en Bogot\u00e1",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia108\/imgSubtipologia108.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "109",
+            "NOMBRE": "Exposiciones",
+            "DESCRIPCION": "Eventos relacionados con exposiciones en Bogot\u00e1",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia109\/imgSubtipologia109.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "110",
+            "NOMBRE": "Festivales",
+            "DESCRIPCION": "Eventos relacionados con festivales en Bogot\u00e1",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/Subtipologia110\/imgSubtipologia110.png",
+            "COD_TIPOLOGIA": "5",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "70": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "149",
+            "NOMBRE": "Lugares gratuitos",
+            "DESCRIPCION": "Aliquam eget ullamcorper purus, in accumsan sapien. Ut vitae sodales sapien. Mauris hendrerit non magna nec rutrum. Cras sodales eleifend sem a ullamcorper. Pellentesque rutrum odio quis tortor maximus ullamcorper. Sed bibendum a mauris ac iaculis. Vestibulum facilisis eros ac elit mattis, a tempor turpis facilisis.",
+            "CONTENIDO": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
+            "IMAGEN": "",
+            "COD_TIPOLOGIA": "70",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "71": [
         {
             "COD_CLASIFICACION": "3",
             "CODIGO": "6",
             "NOMBRE": "Museos",
-            "DESCRIPCION": "Museos museos museos museos",
+            "DESCRIPCION": "Maecenas sed aliquet tortor, a condimentum ante. Nullam interdum lacus nisl, quis egestas augue interdum ut. Integer at rutrum urna, eu sagittis diam. Morbi sed ipsum gravida, rutrum purus quis, sodales nisi. Fusce non orci eget nulla commodo tincidunt eu nec ligula. ",
             "CONTENIDO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/Subtipologia6\/imgSubtipologia6.png",
-            "COD_TIPOLOGIA": "7",
-            "TIENE_PRESTADOR": "1",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia6\/imgSubtipologia6.png",
+            "COD_TIPOLOGIA": "71",
+            "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "7",
+            "CODIGO": "140",
             "NOMBRE": "Teatros",
-            "DESCRIPCION": "",
-            "CONTENIDO": "f\r\n\r\ng\r\n\r\nh\r\n\r\ni\r\n\r\nj",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/Subtipologia7\/imgSubtipologia7.png",
-            "COD_TIPOLOGIA": "7",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia140\/imgSubtipologia140.png",
+            "COD_TIPOLOGIA": "71",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "8",
+            "CODIGO": "141",
             "NOMBRE": "Monumentos",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": " Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia141\/imgSubtipologia141.png",
+            "COD_TIPOLOGIA": "71",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "164",
+            "NOMBRE": "Museo del Oro",
             "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "7",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia164\/imgSubtipologia164.png",
+            "COD_TIPOLOGIA": "71",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "165",
+            "NOMBRE": "Planetario",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia165\/imgSubtipologia165.png",
+            "COD_TIPOLOGIA": "71",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "166",
+            "NOMBRE": "Casa de la Moneda - Museo Botero",
+            "DESCRIPCION": "",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/Subtipologia166\/imgSubtipologia166.png",
+            "COD_TIPOLOGIA": "71",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "8": [
+    "72": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "9",
+            "CODIGO": "130",
             "NOMBRE": "Centros Comerciales",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Nulla ornare vestibulum felis, ut vestibulum libero ultrices ut. Aliquam vestibulum mattis eleifend. Aenean pretium felis eget condimentum malesuada. Quisque venenatis justo velit, a malesuada metus dictum ut. Suspendisse vel lacinia eros, vitae lobortis quam.",
+            "CONTENIDO": " Duis nec erat nec ligula gravida imperdiet. Cras ultrices felis orci, quis volutpat quam porttitor id. Cras sed risus lacinia massa tincidunt efficitur. Sed non diam dictum, hendrerit elit et, aliquet turpis. Suspendisse tristique aliquam est vitae volutpat. Quisque lacus turpis, gravida nec porta sit amet, rutrum at sapien. Cras in semper felis. In hac habitasse platea dictumst. Sed neque mauris, auctor in augue posuere, ullamcorper accumsan magna. Proin et blandit ex. Ut pulvinar tellus vel nunc auctor, et dictum nisl ultrices. Vestibulum quis nunc pellentesque, fermentum leo at, faucibus nunc. Suspendisse tincidunt ultrices elit. Donec iaculis pulvinar lacus nec laoreet. Proin odio est, laoreet eget tellus vel, accumsan pulvinar nisl. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia130\/imgSubtipologia130.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "10",
+            "CODIGO": "131",
             "NOMBRE": "Moda y Confecci\u00f3n",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Morbi quis ex metus. Quisque quis nisi et leo tempus accumsan. Nulla in felis molestie, aliquam tellus vel, vehicula risus. Duis at felis felis. Curabitur ac efficitur libero, sed laoreet mi. Mauris bibendum felis et turpis placerat suscipit. Morbi non felis fermentum, porta augue ut, venenatis odio. ",
+            "CONTENIDO": " Nunc porttitor tincidunt magna, non suscipit augue mollis et. Nam vitae hendrerit odio. Fusce condimentum consequat augue et consectetur. Proin eget pulvinar odio, in pellentesque lorem. Nunc quis aliquet magna. Nunc in gravida massa. Cras a nibh volutpat ligula blandit malesuada id at justo. Sed vulputate sit amet quam feugiat eleifend. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia131\/imgSubtipologia131.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "11",
+            "CODIGO": "132",
             "NOMBRE": "Cuero y Calzado",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Nam dapibus porttitor nisi id condimentum. Nulla facilisi. Quisque diam ipsum, vulputate vel tristique id, imperdiet eget velit. Morbi vel porttitor quam, vitae egestas dui. In et tempus est. Suspendisse pellentesque malesuada sagittis. Morbi luctus sagittis orci ac pharetra.",
+            "CONTENIDO": "Nullam sit amet efficitur tortor. Nulla facilisi. Aenean a semper mi, ac volutpat nisl. Nunc mattis, diam ut mollis ullamcorper, nisi libero semper risus, vel molestie leo nunc in felis. Maecenas sapien nulla, posuere a eros ac, pulvinar volutpat risus. Nunc dapibus aliquam tellus, non venenatis felis ultrices nec. Aliquam auctor euismod convallis. Suspendisse convallis tincidunt libero, eu gravida diam rutrum id. Cras faucibus orci et eros pellentesque, ut aliquet sapien mattis. Aenean ac metus non nunc vulputate ornare in vitae massa. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia132\/imgSubtipologia132.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "12",
+            "CODIGO": "133",
             "NOMBRE": "Artesan\u00eda",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Nam dapibus porttitor nisi id condimentum. Nulla facilisi. Quisque diam ipsum, vulputate vel tristique id, imperdiet eget velit. Morbi vel porttitor quam, vitae egestas dui. In et tempus est. Suspendisse pellentesque malesuada sagittis. Morbi luctus sagittis orci ac pharetra. Maecenas eget nisi nunc. Praesent sapien lorem, facilisis vel interdum ut, fringilla sed ligula. Suspendisse viverra massa lacus, id dignissim lorem aliquam sed. Duis id vehicula diam. Curabitur egestas lorem in accumsan ma",
+            "CONTENIDO": "Nullam sit amet efficitur tortor. Nulla facilisi. Aenean a semper mi, ac volutpat nisl. Nunc mattis, diam ut mollis ullamcorper, nisi libero semper risus, vel molestie leo nunc in felis. Maecenas sapien nulla, posuere a eros ac, pulvinar volutpat risus. Nunc dapibus aliquam tellus, non venenatis felis ultrices nec. Aliquam auctor euismod convallis. Suspendisse convallis tincidunt libero, eu gravida diam rutrum id. Cras faucibus orci et eros pellentesque, ut aliquet sapien mattis. Aenean ac metus non nunc vulputate ornare in vitae massa. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia133\/imgSubtipologia133.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "13",
+            "CODIGO": "134",
             "NOMBRE": "Libros y M\u00fasica",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "\r\n\r\nCurabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia134\/imgSubtipologia134.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "14",
+            "CODIGO": "135",
             "NOMBRE": "Arte",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia135\/imgSubtipologia135.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "15",
+            "CODIGO": "136",
             "NOMBRE": "Antig\u00fcedades",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia136\/imgSubtipologia136.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "16",
+            "CODIGO": "137",
             "NOMBRE": "Tiendas por Departamentos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia137\/imgSubtipologia137.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "17",
-            "NOMBRE": "Esmeraldas, Orfebrer\u00eda y Joyer\u00eda",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "CODIGO": "138",
+            "NOMBRE": "Esmeraldas Orfebrer\u00eda y Joyer\u00eda",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia138\/imgSubtipologia138.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "66",
+            "CODIGO": "139",
             "NOMBRE": "Especializadas",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "8",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia139\/imgSubtipologia139.png",
+            "COD_TIPOLOGIA": "72",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "167",
+            "NOMBRE": "Librerias",
+            "DESCRIPCION": "Agruga los establecimientos de venta de libros, revistas, textos especializados ubicados en la ciudad de Bogot\u00e1.",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/Subtipologia167\/imgSubtipologia167.png",
+            "COD_TIPOLOGIA": "72",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "9": [
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "18",
-            "NOMBRE": "Plazas de Mercado",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "9",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
+    "73": [
         {
             "COD_CLASIFICACION": "3",
             "CODIGO": "19",
             "NOMBRE": "Atracciones Gastron\u00f3micas",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "9",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "10": [
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "20",
-            "NOMBRE": "Iglesias",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "10",
+            "DESCRIPCION": "Vivamus dignissim arcu quam, ut eleifend quam tempor semper. Suspendisse enim metus, pretium quis velit et, tempus pellentesque dui. Quisque sed magna nec quam iaculis tristique. Mauris ac accumsan eros. Vivamus mollis varius tellus, in posuere eros mattis sed.",
+            "CONTENIDO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia73\/Subtipologia19\/imgSubtipologia19.png",
+            "COD_TIPOLOGIA": "73",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "11": [
+    "74": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "21",
-            "NOMBRE": "Lujo",
-            "DESCRIPCION": "",
-            "CONTENIDO": "t\r\n\r\ng\r\n\r\nh\r\n\r\nj\r\n\r\nk\r\n\r\nl",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "11",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "12": [
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "22",
-            "NOMBRE": "Humedales",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "12",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "23",
-            "NOMBRE": "Aventura",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "12",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "24",
-            "NOMBRE": "Reservas Naturales",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "12",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "13": [
-        {
-            "COD_CLASIFICACION": "3",
-            "CODIGO": "25",
+            "CODIGO": "142",
             "NOMBRE": "Parques Tem\u00e1ticos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "13",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": " Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia74\/Subtipologia142\/imgSubtipologia142.png",
+            "COD_TIPOLOGIA": "74",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "14": [
+    "75": [
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "26",
-            "NOMBRE": "Campos de Golf P\u00fablicos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "14",
+            "CODIGO": "143",
+            "NOMBRE": "Iglesias",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": " Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia75\/Subtipologia143\/imgSubtipologia143.png",
+            "COD_TIPOLOGIA": "75",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "76": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "146",
+            "NOMBRE": "Aventura",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/Subtipologia146\/imgSubtipologia146.png",
+            "COD_TIPOLOGIA": "76",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "3",
-            "CODIGO": "27",
-            "NOMBRE": "Clubes",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
+            "CODIGO": "147",
+            "NOMBRE": "Humedales",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/Subtipologia147\/imgSubtipologia147.png",
+            "COD_TIPOLOGIA": "76",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "148",
+            "NOMBRE": "Reservas Naturales",
+            "DESCRIPCION": "Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/Subtipologia148\/imgSubtipologia148.png",
+            "COD_TIPOLOGIA": "76",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "77": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "129",
+            "NOMBRE": "Lujo",
+            "DESCRIPCION": "Vestibulum nisi ipsum, ullamcorper vitae mi at, convallis aliquam erat. Cras aliquet enim at aliquam vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum bibendum commodo turpis, sit amet faucibus nisi. Aenean consectetur metus vitae magna interdum blandit. Cras interdum pellentesque ante, nec mollis nibh auctor id. ",
+            "CONTENIDO": "",
             "IMAGEN": "",
-            "COD_TIPOLOGIA": "14",
+            "COD_TIPOLOGIA": "77",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "78": [
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "144",
+            "NOMBRE": "Campos de Golf P\u00fablicos",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": " Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/Subtipologia144\/imgSubtipologia144.png",
+            "COD_TIPOLOGIA": "78",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "3",
+            "CODIGO": "145",
+            "NOMBRE": "Clubes",
+            "DESCRIPCION": " Maecenas est massa, iaculis facilisis enim eget, interdum blandit urna. Curabitur leo metus, gravida et dui auctor, euismod cursus purus. Integer rhoncus commodo euismod. Ut lorem odio, ultrices at urna a, iaculis scelerisque eros. Pellentesque cursus purus quis porta auctor. Aliquam erat volutpat. Aenean venenatis ut erat eu tristique. Cras pellentesque pretium elit vitae tempor. Vestibulum vitae facilisis arcu. Nullam in est eu nisi efficitur tincidunt id at massa. ",
+            "CONTENIDO": "Curabitur id tortor in magna lobortis faucibus. Aliquam bibendum massa nec tellus hendrerit posuere. Nunc lectus mauris, pharetra at vehicula sit amet, eleifend non justo. Donec nisi ante, finibus sit amet tincidunt a, accumsan quis sem. Praesent nec interdum elit. Etiam vehicula, ipsum suscipit convallis facilisis, erat lacus maximus nulla, a tincidunt neque mi eu justo. Nulla facilisi. Sed in felis nulla. Phasellus finibus risus in nibh venenatis malesuada. Fusce condimentum sapien sed arcu congue mollis. Sed vehicula nunc lacus, vitae tristique mi dapibus at. Suspendisse sodales tellus eget velit euismod pellentesque. Morbi finibus a leo sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/Subtipologia145\/imgSubtipologia145.png",
+            "COD_TIPOLOGIA": "78",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
@@ -407,9 +585,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "29",
             "NOMBRE": "Hoteles",
-            "DESCRIPCION": "Hoteles descripci\u00f3n de hoteles",
+            "DESCRIPCION": "Etiam commodo dolor vel libero vehicula accumsan. Curabitur aliquet tempus dolor quis dictum. Nulla at massa pharetra augue cursus varius. In feugiat erat vehicula nunc iaculis malesuada. Integer egestas sit amet dui vel eleifend. Pellentesque lacinia quis diam sed accumsan. Vestibulum in nibh et lorem iaculis dapibus et eget enim. Etiam lobortis orci ut ligula vehicula tincidunt.",
             "CONTENIDO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/Subtipologia29\/imgSubtipologia29.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/Subtipologia29\/imgSubtipologia29.png",
             "COD_TIPOLOGIA": "16",
             "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
@@ -420,9 +598,9 @@
             "NOMBRE": "Hostales",
             "DESCRIPCION": "",
             "CONTENIDO": "fsefsefs\r\nsfefsefsef\r\nsefsefsefes\r\nsefsefse\r\n\r\nfsefsefsef\r\nesfsefsef\r\nsefsefsefes\r\nfsefsef\r\n\r\nsef\r\nsef\r\n\r\nprueba prueba\r\nprueba\r\nprueba aaa",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/Subtipologia30\/imgSubtipologia30.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/Subtipologia30\/imgSubtipologia30.png",
             "COD_TIPOLOGIA": "16",
-            "TIENE_PRESTADOR": "0",
+            "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         },
         {
@@ -431,35 +609,9 @@
             "NOMBRE": "Apartahoteles",
             "DESCRIPCION": "",
             "CONTENIDO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/Subtipologia31\/imgSubtipologia31.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/Subtipologia31\/imgSubtipologia31.png",
             "COD_TIPOLOGIA": "16",
             "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "17": [
-        {
-            "COD_CLASIFICACION": "4",
-            "CODIGO": "32",
-            "NOMBRE": "Operadores Receptivos",
-            "DESCRIPCION": "vgsdfgsfdg fsgsdf gsd",
-            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "17",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "18": [
-        {
-            "COD_CLASIFICACION": "4",
-            "CODIGO": "33",
-            "NOMBRE": "Agencias de Viajes",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "18",
-            "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
@@ -468,9 +620,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "34",
             "NOMBRE": "Caf\u00e9",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Pellentesque hendrerit dolor purus, eleifend eleifend felis maximus nec. Nunc et leo nec enim pellentesque blandit. Aenean sed tempor libero. Nullam venenatis libero et magna bibendum condimentum ut non libero. Mauris feugiat diam id mauris egestas finibus. Vestibulum mollis, sem et aliquam malesuada, nisi turpis mollis massa, ut bibendum nibh sem porta odio. Morbi sollicitudin nec dolor et imperdiet. Duis varius auctor rutrum. ",
+            "CONTENIDO": "Nulla sollicitudin lobortis massa, in dignissim diam dictum et. Integer tincidunt, velit id vehicula vulputate, tortor dolor porttitor tortor, sit amet consectetur nisi eros in massa. Nulla nec dui metus. Nulla facilisi. Suspendisse vehicula volutpat lectus sit amet gravida. Phasellus luctus, justo quis venenatis finibus, quam dui feugiat tellus, et finibus eros tellus quis magna. Donec vestibulum venenatis dui, rutrum suscipit ante volutpat nec. Aenean dignissim a metus eu ornare. Cras aliquam, risus eu cursus tempus, eros orci tincidunt est, id fringilla felis diam vel turpis. Donec feugiat ante nunc, eget auctor sem ultricies et. Maecenas a dignissim tortor, molestie vestibulum tortor. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia34\/imgSubtipologia34.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -479,9 +631,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "35",
             "NOMBRE": "T\u00edpica Colombiana",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Nunc id lectus nisi. Vestibulum dictum quis odio sit amet ultricies. Aliquam vehicula massa sodales lorem convallis, vitae sagittis nunc elementum. In accumsan finibus mauris, sit amet ornare nibh volutpat nec. Suspendisse a ex a dolor ornare convallis. Praesent scelerisque vestibulum eros, vel tristique lorem finibus quis. Phasellus placerat gravida lorem a eleifend. Suspendisse ut volutpat risus. Suspendisse et mi at lorem lacinia sodales in a ex. ",
+            "CONTENIDO": " Suspendisse nec nunc in est egestas tincidunt. Proin scelerisque mollis purus id tincidunt. In ante mauris, bibendum in aliquam aliquam, feugiat a nibh. Maecenas sollicitudin sem et enim dictum, eu varius magna aliquam. Quisque vitae metus at nulla blandit dignissim. Aliquam ultrices, sapien quis vehicula consectetur, lorem erat semper mi, quis luctus nunc tellus at nunc. Curabitur sagittis molestie cursus. Nunc a leo eu dolor molestie lobortis. Pellentesque aliquet vel magna ac semper. Maecenas id pharetra dui. Suspendisse in dignissim est. Vestibulum ut pellentesque ipsum. Nulla lacinia pellentesque nisi eget dictum. Quisque eu metus at augue laoreet finibus nec in risus. Morbi vel nibh velit. Donec sollicitudin magna ut sem consequat, eget laoreet ligula laoreet. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia35\/imgSubtipologia35.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -490,9 +642,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "36",
             "NOMBRE": "Carnes",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "In hac habitasse platea dictumst. Curabitur est augue, fermentum quis convallis vitae, placerat non felis. Sed faucibus scelerisque erat eu auctor. Aenean sollicitudin congue enim, et tristique purus ullamcorper nec. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas finibus auctor mi. Mauris laoreet id lectus eget blandit. ",
+            "CONTENIDO": "Sed eu quam auctor, gravida magna eget, egestas nunc. Vestibulum et tortor ac ante mattis dapibus ut nec eros. Curabitur tempus sapien ac porttitor blandit. Vestibulum sagittis augue ac sagittis elementum. Donec maximus sed metus eu luctus. Nunc sed nisl eget turpis posuere facilisis et quis felis. Curabitur a libero nibh. Proin eu felis pretium, imperdiet ipsum eget, pharetra augue. Ut efficitur at augue at dictum. Pellentesque facilisis a dolor quis dapibus. Curabitur a ornare nisl. Aliquam diam nibh, hendrerit nec vehicula nec, vulputate et nulla. Suspendisse convallis eu justo in mollis. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia36\/imgSubtipologia36.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -501,9 +653,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "37",
             "NOMBRE": "De mar",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Integer neque lorem, lobortis eu malesuada sed, lacinia at nibh. Praesent imperdiet mollis neque, ac rutrum turpis fringilla nec. Aenean sed justo sed libero vehicula varius. Donec rhoncus velit sed enim efficitur convallis. Integer facilisis justo non ullamcorper lobortis. Curabitur at nulla a tortor eleifend aliquam a quis orci. Fusce gravida turpis quis arcu dapibus, non hendrerit velit imperdiet. Etiam vestibulum semper nisl at rutrum. Duis iaculis blandit efficitur. Mauris pulvinar nisi non",
+            "CONTENIDO": " Sed ac sapien eros. Quisque id odio ut orci viverra euismod vel tincidunt odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam bibendum porttitor tortor ut tincidunt. In suscipit quis felis id varius. Proin id tincidunt eros. Suspendisse sit amet mauris posuere purus dapibus rutrum nec sed purus. Mauris tempus nulla ipsum, eget vehicula nibh dapibus id. Curabitur dignissim nibh a lectus ullamcorper tempor. Nullam tempor luctus sem, id ultrices diam mattis ut. Pellentesque posuere dolor et ligula viverra, nec finibus sapien porttitor. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia37\/imgSubtipologia37.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -512,9 +664,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "38",
             "NOMBRE": "Peruana",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Fusce ac magna turpis. Ut eu lacus id dolor semper vulputate sit amet eget urna. Nullam nec ipsum sed orci commodo venenatis. Mauris eget quam et lacus consequat imperdiet. Curabitur magna turpis, ornare eu fringilla ac, tempor at felis. Suspendisse sed elit iaculis, ullamcorper justo pellentesque, ultricies tellus. Sed finibus, nunc eu auctor maximus, nulla ante lobortis tellus, eget feugiat urna velit vulputate ex. Aenean sodales nibh sed urna aliquam, sit amet efficitur eros maximus. Phasellu",
+            "CONTENIDO": "Maecenas rhoncus consequat porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fringilla mauris id metus euismod, id facilisis orci vestibulum. Mauris gravida eu libero rhoncus convallis. Donec dapibus aliquet justo, at fermentum mauris vehicula sed. Suspendisse convallis odio sit amet tellus feugiat tristique. Donec dolor odio, porta non turpis vitae, elementum elementum augue. Vestibulum mattis, diam vitae congue laoreet, tellus massa auctor felis, eget ullamcorper orci diam quis urna. Ut hendrerit ac arcu vitae faucibus. In hac habitasse platea dictumst. Nulla pellentesque pellentesque neque, sit amet maximus nisl pellentesque id. Curabitur consectetur nec arcu non auctor. Nullam ornare volutpat ultrices. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia38\/imgSubtipologia38.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -523,9 +675,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "39",
             "NOMBRE": "Espa\u00f1ola",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "amet blandit ante, aliquam mollis leo. Aenean porttitor nibh eu mollis sollicitudin. Suspendisse arcu ex, consectetur at interdum vel, dapibus et dui. Proin semper non ligula non pharetra. Nam pellentesque sapien a felis egestas facilisis. Nulla consectetur quis nulla non sodales. Vestibulum sed ligula quis risus elementum euismod. In convallis vitae lacus quis aliquet. Nunc turpis augue, sagittis vel ligula et, pellentesque convallis arcu. Morbi tortor odio, rhoncus in augue nec, condimentum va",
+            "CONTENIDO": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum vel dictum ante. Praesent metus arcu, consequat suscipit lorem ut, vestibulum tincidunt tortor. Phasellus ultricies eros non condimentum consequat. Phasellus rhoncus nibh nibh, at fringilla diam egestas sed. Donec vulputate tortor vitae pharetra sollicitudin. Praesent et viverra tortor. Mauris laoreet hendrerit nisl. Integer quis turpis commodo, efficitur leo sagittis, tempus nibh. Aliquam erat volutpat. Nulla nec metus sit amet risus faucibus imperdiet eu et leo. Vivamus a tellus non metus vehicula porttitor quis vel nulla. Nunc gravida, libero in tempus blandit, neque quam consectetur ligula, ut ultricies augue ipsum ut orci. Maecenas iaculis dolor ut venenatis lobortis. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia39\/imgSubtipologia39.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -534,9 +686,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "40",
             "NOMBRE": "Brasilera",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "In rhoncus, nunc in placerat elementum, massa nisi scelerisque felis, sit amet ultrices nibh arcu a diam. Nam in massa sed dui gravida suscipit sed ut libero. Donec molestie, tellus eu suscipit vestibulum, odio nisl aliquam ligula, eu commodo orci diam eu enim. Sed euismod enim eu neque egestas, sit amet lacinia nisi ultrices. Donec quis tortor et est aliquet pharetra. Curabitur est nibh, mattis vel viverra aliquet, facilisis sit amet magna. Fusce sagittis sagittis libero. Phasellus nibh odio, e",
+            "CONTENIDO": "Aliquam lacus turpis, ullamcorper ut dui id, porttitor accumsan enim. Nullam a metus eleifend, varius libero id, fringilla justo. Nunc ut libero finibus, pharetra dui in, iaculis massa. Vivamus vitae feugiat libero, a consequat risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam bibendum quam ante, vitae ultricies dolor hendrerit et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere enim et turpis gravida rhoncus. Nulla varius vulputate sapien, eu cursus tellus. Nulla vel interdum lectus. Donec viverra mauris at metus tempus euismod. In a augue efficitur, dapibus mauris eget, cursus eros. Nam elementum efficitur aliquam. In eget dictum mauris. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia40\/imgSubtipologia40.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -545,9 +697,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "41",
             "NOMBRE": "Francesa",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Proin pharetra nibh vitae facilisis imperdiet. Nulla imperdiet eros vel justo tempus egestas. Cras bibendum odio et risus facilisis tempus. Phasellus imperdiet odio tellus, id gravida eros congue sed. Curabitur finibus sagittis volutpat. Aliquam aliquam augue eget condimentum dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porttitor augue nunc, at mattis ex lobortis ac. ",
+            "CONTENIDO": " Etiam maximus dui in nisl rhoncus, at fringilla mi tempus. Aliquam a nisl mollis, luctus eros eu, tempor mauris. Maecenas eu venenatis tellus. Sed volutpat vulputate tellus, vitae elementum diam egestas id. Sed tempor ultrices laoreet. Suspendisse potenti. Ut eget nulla rhoncus, maximus sem ut, cursus sem. Donec et gravida dolor. Aliquam nunc arcu, cursus at malesuada et, dictum porttitor velit. Integer maximus nulla accumsan dui lacinia blandit. Morbi molestie libero nec odio pharetra, quis tempus est posuere. Mauris tempus ante pellentesque mollis ullamcorper. Ut tempor, lectus vitae lacinia convallis, nisl velit ornare lacus, quis blandit dui quam vel ante. Donec faucibus felis et egestas aliquet. Sed a scelerisque augue, non fermentum arcu. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia41\/imgSubtipologia41.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -556,9 +708,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "42",
             "NOMBRE": "Mexicana",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Duis gravida lacus a massa suscipit ultrices. Etiam vitae urna metus. Fusce eu nisi a lectus aliquet ultricies vitae a dolor. Nam cursus turpis at est pulvinar ornare quis vel nisl. Maecenas gravida venenatis sapien in bibendum. Morbi imperdiet fermentum sem eget dapibus. Curabitur eu lorem at tellus eleifend hendrerit. Aliquam ullamcorper congue purus, non lobortis velit tempus ac. ",
+            "CONTENIDO": "Aenean ultricies rutrum ipsum at consectetur. Donec tempus elementum risus, nec dignissim orci luctus eu. Nam sollicitudin vestibulum tortor eu accumsan. Aenean justo velit, sagittis et nisi non, ultrices tempus magna. Quisque sit amet metus eu nibh pulvinar ullamcorper. Suspendisse sed rhoncus quam, in hendrerit lacus. Nunc gravida neque et turpis mollis placerat. Ut consequat gravida libero, id rhoncus magna ultricies vitae. In malesuada odio leo, sed rutrum purus mattis id. Sed blandit ac elit a commodo. Aenean ut aliquet nibh. Pellentesque congue justo sit amet nisi eleifend sagittis ut ac ex. Cras nec vulputate metus. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia42\/imgSubtipologia42.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -567,9 +719,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "43",
             "NOMBRE": "Italiana",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Nulla faucibus mauris eget ex tempus scelerisque. Pellentesque consequat imperdiet nibh, non placerat dolor tempor nec. Sed non pretium lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam aliquet diam eu rhoncus tincidunt. ",
+            "CONTENIDO": "Nunc commodo arcu a diam convallis malesuada. Proin condimentum porta erat, vel venenatis nibh tincidunt sed. Nullam vitae lobortis felis. Phasellus vehicula felis id varius euismod. Donec lobortis suscipit congue. Aliquam magna neque, auctor sed sem a, accumsan porttitor orci. Vivamus gravida sem et arcu congue interdum. Etiam ut risus vel dui placerat aliquam. Pellentesque leo sapien, viverra eu maximus ut, congue nec mi. Morbi sollicitudin sed nisl eu aliquet. Praesent facilisis, ex in maximus fringilla, mi magna ornare nisl, eget blandit velit ipsum at purus. Integer mollis tempor felis, id placerat purus hendrerit vitae. Suspendisse et volutpat lorem. Praesent gravida urna in neque viverra gravida. Duis sed lacus vel ante condimentum commodo vel feugiat ante. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia43\/imgSubtipologia43.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -578,9 +730,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "44",
             "NOMBRE": "Americana",
-            "DESCRIPCION": "",
-            "CONTENIDO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia19\/Subtipologia44\/imgSubtipologia44.png",
+            "DESCRIPCION": " Aenean et convallis diam. Vestibulum ullamcorper mi non ligula varius, in tincidunt risus malesuada. Vivamus viverra ex et scelerisque lacinia. Donec a erat neque. Nulla euismod velit non nisi suscipit elementum. Pellentesque tincidunt et urna non egestas. Phasellus varius, nunc nec scelerisque pharetra, tortor velit mattis mi, sed sodales massa dui sed neque. Aliquam cursus nisl urna, a faucibus ante convallis id. ",
+            "CONTENIDO": "Nullam efficitur, turpis luctus ultrices fringilla, lectus arcu dictum lectus, vitae semper magna turpis sed lacus. Aliquam egestas imperdiet molestie. Sed ut ullamcorper neque. Maecenas porta egestas dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam tincidunt ligula nisi, ut aliquet lectus aliquam sed. In sit amet est ac quam ultricies convallis. Nullam tempus rutrum sodales. Donec finibus varius lacus, non tempor sem sollicitudin vitae. Vivamus ut lorem ligula. Etiam laoreet diam sapien, vel varius eros iaculis eget. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia44\/imgSubtipologia44.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -589,9 +741,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "45",
             "NOMBRE": "Mediterr\u00e1nea",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Suspendisse venenatis nec lacus at aliquam. Donec scelerisque gravida enim, sit amet malesuada orci sodales id. Nullam porttitor laoreet risus non porttitor. Morbi maximus eros a turpis hendrerit, vel pellentesque ipsum semper. Curabitur sem ipsum, vulputate vitae aliquet et, ultricies eu ipsum. Duis eget sodales felis. Curabitur efficitur felis sit amet mauris vulputate, eu euismod diam pulvinar. ",
+            "CONTENIDO": "Maecenas vitae dui sollicitudin, gravida turpis non, pretium sem. Sed tincidunt ullamcorper arcu vel gravida. Morbi ligula tellus, maximus eu est in, malesuada finibus nisl. Donec consectetur dui ante, eu lacinia purus maximus at. Sed rhoncus sem quis lorem lobortis, quis aliquet felis auctor. Aliquam mattis tortor magna, nec hendrerit est viverra in. Cras vehicula turpis in mollis mattis. Praesent tristique blandit erat id porttitor. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia45\/imgSubtipologia45.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -600,9 +752,9 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "46",
             "NOMBRE": "Internacional",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Etiam dictum, diam vitae fringilla fringilla, ex mi auctor enim, nec finibus nunc felis lacinia urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus a tempor mauris, vel accumsan dui. Suspendisse eu lectus scelerisque, interdum leo nec, ornare urna. Vivamus congue sem ac lacus interdum vestibulum. Etiam maximus ut arcu eu pretium. Suspendisse potenti. Nam maximus magna at accumsan volutpat. ",
+            "CONTENIDO": "Sed feugiat ligula sem, sed dictum enim ullamcorper sed. Phasellus finibus aliquet nulla vel auctor. Curabitur vel ex in felis hendrerit pretium non a mauris. Nullam condimentum velit et posuere aliquet. Maecenas quis metus sit amet ligula iaculis imperdiet. Maecenas ac magna iaculis felis imperdiet egestas. Donec magna dui, pulvinar et pellentesque ut, consequat sollicitudin tortor. Morbi sapien metus, commodo a vulputate at, elementum in leo. Donec congue vehicula quam et aliquet. Fusce vestibulum nunc velit, at vestibulum augue laoreet egestas. Suspendisse ac felis dui. Aenean sit amet suscipit felis. Sed aliquet, velit nec mollis pharetra, orci ex fermentum tortor, ac sollicitudin erat lorem eu ligula. Praesent quam ex, fermentum vel sem at, mollis egestas massa. Cras vel laoreet neque. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia46\/imgSubtipologia46.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -611,9 +763,20 @@
             "COD_CLASIFICACION": "4",
             "CODIGO": "47",
             "NOMBRE": "R\u00e1pida",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": " Pellentesque vel tincidunt dolor, eu vulputate nibh. Nunc nec est nunc. Pellentesque sed tellus facilisis, mollis odio non, aliquam diam. Integer non pharetra sem. Nunc quis varius orci. Nunc quis purus mattis lacus volutpat laoreet. Curabitur mattis neque eget massa maximus congue. Fusce a aliquet lorem, at efficitur mauris. Nulla quis vehicula elit. Sed sed euismod ex, nec bibendum justo. ",
+            "CONTENIDO": "Integer accumsan rhoncus sapien in laoreet. Donec ac metus volutpat, commodo ex sit amet, dictum nibh. Pellentesque ac ligula sem. Maecenas sit amet lorem id leo iaculis posuere. Cras placerat tortor sit amet lacus malesuada, ac lobortis massa tempus. Ut accumsan sem metus, eget gravida massa volutpat non. Nullam a magna nec nisi semper consectetur. Praesent dapibus lorem vel dolor tempor volutpat. Nulla commodo sagittis elit vitae eleifend. Duis feugiat commodo nulla, eget imperdiet justo tristique vitae. Cras sodales elit ac nisi dapibus, et ultrices velit dignissim. Ut at erat eu eros eleifend suscipit. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia47\/imgSubtipologia47.png",
+            "COD_TIPOLOGIA": "19",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "126",
+            "NOMBRE": "Plazas de Mercado",
+            "DESCRIPCION": "Nullam imperdiet lectus vel risus tempor ullamcorper. Nullam varius mi ut odio laoreet vestibulum. Quisque vitae sem in tellus placerat mollis ut nec libero. Integer sit amet ultrices nunc. Nullam laoreet elementum mattis. Aenean vestibulum urna nibh, a consequat massa commodo id. Pellentesque vitae leo malesuada, consequat urna vel, ullamcorper orci. Nulla aliquet auctor congue.",
+            "CONTENIDO": "Etiam ut laoreet mi. Nunc ultricies, nisi id porttitor ornare, quam dui varius mi, id faucibus mi massa sit amet lectus. Quisque in mi ut ipsum suscipit auctor interdum sed metus. Aliquam est urna, laoreet feugiat molestie id, mattis ut ligula. Nunc dui lorem, mollis volutpat tincidunt ac, auctor ut dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla iaculis quam vel vulputate ultrices. Phasellus nunc metus, accumsan vitae tellus vel, fringilla sodales urna. Vivamus sapien mauris, accumsan sit amet finibus vel, efficitur eu purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec dolor odio, ultrices sed enim sed, fermentum tincidunt ex. Nam ex dolor, ultrices a faucibus ut, ultrices id mi. Nam sed risus felis. Phasellus et diam posuere arcu tempus eleifend. Aliquam maximus metus risus, quis luctus nisi tempus non. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/Subtipologia18\/imgSubtipologia18.png",
             "COD_TIPOLOGIA": "19",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
@@ -622,147 +785,136 @@
     "20": [
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "48",
+            "CODIGO": "123",
             "NOMBRE": "Discotecas",
-            "DESCRIPCION": "",
-            "CONTENIDO": "a\r\n\r\nb\r\n\r\nc\r\n\r\nd",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia20\/Subtipologia48\/imgSubtipologia48.png",
-            "COD_TIPOLOGIA": "20",
-            "TIENE_PRESTADOR": "1",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "4",
-            "CODIGO": "49",
-            "NOMBRE": "Bares",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
+            "DESCRIPCION": "Fusce quis cursus odio. Curabitur suscipit congue lorem ac feugiat. Mauris aliquet sapien efficitur, cursus urna sit amet, convallis justo. Fusce justo magna, pellentesque sed ipsum non, egestas dignissim augue. Integer laoreet auctor odio at condimentum. In hac habitasse platea dictumst. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "CONTENIDO": "Praesent in nibh semper, molestie ipsum eu, pellentesque nulla. Nam urna neque, laoreet id lacus sit amet, tempor ornare mi. Donec scelerisque, ex at finibus vulputate, ipsum justo semper ligula, id lobortis neque mi in nibh. Sed id mauris nisl. Pellentesque semper, ligula et tempor pulvinar, nisl mauris aliquet elit, eu euismod odio dolor sit amet tortor. Phasellus hendrerit egestas rhoncus. Suspendisse ullamcorper justo elit, vitae dapibus metus volutpat ut. Nullam fermentum massa quis posuere feugiat. Aenean a purus tellus. Nunc varius sapien et ultricies dignissim. Aenean tristique sem vel pellentesque porttitor. Curabitur quis dignissim nisl, non suscipit nibh. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia20\/Subtipologia48\/imgSubtipologia48.png",
             "COD_TIPOLOGIA": "20",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "41": [
+    "59": [
         {
             "COD_CLASIFICACION": "4",
-            "CODIGO": "81",
-            "NOMBRE": "PRUEBA",
-            "DESCRIPCION": "ASDFASDFA",
+            "CODIGO": "127",
+            "NOMBRE": "Casas de Cambio",
+            "DESCRIPCION": "Mauris erat ipsum, aliquam et commodo sagittis, vestibulum a turpis. Sed sed volutpat mi. Praesent eu leo suscipit, feugiat velit eu, suscipit sem. Vestibulum augue dui, rutrum eget felis ut, consequat elementum ante. Aenean odio magna, convallis vel nunc sed, vulputate sollicitudin erat. Mauris id aliquet urna. Nullam faucibus, dui ac laoreet fringilla, eros lacus vulputate augue, ac sollicitudin nisi sem et justo. Proin cursus et nulla eget pretium. Suspendisse maximus nisi in est volutpat, qu",
+            "CONTENIDO": "Praesent turpis mi, gravida sit amet purus eu, laoreet lacinia nisi. Nullam sodales bibendum massa, at egestas nisi mollis id. Maecenas euismod urna in euismod scelerisque. Praesent cursus bibendum maximus. Mauris pretium ullamcorper justo vitae egestas. Ut convallis magna velit, sit amet aliquet dolor dignissim ut. Cras auctor laoreet diam nec interdum. In vestibulum quam ut urna auctor, eu congue leo consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia59\/Subtipologia127\/imgSubtipologia127.png",
+            "COD_TIPOLOGIA": "59",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "65": [
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "124",
+            "NOMBRE": "Operadores directos",
+            "DESCRIPCION": " Mauris eget eleifend eros, sed placerat ipsum. Maecenas sit amet vehicula justo. Pellentesque ac aliquam purus. Vivamus facilisis purus eget felis tempor auctor. Aenean laoreet blandit velit ut tristique. Vestibulum a tincidunt augue, a rutrum arcu. Donec ultrices lacinia justo, pretium gravida velit commodo ut. Maecenas tempus sagittis aliquam. In euismod nisl pulvinar ligula semper semper. In quis diam non augue pulvinar fringilla vel ac massa.",
+            "CONTENIDO": " Vivamus ex augue, egestas at dolor ut, imperdiet commodo eros. Morbi interdum volutpat suscipit. Aliquam erat volutpat. Nulla maximus lacus at magna iaculis pulvinar quis et ipsum. Nulla facilisi. Aenean vitae nibh gravida, scelerisque nibh id, porta purus. Duis non pretium elit. Vestibulum elementum nibh eget lacus lobortis sollicitudin. Nunc faucibus tortor eu odio auctor dapibus id eu odio. Morbi est eros, scelerisque vel orci sit amet, tincidunt dapibus orci. Aliquam a aliquam nisi. Pellentesque faucibus felis in quam elementum porttitor. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/Subtipologia124\/imgSubtipologia124.png",
+            "COD_TIPOLOGIA": "65",
+            "TIENE_PRESTADOR": "1",
+            "TIENE_RUTA": "0"
+        },
+        {
+            "COD_CLASIFICACION": "4",
+            "CODIGO": "168",
+            "NOMBRE": "Agencias de viaje",
+            "DESCRIPCION": "",
             "CONTENIDO": "",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "41",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/Subtipologia168\/imgSubtipologia168.png",
+            "COD_TIPOLOGIA": "65",
             "TIENE_PRESTADOR": "1",
             "TIENE_RUTA": "0"
         }
     ],
-    "21": [
+    "81": [
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "50",
-            "NOMBRE": "Embajadas y Consulados",
-            "DESCRIPCION": "Descripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen\r\nDescripci\u00f3n de la imagen",
-            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxippp",
+            "CODIGO": "170",
+            "NOMBRE": "Tel\u00e9fonos \u00fatiles",
+            "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
+            "CONTENIDO": null,
             "IMAGEN": "",
-            "COD_TIPOLOGIA": "21",
+            "COD_TIPOLOGIA": "81",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "22": [
+    "82": [
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "51",
-            "NOMBRE": "Compra y Venta de Divisas",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "22",
+            "CODIGO": "153",
+            "NOMBRE": "Oficinas de atenci\u00f3n",
+            "DESCRIPCION": " Nullam non tortor ipsum. In condimentum massa ac magna efficitur lacinia. Nam et finibus sapien. Duis blandit malesuada suscipit. Nulla vestibulum libero libero, eu fermentum metus tincidunt non. Proin augue lacus, eleifend vel leo sit amet, aliquam auctor ipsum. Integer et egestas ipsum. ",
+            "CONTENIDO": "Aenean in mollis justo. Nam id urna nec dolor consequat aliquam. Fusce in felis vulputate, ornare tortor vulputate, feugiat ipsum. Cras tellus magna, varius ut pharetra eget, suscipit vel augue. Nulla sit amet fringilla nulla, in venenatis justo. Proin et accumsan ex, quis ornare ligula. Ut quam turpis, facilisis at lacus vitae, ultrices gravida quam. Aliquam feugiat non tortor ut egestas. Aliquam tortor massa, efficitur ut cursus a, lobortis non nibh. Etiam pulvinar tempus dui, at maximus ipsum tristique sit amet. Vivamus venenatis ullamcorper leo. Morbi faucibus elit diam, a placerat sem gravida eget. Nullam pellentesque laoreet erat in pulvinar. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/Subtipologia153\/imgSubtipologia153.png",
+            "COD_TIPOLOGIA": "82",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "52",
-            "NOMBRE": "Cajeros Autom\u00e1ticos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "22",
+            "CODIGO": "154",
+            "NOMBRE": "M\u00f3dulos de consulta virtual",
+            "DESCRIPCION": "Nullam non tortor ipsum. In condimentum massa ac magna efficitur lacinia. Nam et finibus sapien. Duis blandit malesuada suscipit. Nulla vestibulum libero libero, eu fermentum metus tincidunt non. Proin augue lacus, eleifend vel leo sit amet, aliquam auctor ipsum. Integer et egestas ipsum. ",
+            "CONTENIDO": "Aenean in mollis justo. Nam id urna nec dolor consequat aliquam. Fusce in felis vulputate, ornare tortor vulputate, feugiat ipsum. Cras tellus magna, varius ut pharetra eget, suscipit vel augue. Nulla sit amet fringilla nulla, in venenatis justo. Proin et accumsan ex, quis ornare ligula. Ut quam turpis, facilisis at lacus vitae, ultrices gravida quam. Aliquam feugiat non tortor ut egestas. Aliquam tortor massa, efficitur ut cursus a, lobortis non nibh. Etiam pulvinar tempus dui, at maximus ipsum tristique sit amet. Vivamus venenatis ullamcorper leo. Morbi faucibus elit diam, a placerat sem gravida eget. Nullam pellentesque laoreet erat in pulvinar. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/Subtipologia154\/imgSubtipologia154.png",
+            "COD_TIPOLOGIA": "82",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "23": [
+    "83": [
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "53",
-            "NOMBRE": "Informaci\u00f3n Institucional",
-            "DESCRIPCION": "",
-            "CONTENIDO": "",
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "23",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "24": [
-        {
-            "COD_CLASIFICACION": "5",
-            "CODIGO": "54",
-            "NOMBRE": "Fijos",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "24",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        },
-        {
-            "COD_CLASIFICACION": "5",
-            "CODIGO": "55",
-            "NOMBRE": "Virtuales",
-            "DESCRIPCION": "",
-            "CONTENIDO": null,
-            "IMAGEN": "",
-            "COD_TIPOLOGIA": "24",
-            "TIENE_PRESTADOR": "0",
-            "TIENE_RUTA": "0"
-        }
-    ],
-    "25": [
-        {
-            "COD_CLASIFICACION": "5",
-            "CODIGO": "56",
+            "CODIGO": "155",
             "NOMBRE": "SITP",
-            "DESCRIPCION": "",
-            "CONTENIDO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia25\/Subtipologia56\/imgSubtipologia56.png",
-            "COD_TIPOLOGIA": "25",
-            "TIENE_PRESTADOR": "1",
+            "DESCRIPCION": "Nullam non tortor ipsum. In condimentum massa ac magna efficitur lacinia. Nam et finibus sapien. Duis blandit malesuada suscipit. Nulla vestibulum libero libero, eu fermentum metus tincidunt non. Proin augue lacus, eleifend vel leo sit amet, aliquam auctor ipsum. Integer et egestas ipsum. ",
+            "CONTENIDO": "Aenean in mollis justo. Nam id urna nec dolor consequat aliquam. Fusce in felis vulputate, ornare tortor vulputate, feugiat ipsum. Cras tellus magna, varius ut pharetra eget, suscipit vel augue. Nulla sit amet fringilla nulla, in venenatis justo. Proin et accumsan ex, quis ornare ligula. Ut quam turpis, facilisis at lacus vitae, ultrices gravida quam. Aliquam feugiat non tortor ut egestas. Aliquam tortor massa, efficitur ut cursus a, lobortis non nibh. Etiam pulvinar tempus dui, at maximus ipsum tristique sit amet. Vivamus venenatis ullamcorper leo. Morbi faucibus elit diam, a placerat sem gravida eget. Nullam pellentesque laoreet erat in pulvinar. ",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/Subtipologia155\/imgSubtipologia155.png",
+            "COD_TIPOLOGIA": "83",
+            "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         },
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "57",
+            "CODIGO": "156",
             "NOMBRE": "Taxis",
-            "DESCRIPCION": "dddfdfd \r\ndf\r\nd\r\nf\r\ndf",
-            "CONTENIDO": "Taxi: ABCD EFG ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF ABCD EFGABCD EFGABCD EFGABCD EFGABCD EFG\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia25\/Subtipologia57\/imgSubtipologia57.png",
-            "COD_TIPOLOGIA": "25",
+            "DESCRIPCION": "Directorio de las diferentes empresas que prestan el servicio de taxi en la ciudad de Bogot\u00e1. ",
+            "CONTENIDO": null,
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/Subtipologia156\/imgSubtipologia156.png",
+            "COD_TIPOLOGIA": "83",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }
     ],
-    "26": [
+    "84": [
         {
             "COD_CLASIFICACION": "5",
-            "CODIGO": "58",
-            "NOMBRE": "Tel\u00e9fonos de Emergencia",
-            "DESCRIPCION": "",
-            "CONTENIDO": "Acueducto: 115\r\n\r\nAmbulancia: 125\r\n\r\nAntisecuestro: 165-32822200",
+            "CODIGO": "150",
+            "NOMBRE": "Embajadas y Consulados",
+            "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
+            "CONTENIDO": "Proin nisi quam, bibendum vel euismod ac, sollicitudin vel elit. Phasellus eu ipsum ac mauris ullamcorper iaculis. Sed luctus egestas auctor. Curabitur viverra ultricies nisl, a varius leo maximus sed. Integer faucibus neque lectus, eu molestie augue gravida eu. Nulla nec nunc nec leo imperdiet cursus nec a diam. Aenean turpis enim, mattis vitae leo quis, tristique interdum elit. Nunc scelerisque sed enim ac sodales. Cras placerat, ex porttitor efficitur facilisis, elit dui ultrices justo, vestibulum cursus augue turpis in lorem. Sed at eros ut sapien hendrerit ullamcorper.",
             "IMAGEN": "",
-            "COD_TIPOLOGIA": "26",
+            "COD_TIPOLOGIA": "84",
+            "TIENE_PRESTADOR": "0",
+            "TIENE_RUTA": "0"
+        }
+    ],
+    "85": [
+        {
+            "COD_CLASIFICACION": "5",
+            "CODIGO": "161",
+            "NOMBRE": "Informaci\u00f3n Institucional",
+            "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in. ",
+            "CONTENIDO": "Proin nisi quam, bibendum vel euismod ac, sollicitudin vel elit. Phasellus eu ipsum ac mauris ullamcorper iaculis. Sed luctus egestas auctor. Curabitur viverra ultricies nisl, a varius leo maximus sed. Integer faucibus neque lectus, eu molestie augue gravida eu. Nulla nec nunc nec leo imperdiet cursus nec a diam. Aenean turpis enim, mattis vitae leo quis, tristique interdum elit. Nunc scelerisque sed enim ac sodales. Cras placerat, ex porttitor efficitur facilisis, elit dui ultrices justo, vestibulum cursus augue turpis in lorem. Sed at eros ut sapien hendrerit ullamcorper.",
+            "IMAGEN": "",
+            "COD_TIPOLOGIA": "85",
             "TIENE_PRESTADOR": "0",
             "TIENE_RUTA": "0"
         }

@@ -1,271 +1,271 @@
 {
-    "FECHA_CREACION": "2015-01-30",
+    "FECHA_CREACION": "2015-02-09",
     "1": [
         {
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Why Bogot\u00e1?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia1\/imgTipologia1.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/iconoTipologia1.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#00661a",
+            "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_1.png"
-        },
-        {
-            "CODIGO": "2",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "First Visit",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/iconoTipologia2.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia2\/imgTipologia2.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#ee7914",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_2.png"
-        },
-        {
-            "CODIGO": "3",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Free Attractions",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia3\/imgTipologia3.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#84a22a",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_3.png"
-        },
-        {
-            "CODIGO": "4",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Tourist Route",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/iconoTipologia4.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia4\/imgTipologia4.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#b200b2",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
-        },
-        {
-            "CODIGO": "5",
-            "COD_CLASIFICACION": "1",
-            "NOMBRE": "Town Schedule",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia5\/iconoTipologia5.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia5\/imgTipologia5.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#ff2626",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_5.png"
         },
         {
             "CODIGO": "6",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Top 10",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia6\/iconoTipologia6.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia6\/imgTipologia6.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia6\/iconoTipologia6.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia6\/imgTipologia6.png",
             "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#47c0ed",
+            "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_6.png"
+        },
+        {
+            "CODIGO": "51",
+            "COD_CLASIFICACION": "1",
+            "NOMBRE": "Is your first visit?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/iconoTipologia51.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/imgTipologia51.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_51.png"
+        },
+        {
+            "CODIGO": "58",
+            "COD_CLASIFICACION": "1",
+            "NOMBRE": "Imperdible",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_58.png"
         }
     ],
     "3": [
         {
-            "CODIGO": "7",
+            "CODIGO": "4",
             "COD_CLASIFICACION": "3",
-            "NOMBRE": "History and Culture",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia7\/imgTipologia7.png",
+            "NOMBRE": "Tourist Route",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia4\/iconoTipologia4.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia4\/imgTipologia4.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#d98c00",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_7.png"
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
         },
         {
-            "CODIGO": "8",
+            "CODIGO": "5",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Today Schedule",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/iconoTipologia5.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/imgTipologia5.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_5.png"
+        },
+        {
+            "CODIGO": "70",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Free Places",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia70\/iconoTipologia70.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia70\/imgTipologia70.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_70.png"
+        },
+        {
+            "CODIGO": "71",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Culture",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/iconoTipologia71.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/imgTipologia71.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_71.png"
+        },
+        {
+            "CODIGO": "72",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Shopping",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia8\/iconoTipologia8.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia8\/imgTipologia8.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/iconoTipologia72.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/imgTipologia72.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#e77da7",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_8.png"
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_72.png"
         },
         {
-            "CODIGO": "9",
+            "CODIGO": "73",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Gastronomic",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia9\/imgTipologia9.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia73\/iconoTipologia73.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia73\/imgTipologia73.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#ac322e",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_9.png"
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_73.png"
         },
         {
-            "CODIGO": "10",
-            "COD_CLASIFICACION": "3",
-            "NOMBRE": "Religious",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia10\/iconoTipologia10.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia10\/imgTipologia10.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#cca102",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_10.png"
-        },
-        {
-            "CODIGO": "11",
-            "COD_CLASIFICACION": "3",
-            "NOMBRE": "Luxury",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia11\/iconoTipologia11.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia11\/imgTipologia11.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#00902f",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_11.png"
-        },
-        {
-            "CODIGO": "12",
-            "COD_CLASIFICACION": "3",
-            "NOMBRE": "Bogot\u00e1 Green",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia12\/iconoTipologia12.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia12\/imgTipologia12.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#4aa82c",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_12.png"
-        },
-        {
-            "CODIGO": "13",
+            "CODIGO": "74",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Fun",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia13\/iconoTipologia13.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia13\/imgTipologia13.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia74\/iconoTipologia74.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia74\/imgTipologia74.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#00698c",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_13.png"
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_74.png"
         },
         {
-            "CODIGO": "14",
+            "CODIGO": "75",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Religious",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia75\/iconoTipologia75.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia75\/imgTipologia75.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_75.png"
+        },
+        {
+            "CODIGO": "76",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Bogot\u00e1 Green",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/iconoTipologia76.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/imgTipologia76.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_76.png"
+        },
+        {
+            "CODIGO": "77",
+            "COD_CLASIFICACION": "3",
+            "NOMBRE": "Luxury",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia77\/iconoTipologia77.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia77\/imgTipologia77.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_77.png"
+        },
+        {
+            "CODIGO": "78",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Golf",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia14\/iconoTipologia14.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia14\/imgTipologia14.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/iconoTipologia78.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/imgTipologia78.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#0083b3",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_14.png"
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_78.png"
         }
     ],
     "4": [
         {
             "CODIGO": "16",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Accommodation",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+            "NOMBRE": "Where to stay?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#0086b2",
+            "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_16.png"
-        },
-        {
-            "CODIGO": "17",
-            "COD_CLASIFICACION": "4",
-            "NOMBRE": "Receptive Operators",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia17\/iconoTipologia17.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia17\/imgTipologia17.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#008c23",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_17.png"
-        },
-        {
-            "CODIGO": "18",
-            "COD_CLASIFICACION": "4",
-            "NOMBRE": "Travel Agencies",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia18\/iconoTipologia18.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia18\/imgTipologia18.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#d96d00",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_18.png"
         },
         {
             "CODIGO": "19",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Restaurants",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia19\/iconoTipologia19.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia19\/imgTipologia19.png",
+            "NOMBRE": "Where to eat?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/iconoTipologia19.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/imgTipologia19.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#660000",
+            "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_19.png"
         },
         {
             "CODIGO": "20",
             "COD_CLASIFICACION": "4",
-            "NOMBRE": "Sites Rumba",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia20\/imgTipologia20.png",
+            "NOMBRE": "Where to party?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia20\/iconoTipologia20.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia20\/imgTipologia20.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#69008c",
+            "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_20.png"
+        },
+        {
+            "CODIGO": "59",
+            "COD_CLASIFICACION": "4",
+            "NOMBRE": "Where to change money?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia59\/iconoTipologia59.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia59\/imgTipologia59.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_59.png"
+        },
+        {
+            "CODIGO": "65",
+            "COD_CLASIFICACION": "4",
+            "NOMBRE": "Who to reserve a tour?",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_65.png"
         }
     ],
     "5": [
         {
-            "CODIGO": "21",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Embassies and Consulates",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia21\/iconoTipologia21.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia21\/imgTipologia21.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_21.png"
-        },
-        {
-            "CODIGO": "22",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Financial Services",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia22\/iconoTipologia22.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia22\/imgTipologia22.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_22.png"
-        },
-        {
-            "CODIGO": "23",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Institutional Information",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia23\/iconoTipologia23.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia23\/imgTipologia23.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_23.png"
-        },
-        {
-            "CODIGO": "24",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Tourist Information Points",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia24\/iconoTipologia24.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia24\/imgTipologia24.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_24.png"
-        },
-        {
-            "CODIGO": "25",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Transport",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia25\/iconoTipologia25.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia25\/imgTipologia25.png",
-            "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_25.png"
-        },
-        {
-            "CODIGO": "26",
-            "COD_CLASIFICACION": "5",
-            "NOMBRE": "Emergency Phones",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia26\/iconoTipologia26.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Tipologia26\/imgTipologia26.png",
-            "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#e2423b",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_26.png"
-        },
-        {
             "CODIGO": "27",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Currency Converter",
-            "ICONO": "",
-            "IMAGEN": "",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia27\/iconoTipologia27.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia27\/imgTipologia27.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_27.png"
+        },
+        {
+            "CODIGO": "81",
+            "COD_CLASIFICACION": "5",
+            "NOMBRE": "Useful Phones",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia81\/iconoTipologia81.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia81\/imgTipologia81.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_81.png"
+        },
+        {
+            "CODIGO": "82",
+            "COD_CLASIFICACION": "5",
+            "NOMBRE": "Tourist Information Points",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/iconoTipologia82.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/imgTipologia82.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_82.png"
+        },
+        {
+            "CODIGO": "83",
+            "COD_CLASIFICACION": "5",
+            "NOMBRE": "Transport",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/iconoTipologia83.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/imgTipologia83.png",
+            "TIENE_SUBTIPOLOGIA": "1",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_83.png"
+        },
+        {
+            "CODIGO": "84",
+            "COD_CLASIFICACION": "5",
+            "NOMBRE": "Embassies and Consulates",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia84\/iconoTipologia84.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia84\/imgTipologia84.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_84.png"
+        },
+        {
+            "CODIGO": "85",
+            "COD_CLASIFICACION": "5",
+            "NOMBRE": "Institutional Information",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia85\/iconoTipologia85.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia85\/imgTipologia85.png",
+            "TIENE_SUBTIPOLOGIA": "0",
+            "backgroundColor": "#000000",
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_85.png"
         }
     ]
 }

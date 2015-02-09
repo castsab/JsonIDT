@@ -1,17 +1,17 @@
 {
-    "31": [
+    "124": [
         {
-            "CODIGO": "355",
-            "NOMBRE": "SPLENDOR APARTAHOTEL",
+            "CODIGO": "532",
+            "NOMBRE": "Chivas City Tours",
             "DESCRIPCION": "",
-            "DIRECCION": "CL 22 B 43 A 32",
-            "TELEFONO": "2447890",
-            "CORREO": "reservarapartahotelsplendor@gmail.com",
-            "URL": "www.hotelsplendorbogota.com",
+            "DIRECCION": "Carrera 6 No 12 - 13 Sur",
+            "TELEFONO": "",
+            "CORREO": "",
+            "URL": "NA",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "Menos de $ 150.000",
-            "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png",
+            "PRECIO_PROMEDIO": "No Aplica",
+            "HORARIO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador532\/imgPrestador532-0.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,7 +22,7 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador532\/imgPrestador532-0.png"
             ]
         }
     ]

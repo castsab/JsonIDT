@@ -1,17 +1,17 @@
 {
-    "31": [
+    "30": [
         {
-            "CODIGO": "355",
-            "NOMBRE": "SPLENDOR APARTAHOTEL",
+            "CODIGO": "236",
+            "NOMBRE": "HOSTAL COLONIAL LA QUINTA",
             "DESCRIPCION": "",
-            "DIRECCION": "CL 22 B 43 A 32",
-            "TELEFONO": "2447890",
-            "CORREO": "reservarapartahotelsplendor@gmail.com",
-            "URL": "www.hotelsplendorbogota.com",
+            "DIRECCION": "CL 12 B BIS 1 23",
+            "TELEFONO": "2847696",
+            "CORREO": "info@hostallaquinta.com",
+            "URL": "www.hostal-laquinta.com",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,7 +22,7 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png"
             ]
         }
     ]

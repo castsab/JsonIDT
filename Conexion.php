@@ -5,7 +5,7 @@ class Conexion {
     private $servidor = 'localhost';
     private $usuario = 'root';
     private $password = '';
-    private $base_datos = 'idt';
+    private $base_datos = 'idt_pro';
     private $link;
     private $stmt;
     static $_instance;

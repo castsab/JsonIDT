@@ -1,17 +1,17 @@
 {
-    "29": [
+    "168": [
         {
-            "CODIGO": "29",
-            "NOMBRE": "HOTEL DANN NORTE",
-            "DESCRIPCION": "NA",
-            "DIRECCION": "KR 15 112 09",
-            "TELEFONO": "6374377",
-            "CORREO": "servcioalcliente@dannnorte.comco",
-            "URL": "www.hotelesdann.com",
+            "CODIGO": "987",
+            "NOMBRE": "Aviatur Centro Internacional",
+            "DESCRIPCION": "",
+            "DIRECCION": "Calle 28 No 13 A - 63 Piso 1",
+            "TELEFONO": "",
+            "CORREO": "",
+            "URL": "NA",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
-            "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png",
+            "PRECIO_PROMEDIO": "No Aplica",
+            "HORARIO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador987\/imgPrestador987-0.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -22,21 +22,21 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador987\/imgPrestador987-0.png"
             ]
         },
         {
-            "CODIGO": "324",
-            "NOMBRE": "HOTEL HILTON BOGOT\u00c1",
-            "DESCRIPCION": "NA",
-            "DIRECCION": "KR 7 72 41",
-            "TELEFONO": "6006100",
+            "CODIGO": "1169",
+            "NOMBRE": "Avianca S.A.",
+            "DESCRIPCION": "",
+            "DIRECCION": "Carrera 7 No 70 - 16",
+            "TELEFONO": "",
             "CORREO": "",
-            "URL": "www.hiltonbogota.com",
+            "URL": "www.avianca.com",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
-            "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png",
+            "PRECIO_PROMEDIO": "No Aplica",
+            "HORARIO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador1169\/imgPrestador1169-0.png",
             "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
             "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
             "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
@@ -47,7 +47,7 @@
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador1169\/imgPrestador1169-0.png"
             ]
         }
     ]

@@ -11,22 +11,17 @@
     },
     {
         "CODIGO": "3",
-        "NOMBRE": "ATRACCIONES TUR\u00cdSTICAS",
+        "NOMBRE": "\u00bfQU\u00c9 HACER?",
         "backgroundColor": "#668439"
     },
     {
         "CODIGO": "4",
-        "NOMBRE": "DIRECTORIO DE PRESTADORES",
+        "NOMBRE": "PLANEA TU VISITA",
         "backgroundColor": "#E03D76"
     },
     {
         "CODIGO": "5",
-        "NOMBRE": "SERVICIOS AL TURISTA",
+        "NOMBRE": "INFORMACI\u00d3N A LA MANO",
         "backgroundColor": "#D48528"
-    },
-    {
-        "CODIGO": "7",
-        "NOMBRE": "AGENDA DE LA CIUDAD",
-        "backgroundColor": "#7F3F97"
     }
 ]
