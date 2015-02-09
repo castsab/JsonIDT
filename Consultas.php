@@ -43,7 +43,7 @@ class Consultas extends Conexion {
         $this->_validarServer = $this->getServidor();
         
         if($this->_validarServer == 1){
-            $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/master";
+            $this->_dominioServer = "https://raw.githubusercontent.com/castsab/JsonIDT/idt-test";
         }else{
             $this->_dominioServer = "http://pruebacidt.bogota.gov.co";
         }
