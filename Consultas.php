@@ -302,7 +302,8 @@ class Consultas extends Conexion {
             return true;
         }
         
-        $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen,'1');
+        $rgb_fondo = $this->getObtenerRgbImagenFondo($rutaImagen);
+        
         $COLOR_FONDO = $this->getRgbConvertirAHexadecimal($rgb_fondo);
         $valorRgb = ''; 
         $a_valorRgb = array();
@@ -336,7 +337,7 @@ class Consultas extends Conexion {
          return $a_rgb[$clave]['rgb'];
      }
      
-    public function getObtenerRgbImagenFondo($rutaImagen,$val=''){
+    public function getObtenerRgbImagenFondo($rutaImagen){
         
          if(empty($rutaImagen))
          {

@@ -149,7 +149,6 @@ class Json extends Consultas {
                 
                 if(!empty($row['NOMBRE']))
                 {
-                
                     $rgb = $this->getObtenerRgbImagen($this->setRutaImagenServidor($row['ICONO']));
                     $COLOR_FILA = $this->getRgbConvertirAHexadecimal($rgb);
 
@@ -529,15 +528,6 @@ class Json extends Consultas {
 
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['IMAGEN'] = utf8_encode($this->setUrlImagen($img_prestador));
                     
-                    //iconos
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = $this->_dominioServer."/imagenes/ico_dir.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = $this->_dominioServer."/imagenes/ico_tel.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_HORARIO'] = $this->_dominioServer."/imagenes/ico_hor.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_MAIL'] = $this->_dominioServer."/imagenes/imagenes/ico_mail.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_PRECIO'] = $this->_dominioServer."/imagenes/ico_precio.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_TRANS'] = $this->_dominioServer."/imagenes/ico_trans.png";
-                    $a_prestadores_subtipologias[$rw['CODIGO']][$j]['ICONO_WEB'] = $this->_dominioServer."/imagenes/ico_web.png";
-                    
                     $a_prestadores_subtipologias[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
                     
                     if(empty($row['URL_AUDIO']))
@@ -655,15 +645,6 @@ class Json extends Consultas {
                     $a_ruta_prestador[$rw['CODIGO']][$j]['PRECIO_PROMEDIO'] = utf8_encode($row['PRECIO_PROMEDIO']);
                     $a_ruta_prestador[$rw['CODIGO']][$j]['HORARIO'] = utf8_encode($row['HORARIO']);
 
-                    //iconos
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_DIRECCION'] = $this->_dominioServer."/imagenes/ico_dir.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TELEFONO'] = $this->_dominioServer."/imagenes/ico_tel.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_HORARIO'] = $this->_dominioServer."/imagenes/ico_hor.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_MAIL'] = $this->_dominioServer."/imagenes/ico_mail.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_PRECIO'] = $this->_dominioServer."/imagenes/ico_precio.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_TRANS'] = $this->_dominioServer."/imagenes/ico_trans.png";
-                    $a_ruta_prestador[$rw['CODIGO']][$j]['ICONO_WEB'] = $this->_dominioServer."/imagenes/ico_web.png";
-                    
                     $a_ruta_prestador[$rw['CODIGO']][$j]['URL_VIDEO'] = utf8_encode($row['URL_VIDEO']);
                     $a_ruta_prestador[$rw['CODIGO']][$j]['URL_AUDIO'] = utf8_encode($this->setUrlImagen($row['URL_AUDIO']));
                     
@@ -948,7 +929,7 @@ class Json extends Consultas {
     public function setRutaImagenServidor($rutaImagen){
         
         $delimitador = '';
-        $rutaImagen = '';
+        $rutaImagenServidor = '';
         
         $delimitador = $this->_delimitador;
         
@@ -960,13 +941,17 @@ class Json extends Consultas {
                 $a_str[1] = '';
             }
 
-            $rutaImagen = $delimitador.''.$a_str[1];
+            $rutaImagenServidor = $delimitador.''.$a_str[1];
             
         }
         
-        //echo '<br>(rutaImagen) -> '.$rutaImagen.'<br>';
+        if (!file_exists($rutaImagenServidor)) {
+            $rutaImagenServidor = "";
+        }
         
-        return $rutaImagen;
+        //echo '<br>Part 2 (rutaImagen) -> '.$rutaImagenServidor.'<br>';
+        
+        return $rutaImagenServidor;
     }
 }
 

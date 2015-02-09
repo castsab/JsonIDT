@@ -8,7 +8,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia1\/iconoTipologia1.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#00661a",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_1.png"
         },
         {
@@ -18,7 +18,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia6\/iconoTipologia6.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia6\/imgTipologia6.png",
             "TIENE_SUBTIPOLOGIA": "0",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#47c0ed",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_6.png"
         },
         {
@@ -28,7 +28,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia51\/iconoTipologia51.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia51\/imgTipologia51.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#008c23",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_51.png"
         },
         {
@@ -50,7 +50,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia4\/iconoTipologia4.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia4\/imgTipologia4.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#b200b2",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_4.png"
         },
         {
@@ -60,7 +60,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia5\/iconoTipologia5.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia5\/imgTipologia5.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#ff2626",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_5.png"
         },
         {
@@ -162,7 +162,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#0086b2",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_16.png"
         },
         {
@@ -172,7 +172,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia19\/iconoTipologia19.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia19\/imgTipologia19.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#660000",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_19.png"
         },
         {
@@ -182,7 +182,7 @@
             "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia20\/iconoTipologia20.png",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia20\/imgTipologia20.png",
             "TIENE_SUBTIPOLOGIA": "1",
-            "backgroundColor": "#000000",
+            "backgroundColor": "#69008c",
             "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_20.png"
         },
         {
