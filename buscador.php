@@ -3,9 +3,9 @@
 header ("Content-Type:text/json");
 
 include_once 'Json.php';
-$C_Json = new Json();
 
-$rs = $C_Json->getIdiomas();
+//$C_Json = new Json();
+//$rs = $C_Json->getIdiomas();
 
 $codigo_idioma = '1';
 

@@ -20,6 +20,8 @@ class Consultas extends Conexion {
     public $_validarServer = '';
     public $_dominioServer = '';
     public $_TB_ETIQUETA = '';
+    public $_delimitador = '';
+    public $_codigoTelefono = '';
     
     public function __construct() {
         
@@ -35,6 +37,8 @@ class Consultas extends Conexion {
         $this->_TB_TRADUCCION = 'TRADUCCION';
         $this->_TB_RUTA_PRESTADOR = 'RUTA_PRESTADOR';
         $this->_TB_ETIQUETA = 'ETIQUETA';
+        $this->_delimitador = 'imgAudioIDT';
+        $this->_codigoTelefono = 81;
         
         $this->_validarServer = $this->getServidor();
         

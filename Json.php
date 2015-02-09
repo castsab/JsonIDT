@@ -745,7 +745,7 @@ class Json extends Consultas {
         
         $rutaArchivo = ($codigo_idioma == 1)?"Json/telefono_emergencia.json":"Json_".$codigo_idioma."/telefono_emergencia.json";
         
-        $rs = $this->getSubTipologias(array('COD_TIPOLOGIA'=>'81'));
+        $rs = $this->getSubTipologias(array('COD_TIPOLOGIA'=>$this->_codigoTelefono));
         
         $row = mysqli_fetch_array($rs);
         
@@ -885,7 +885,7 @@ class Json extends Consultas {
         $delimitador = '';
         $urlImagen = '';
         
-        $delimitador = 'imgAudioIDT';
+        $delimitador = $this->_delimitador;
         
         if(!empty($rutaImagen))
         {
@@ -900,6 +900,8 @@ class Json extends Consultas {
             $urlImagen = $this->_dominioServer.'/'.$delimitador.''.$a_str[1];
             
         }
+        
+        //echo '<br>(setUrlImagen) -> '.$urlImagen.'<br>';
         
         return $urlImagen;
     }
@@ -948,7 +950,7 @@ class Json extends Consultas {
         $delimitador = '';
         $rutaImagen = '';
         
-        $delimitador = 'imgAudioIDT';
+        $delimitador = $this->_delimitador;
         
         if(!empty($rutaImagen)){
             
