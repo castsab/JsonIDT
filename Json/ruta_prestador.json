@@ -4,7 +4,7 @@
         {
             "CODIGO_PRESTADOR": "29",
             "NOMBRE": "HOTEL DANN NORTE",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png",
             "UBICACION": "-74.0324679961,4.6928500114",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 112 09",
@@ -13,23 +13,23 @@
             "URL": "www.hotelesdann.com",
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
-            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
-            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
-            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
-            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
-            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
-            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
+            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_dir.png",
+            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png",
+            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_hor.png",
+            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_mail.png",
+            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_precio.png",
+            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_trans.png",
+            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador29\/imgPrestador29-0.png"
             ]
         },
         {
             "CODIGO_PRESTADOR": "324",
             "NOMBRE": null,
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png",
             "UBICACION": "-74.0537540068422,4.65777652286795",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 7 72 41",
@@ -38,23 +38,23 @@
             "URL": "www.hiltonbogota.com",
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
-            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
-            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
-            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
-            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
-            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
-            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
+            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_dir.png",
+            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png",
+            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_hor.png",
+            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_mail.png",
+            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_precio.png",
+            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_trans.png",
+            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador324\/imgPrestador324-0.png"
             ]
         },
         {
             "CODIGO_PRESTADOR": "236",
             "NOMBRE": "HOSTAL COLONIAL LA QUINTA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png",
             "UBICACION": "-74.0697721590791,4.59604080345204",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 B BIS 1 23",
@@ -63,17 +63,17 @@
             "URL": "www.hostal-laquinta.com",
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_dir.png",
-            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png",
-            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_hor.png",
-            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_mail.png",
-            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_precio.png",
-            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_trans.png",
-            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_web.png",
+            "ICONO_DIRECCION": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_dir.png",
+            "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png",
+            "ICONO_HORARIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_hor.png",
+            "ICONO_MAIL": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_mail.png",
+            "ICONO_PRECIO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_precio.png",
+            "ICONO_TRANS": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_trans.png",
+            "ICONO_WEB": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_web.png",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png"
             ]
         }
     ]

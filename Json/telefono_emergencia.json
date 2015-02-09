@@ -3,18 +3,18 @@
         "ID": 0,
         "NOMBRE_TELEFONO": "L\u00ednea de atenci\u00f3n tur\u00edstica",
         "NUMERO_TELEFONO": "01 8000 127400",
-        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png"
     },
     {
         "ID": 1,
         "NOMBRE_TELEFONO": "L\u00ednea de emergencias",
         "NUMERO_TELEFONO": "123",
-        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png"
     },
     {
         "ID": 2,
         "NOMBRE_TELEFONO": "L\u00ednea de atenci\u00f3n al ciudadano",
         "NUMERO_TELEFONO": "195",
-        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/ico_tel.png"
+        "ICONO_TELEFONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/ico_tel.png"
     }
 ]

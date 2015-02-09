@@ -6,12 +6,12 @@
             "CODIGO_ZONA": "1",
             "NOMBRE": "\u00bfD\u00f3nde dormir?",
             "DESCRIPCION": "Se pueden encontrar las diversas alternativas que ofrece bogot\u00e1 en alojamiento, desde hostales, hoteles, apartahoteles, entre otros.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "4": [
@@ -20,12 +20,12 @@
             "CODIGO_ZONA": "4",
             "NOMBRE": "\u00bfD\u00f3nde dormir?",
             "DESCRIPCION": "Se pueden encontrar las diversas alternativas que ofrece bogot\u00e1 en alojamiento, desde hostales, hoteles, apartahoteles, entre otros.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "5": [
@@ -34,24 +34,24 @@
             "CODIGO_ZONA": "5",
             "NOMBRE": "\u00bfD\u00f3nde dormir?",
             "DESCRIPCION": "Se pueden encontrar las diversas alternativas que ofrece bogot\u00e1 en alojamiento, desde hostales, hoteles, apartahoteles, entre otros.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         },
         {
             "CODIGO": "65",
             "CODIGO_ZONA": "5",
             "NOMBRE": "\u00bfCon qui\u00e9n reservar un tour?",
             "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_65.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_65.png"
         }
     ],
     "6": [
@@ -60,12 +60,12 @@
             "CODIGO_ZONA": "6",
             "NOMBRE": "\u00bfCon qui\u00e9n reservar un tour?",
             "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_65.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_65.png"
         }
     ],
     "8": [
@@ -74,12 +74,12 @@
             "CODIGO_ZONA": "8",
             "NOMBRE": "\u00bfD\u00f3nde dormir?",
             "DESCRIPCION": "Se pueden encontrar las diversas alternativas que ofrece bogot\u00e1 en alojamiento, desde hostales, hoteles, apartahoteles, entre otros.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_16.png"
         }
     ],
     "10": [
@@ -88,12 +88,12 @@
             "CODIGO_ZONA": "10",
             "NOMBRE": "\u00bfCon qui\u00e9n reservar un tour?",
             "DESCRIPCION": "Proin lacinia, nunc in rhoncus venenatis, orci sem egestas odio, sed ornare ex lectus quis felis. Ut laoreet eleifend velit, vitae lobortis nisi vehicula eget. Nunc tristique eros et scelerisque hendrerit. Quisque in orci a nisi iaculis auctor nec eu felis. Vivamus sodales nulla quam, non fermentum leo aliquet in.",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
             "COD_CLASIFICACION": "4",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZonaTipologia_65.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZonaTipologia_65.png"
         }
     ]
 }

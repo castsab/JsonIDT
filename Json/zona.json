@@ -4,121 +4,121 @@
         "CODIGO": "1",
         "NOMBRE": "Centro Hist\u00f3rico",
         "DESCRIPCION": "Comprende el Centro de la ciudad",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona1\/imgZona1.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona1\/imgZona1.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#5f87ad",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_1.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_1.png"
     },
     "1": {
         "CODIGO": "2",
         "NOMBRE": "Usaquen",
         "DESCRIPCION": "Comprende el parque de esa localidad",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona2\/imgZona2.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona2\/imgZona2.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#185c92",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_2.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_2.png"
     },
     "2": {
         "CODIGO": "3",
         "NOMBRE": "Zona T y Parque 93",
         "DESCRIPCION": "Comprende desde Centro Andino hasta la caracas",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona3\/imgZona3.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona3\/imgZona3.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#0885c4",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_3.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_3.png"
     },
     "3": {
         "CODIGO": "4",
         "NOMBRE": "Calle 100",
         "DESCRIPCION": "Comprende la calle 100 hasta no se",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona4\/imgZona4.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona4\/imgZona4.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#12b5a5",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_4.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_4.png"
     },
     "4": {
         "CODIGO": "5",
         "NOMBRE": "Zona G y Calle 72",
         "DESCRIPCION": "Comprende la Calle 72 hasta no se",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona5\/imgZona5.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona5\/imgZona5.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#199188",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_5.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_5.png"
     },
     "5": {
         "CODIGO": "6",
         "NOMBRE": "Centro Internacional y La Macarena",
         "DESCRIPCION": "Comprende el Hotel Tequendama",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona6\/imgZona6.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona6\/imgZona6.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#1a8e64",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_6.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_6.png"
     },
     "6": {
         "CODIGO": "7",
         "NOMBRE": "Teusaquillo",
         "DESCRIPCION": "Comprende el Parkway",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona7\/imgZona7.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona7\/imgZona7.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#1b8943",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_7.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_7.png"
     },
     "7": {
         "CODIGO": "8",
         "NOMBRE": "Salitre",
         "DESCRIPCION": "Comprende la Gobernaci\u00f3n de Cundinamarca hasta la Av Boyaca",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona8\/imgZona8.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona8\/imgZona8.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#0b890b",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_8.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_8.png"
     },
     "8": {
         "CODIGO": "9",
         "NOMBRE": "Galer\u00edas-Camp\u00edn",
         "DESCRIPCION": "Comprende las zonas del estadio Nemesio Camacho",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona9\/imgZona9.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona9\/imgZona9.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#698c0a",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_9.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_9.png"
     },
     "9": {
         "CODIGO": "10",
         "NOMBRE": "20 de Julio",
         "DESCRIPCION": "20 de Julio",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona10\/imgZona10.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona10\/imgZona10.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#89620b",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_10.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_10.png"
     },
     "10": {
         "CODIGO": "11",
         "NOMBRE": "Aeropuerto",
         "DESCRIPCION": "Aeropuerto",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona11\/imgZona11.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona11\/imgZona11.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#844b0d",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_11.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_11.png"
     },
     "11": {
         "CODIGO": "12",
         "NOMBRE": "Alrededores",
         "DESCRIPCION": "Alrededores",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Zona12\/imgZona12.png",
+        "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Zona12\/imgZona12.png",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#82190f",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_12.png"
     },
     "12": {
         "CODIGO": "13",
@@ -128,6 +128,6 @@
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "",
-        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloZona_12.png"
+        "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloZona_12.png"
     }
 }

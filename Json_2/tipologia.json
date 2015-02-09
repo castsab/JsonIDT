@@ -5,41 +5,41 @@
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Why Bogot\u00e1?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/iconoTipologia1.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia1\/imgTipologia1.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia1\/iconoTipologia1.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_1.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_1.png"
         },
         {
             "CODIGO": "6",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Top 10",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia6\/iconoTipologia6.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia6\/imgTipologia6.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia6\/iconoTipologia6.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia6\/imgTipologia6.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_6.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_6.png"
         },
         {
             "CODIGO": "51",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Is your first visit?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/iconoTipologia51.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia51\/imgTipologia51.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia51\/iconoTipologia51.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia51\/imgTipologia51.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_51.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_51.png"
         },
         {
             "CODIGO": "58",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Imperdible",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia58\/iconoTipologia58.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia58\/imgTipologia58.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_58.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_58.png"
         }
     ],
     "3": [
@@ -47,111 +47,111 @@
             "CODIGO": "4",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Tourist Route",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia4\/iconoTipologia4.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia4\/imgTipologia4.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia4\/iconoTipologia4.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia4\/imgTipologia4.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_4.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_4.png"
         },
         {
             "CODIGO": "5",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Today Schedule",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/iconoTipologia5.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia5\/imgTipologia5.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia5\/iconoTipologia5.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia5\/imgTipologia5.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_5.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_5.png"
         },
         {
             "CODIGO": "70",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Free Places",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia70\/iconoTipologia70.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia70\/imgTipologia70.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia70\/iconoTipologia70.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia70\/imgTipologia70.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_70.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_70.png"
         },
         {
             "CODIGO": "71",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Culture",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/iconoTipologia71.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia71\/imgTipologia71.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia71\/iconoTipologia71.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia71\/imgTipologia71.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_71.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_71.png"
         },
         {
             "CODIGO": "72",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Shopping",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/iconoTipologia72.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia72\/imgTipologia72.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia72\/iconoTipologia72.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia72\/imgTipologia72.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_72.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_72.png"
         },
         {
             "CODIGO": "73",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Gastronomic",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia73\/iconoTipologia73.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia73\/imgTipologia73.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia73\/iconoTipologia73.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia73\/imgTipologia73.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_73.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_73.png"
         },
         {
             "CODIGO": "74",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Fun",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia74\/iconoTipologia74.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia74\/imgTipologia74.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia74\/iconoTipologia74.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia74\/imgTipologia74.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_74.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_74.png"
         },
         {
             "CODIGO": "75",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Religious",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia75\/iconoTipologia75.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia75\/imgTipologia75.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia75\/iconoTipologia75.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia75\/imgTipologia75.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_75.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_75.png"
         },
         {
             "CODIGO": "76",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Bogot\u00e1 Green",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/iconoTipologia76.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia76\/imgTipologia76.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia76\/iconoTipologia76.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia76\/imgTipologia76.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_76.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_76.png"
         },
         {
             "CODIGO": "77",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Luxury",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia77\/iconoTipologia77.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia77\/imgTipologia77.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia77\/iconoTipologia77.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia77\/imgTipologia77.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_77.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_77.png"
         },
         {
             "CODIGO": "78",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Golf",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/iconoTipologia78.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia78\/imgTipologia78.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia78\/iconoTipologia78.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia78\/imgTipologia78.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_78.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_78.png"
         }
     ],
     "4": [
@@ -159,51 +159,51 @@
             "CODIGO": "16",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Where to stay?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/iconoTipologia16.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia16\/imgTipologia16.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_16.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_16.png"
         },
         {
             "CODIGO": "19",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Where to eat?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/iconoTipologia19.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia19\/imgTipologia19.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia19\/iconoTipologia19.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia19\/imgTipologia19.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_19.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_19.png"
         },
         {
             "CODIGO": "20",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Where to party?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia20\/iconoTipologia20.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia20\/imgTipologia20.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia20\/iconoTipologia20.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia20\/imgTipologia20.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_20.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_20.png"
         },
         {
             "CODIGO": "59",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Where to change money?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia59\/iconoTipologia59.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia59\/imgTipologia59.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia59\/iconoTipologia59.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia59\/imgTipologia59.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_59.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_59.png"
         },
         {
             "CODIGO": "65",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Who to reserve a tour?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/iconoTipologia65.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia65\/imgTipologia65.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_65.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_65.png"
         }
     ],
     "5": [
@@ -211,61 +211,61 @@
             "CODIGO": "27",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Currency Converter",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia27\/iconoTipologia27.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia27\/imgTipologia27.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia27\/iconoTipologia27.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia27\/imgTipologia27.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_27.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_27.png"
         },
         {
             "CODIGO": "81",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Useful Phones",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia81\/iconoTipologia81.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia81\/imgTipologia81.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia81\/iconoTipologia81.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia81\/imgTipologia81.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_81.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_81.png"
         },
         {
             "CODIGO": "82",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Tourist Information Points",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/iconoTipologia82.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia82\/imgTipologia82.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia82\/iconoTipologia82.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia82\/imgTipologia82.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_82.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_82.png"
         },
         {
             "CODIGO": "83",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Transport",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/iconoTipologia83.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia83\/imgTipologia83.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia83\/iconoTipologia83.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia83\/imgTipologia83.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_83.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_83.png"
         },
         {
             "CODIGO": "84",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Embassies and Consulates",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia84\/iconoTipologia84.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia84\/imgTipologia84.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia84\/iconoTipologia84.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia84\/imgTipologia84.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_84.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_84.png"
         },
         {
             "CODIGO": "85",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Institutional Information",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia85\/iconoTipologia85.png",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imgAudioIDT\/Tipologia85\/imgTipologia85.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia85\/iconoTipologia85.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Tipologia85\/imgTipologia85.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#000000",
-            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/iconoTrianguloTipologia_85.png"
+            "RUTA_TRIANGULO": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imagenes\/iconoTrianguloTipologia_85.png"
         }
     ]
 }
