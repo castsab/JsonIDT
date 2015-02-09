@@ -1,21 +1,21 @@
 {
     "31": [
         {
-            "CODIGO": "355",
-            "NOMBRE": "SPLENDOR APARTAHOTEL",
-            "DESCRIPCION": "NA",
-            "DIRECCION": "CL 22 B 43 A 32",
-            "TELEFONO": "2447890",
-            "CORREO": "reservarapartahotelsplendor@gmail.com",
-            "URL": "www.hotelsplendorbogota.com",
+            "CODIGO": "413",
+            "NOMBRE": "prueba prestador22",
+            "DESCRIPCION": "uuuuuuuuuerererer",
+            "DIRECCION": "dir",
+            "TELEFONO": "3242367676",
+            "CORREO": "aaabbbb@com.co",
+            "URL": "eswerrrrrrerererere",
             "UBICACION": null,
-            "PRECIO_PROMEDIO": "Menos de $ 150.000",
-            "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png",
+            "PRECIO_PROMEDIO": "3242345",
+            "HORARIO": "",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador413\/imgPrestador413-0.png",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador355\/imgPrestador355-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD\/Prestador413\/imgPrestador413-0.png"
             ]
         }
     ]

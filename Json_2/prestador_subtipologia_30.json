@@ -11,11 +11,11 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador236\/imgPrestador236-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD"
             ]
         }
     ]

@@ -6,5 +6,9 @@
     {
         "CODIGO_IDIOMA": "2",
         "NOMBRE": "Ingles"
+    },
+    {
+        "CODIGO_IDIOMA": "3",
+        "NOMBRE": "Alem\u00e1n"
     }
 ]

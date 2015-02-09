@@ -882,7 +882,7 @@ class Json extends Consultas {
             
         }
         
-        //echo '<br>(setUrlImagen) -> '.$urlImagen.'<br>';
+        //echo '<br>part 2 (setUrlImagen) -> '.$urlImagen.'<br>';
         
         return $urlImagen;
     }

@@ -11,11 +11,11 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "No Aplica",
             "HORARIO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador987\/imgPrestador987-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador987\/imgPrestador987-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD"
             ]
         },
         {
@@ -29,11 +29,11 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "No Aplica",
             "HORARIO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador1169\/imgPrestador1169-0.png",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD",
             "URL_VIDEO": "",
             "URL_AUDIO": "",
             "FOTOS": [
-                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/idt-test\/imgAudioIDT\/Prestador1169\/imgPrestador1169-0.png"
+                "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenesBD"
             ]
         }
     ]
