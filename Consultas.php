@@ -451,7 +451,7 @@ class Consultas extends Conexion {
                     p.URL,
                     p.PRECIO_PROMEDIO,
                     p.HORARIO,
-                    P.URL_VIDEO,
+                    p.URL_VIDEO,
                     p.URL_AUDIO
                 from 
                     '.$this->_TB_RUTA_PRESTADOR.' rp inner join '.$this->_TB_PRESTADOR.' p on rp.CODIGO_PRESTADOR=p.CODIGO '.$cond.' ';
